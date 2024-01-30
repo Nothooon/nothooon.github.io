@@ -20,9 +20,9 @@ Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y i
 
 ### Full Summary:
 
-- [Final Fantasy 1](./2024-01-30-final_fantasy_1.md): 11h54
-- [Final Fantasy 2](./2024-01-30-final_fantasy_1.md) : 8h41
-- [Final Fantasy 3](./2024-01-30-final_fantasy_1.md): 9h48 (~11h en incluant les game overs)
+- [Final Fantasy 1]( {{ site.url }}/fr/posts/final_fantasy_1 ): 11h54
+- [Final Fantasy 2]() : 8h41
+- [Final Fantasy 3](): 9h48 (~11h en incluant les game overs)
 - Final Fantasy 4: 11h36 (15h de jeu en vrai parce que Game Over et 2h de jeu perdues à cause d'un pb de sauvegarde)
 - Final Fantasy 5: Pas encore lancé
 - Final Fantasy 6: Pas encore lancé
