@@ -45,6 +45,11 @@ jobs:
           ruby-version: 3.2
           bundler-cache: true
 
+      - name: Install Gems
+        run: bundle install
+        env:
+          JEKYLL_ENV: "production"
+
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
