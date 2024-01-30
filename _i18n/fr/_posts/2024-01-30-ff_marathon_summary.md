@@ -1,13 +1,22 @@
 ---
 layout: post
-title:  "Final Fantasy Marathon: Summary and Playtime"
+title:  "Final Fantasy Marathon: Sommaire et temps de jeu"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 pin: true
+language: fr
 ---
 
-Here is the full list of games I will or have play(ed) during my Final Fantasy Marathon.
-When I complete an entry, I'll update this summary to include my playtime, and when an article is written about that entry, I'll also link it here.
+{% if site.lang == "fr" %}
+  {% capture french_link %}{{ site.url }}{{ page.url }}{% endcapture %}
+  <a href="{{ french_link }}" >{% t pages.english_article %}</a>
+{% elsif site.lang == "en" %}
+  {% capture english_link %}{{ site.url }}/fr{{ page.url }}{% endcapture %}
+ <a href="{{ english_link }}" >{% t pages.french_article %}</a>
+{% endif %}
+
+Voici la liste complète des jeux auxquels je jouerai pendant ce marathon.
+Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y inclure mon temps de jeu.
 
 ### Full Summary:
 
@@ -29,6 +38,6 @@ When I complete an entry, I'll update this summary to include my playtime, and w
 - Final Fantasy 13-1: Pas encore lancé
 - Final Fantasy 13-2: Pas encore lancé
 - Final Fantasy 13-3:  Pas encore lancé
-- Final Fantasy 14: J'en parlerai en temps et en heure
+- Final Fantasy 14: J'ai déjà joué au jeu avant ce marathon, j'en parlerai en temps et en heure
 - Final Fantasy 15: Pas encore lancé
-- Final Fantasy 16: J'en parlerai en temps et en heure
+- Final Fantasy 16: J'ai déjà joué au jeu avant ce marathon, j'en parlerai en temps et en heure

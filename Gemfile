@@ -25,3 +25,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "racc", "~> 1.7.3"
 
 gem "sass-embedded", "~> 1.69.5"
+
+gem 'jekyll-multiple-languages-plugin'

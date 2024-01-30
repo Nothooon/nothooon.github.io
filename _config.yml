@@ -1,5 +1,9 @@
 # The Site Configuration
 
+# Languages
+languages: ["en", "fr"]
+exclude_from_localizations: ["javascript", "images", "css"]
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -196,3 +200,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-multiple-languages-plugin
