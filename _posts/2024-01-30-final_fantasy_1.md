@@ -4,7 +4,12 @@ title:  "Final Fantasy 1: Humble Begginings"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2023-10-16"
+lang: en
+image:
+  path: /assets/img/posts_preview_images/ff1_logo.png
+  alt: Final Fantasy 1 Logo # or base64 URI
 ---
+
 > I played the game with x4 exp and gils and I used a guide after a third of the game approximately
 {: .prompt-info }
 
