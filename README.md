@@ -11,6 +11,10 @@ Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installat
 the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 Then, follow [Chirpy's install guide](https://chirpy.cotes.page/posts/getting-started/)
 
+## Usefull stuff:
+
+[Chirpy's Documentation](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)
+
 ## License
 
 This work is published under [MIT][mit] License.
