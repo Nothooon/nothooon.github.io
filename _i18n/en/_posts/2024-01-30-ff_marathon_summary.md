@@ -20,24 +20,25 @@ When I complete an entry, I'll update this summary to include my playtime, and w
 
 ### Full Summary:
 
-- [Final Fantasy 1]( {{ site.url }}/posts/final_fantasy_1 ): 11h54
-- Final Fantasy 2: 8h41
-- Final Fantasy 3: 9h48 (~11h en incluant les game overs)
-- Final Fantasy 4: 11h36 (15h de jeu en vrai parce que Game Over et 2h de jeu perdues à cause d'un pb de sauvegarde)
-- Final Fantasy 5: Not started yet
-- Final Fantasy 6: Not started yet
-- Final Fantasy 7: Not started yet
-- Final Fantasy 7 Remake + Intergrade:  Not started yet
-- Final Fantasy 7 Rebirth:  Isn't available yet
-- Final Fantasy 7 Crisis Core Reunion: Not started yet
-- Final Fantasy 8: Not started yet
-- Final Fantasy 9: Not started yet
-- Final Fantasy 10: Not started yet
-- Final Fantasy 10-2: Not started yet
-- Final Fantasy 12: Not started yet
-- Final Fantasy 13-1: Not started yet
-- Final Fantasy 13-2: Not started yet
-- Final Fantasy 13-3:  Not started yet
-- Final Fantasy 14: Already played it, I'll take about it in due time
-- Final Fantasy 15: Not started yet
-- Final Fantasy 16: Already played it, I'll take about it in due time
+- [Final Fantasy I]( {{ site.url }}/posts/final_fantasy_1 ): 11h54
+- Final Fantasy II: 8h41
+- Final Fantasy III: 9h48 (~11h en incluant les game overs)
+- Final Fantasy IV: 11h36 (15h de jeu en vrai parce que Game Over et 2h de jeu perdues à cause d'un pb de sauvegarde)
+- Final Fantasy V: Not started yet
+- Final Fantasy VI: Not started yet
+- Final Fantasy VII: Not started yet
+- Final Fantasy VII Remake + Intergrade:  Not started yet
+- Final Fantasy VII Rebirth:  Isn't available yet
+- Final Fantasy VII Crisis Core Reunion: Not started yet
+- Final Fantasy VIII: Not started yet
+- Final Fantasy IX: Not started yet
+- Final Fantasy X: Not started yet
+- Final Fantasy X-2: Not started yet
+- Final Fantasy XII: Not started yet
+- Final Fantasy XIII-1: Not started yet
+- Final Fantasy XIII-2: Not started yet
+- Final Fantasy XIII-3:  Not started yet
+- Final Fantasy XIV: 2917h12 Already played it, I'll take about it in due time
+- Final Fantasy XV: Not started yet
+- Final Fantasy XVI: Already played it, I'll take about it in due time
+
