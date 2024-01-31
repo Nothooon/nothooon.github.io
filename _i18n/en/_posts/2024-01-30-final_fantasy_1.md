@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Final Fantasy 1: Humble Begginings"
+title:  "Final Fantasy I: Humble Begginings"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2023-10-16"
 lang: en
 image:
-  path: /assets/img/posts_preview_images/ff1_logo.png
-  alt: Final Fantasy 1 Logo # or base64 URI
+  path: /assets/img/posts_preview_images/ff1_logo.jpeg
+  alt: Final Fantasy I Logo # or base64 URI
 ---
 
 {% if site.lang == "fr" %}
@@ -21,21 +21,21 @@ image:
 > I played the game with x4 exp and gils and I used a guide for the last two thirds of the game
 {: .prompt-info }
 
-> I played the Pixel Remaster version of the game. It doesn't include the bonus content of the GBA version of Final Fantasy 1
+> I played the Pixel Remaster version of the game. It doesn't include the bonus content of the GBA version of Final Fantasy I
 {: .prompt-info }
 
 ## Gameplay
 
 ### Main Gameplay Loop
 
-The gameplay of Final Fantasy 1 is harsh, unforgiving. You are never fully protected from danger. The game is designed to make you progress slowly, going back and fourth between the nearest village and the overworld, exploring further and further after each attempt, slowly reaching your objective.
+The gameplay of Final Fantasy I is harsh, unforgiving. You are never fully protected from danger. The game is designed to make you progress slowly, going back and fourth between the nearest village and the overworld, exploring further and further after each attempt, slowly reaching your objective.
 It's not a bad design, but it's not my favorite either. Even if the slow grind can be satisfying, it can also make the game repetitive.
 
 First of all, you have to build your party. It is made of 4 characters chosen between 6 at the beggining of the game. 
 Their job is set in stone, there is no way to change it later. So choose carefully, even if all options are viable.
 
-![Final Fantasy 1's Character Selection Screen](/assets/img/articles/final_fantasy_1/job_choice.jpg)
-_Final Fantasy 1's Character Selection Screen_
+![Final Fantasy I's Character Selection Screen](/assets/img/articles/final_fantasy_1/job_choice.jpg)
+_Final Fantasy I's Character Selection Screen_
 
 ### Battle System
 
@@ -49,7 +49,7 @@ Besides that, the battle system doesn't have much depth. I can't in good faith b
 ![Available commands in battle](/assets/img/articles/final_fantasy_1/command_input.jpg)
 _Available commands in battle_
 
-Even if Final Fantasy 1 is a turn-based game, you can't actually now who will act next. You choose an action for each of your characters, and then, your characters and the ennemies will perform their action at a simingly random moment. Even if there is probably a way to know who will act first, it's completely hidden in game.
+Even if Final Fantasy I is a turn-based game, you can't actually now who will act next. You choose an action for each of your characters, and then, your characters and the ennemies will perform their action at a simingly random moment. Even if there is probably a way to know who will act first, it's completely hidden in game.
 This randomness in the battle system made me give up on buffing/debuffing strategies very early in my playthrough.
 
 ## Story
