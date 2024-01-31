@@ -31,11 +31,23 @@ image:
 The gameplay of Final Fantasy 1 is harsh, unforgiving. You are never fully protected from danger. The game is designed to make you progress slowly, going back and fourth between the nearest village and the overworld, exploring further and further after each attempt, slowly reaching your objective.
 It's not a bad design, but it's not my favorite either. Even if the slow grind can be satisfying, it can also make the game repetitive.
 
+First of all, you have to build your party. It is made of 4 characters chosen between 6 at the beggining of the game. 
+Their job is set in stone, there is no way to change it later. So choose carefully, even if all options are viable.
+
+![Final Fantasy 1's Character Selection Screen](/assets/img/articles/final_fantasy_1/job_choice.jpg)
+_Final Fantasy 1's Character Selection Screen_
+
 ### Battle System
 
 If you're familiar with more recent J-RPGs, you're used to our good ol' blue mana bar. Well Final Fantasy decided to stay closer to its Tabletop RPG roots. In this game, every spell has a level and your characters have limited uses for each spell level. It's always interesting to see such clear signs that our beloved JRPs probably wouldn't exist without Dungeons & Dragons.
 
-Besides that, the battle system doesn't have much depth. I can't in good faith blame a nearly 40 years old game, but it's a fact. Your party is made of 4 characters chosen between 6 at the beggining of the game. Their job is set in stone, there is no way to change it later. The spell list is fairly long, with multiple elements for offensive spells, many buffing/debuffing spells and, of course, healing spells. Unfortunately, the way turns are handled in battle prevents you from actually strategizing during battle. 
+![Spell List](/assets/img/articles/final_fantasy_1/spells_list.jpg)
+_Spell List in battle_
+
+Besides that, the battle system doesn't have much depth. I can't in good faith blame a nearly 40 years old game, but it's a fact. The spell list is fairly long, with multiple elements for offensive spells, many buffing/debuffing spells and, of course, healing spells. Unfortunately, the way turns are handled in battle prevents you from actually strategizing during battle. 
+
+![Available commands in battle](/assets/img/articles/final_fantasy_1/command_input.jpg)
+_Available commands in battle_
 
 Even if Final Fantasy 1 is a turn-based game, you can't actually now who will act next. You choose an action for each of your characters, and then, your characters and the ennemies will perform their action at a simingly random moment. Even if there is probably a way to know who will act first, it's completely hidden in game.
 This randomness in the battle system made me give up on buffing/debuffing strategies very early in my playthrough.
@@ -52,6 +64,9 @@ The game doesn't have much world building either, apart from a nice plot-twist i
 ## Graphics and Music
 
 Having played the Pixel Remaster version, it's difficult for me to judge this game's graphics. But still, he character designs are very simple, there are very few enemy sprites or different animations and the towns look very similar. Once again, it would be dishonest of me to blame a game released in 1987 on the NES for this.
+
+![A Small Town](/assets/img/articles/final_fantasy_1/town.jpg)
+_The Town of Cornelia, one of FF1's biggest towns_
 
 Ditto for the music to which the NES could not pay homage. Nobuo Uematsu's compositions are magnificent and the remastered versions are superb. They're great quality and quite plentiful, but the NES just can't put it together. Nevertheless, we can note that the main theme of the series is already present. I bring it up because this is not the case for many elements which will become recurring later (crystals, mogs, chocobos, etc... do not exist in this first entry). 
 
