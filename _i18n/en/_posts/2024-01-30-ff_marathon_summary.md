@@ -3,6 +3,7 @@ layout: post
 title:  "Final Fantasy Marathon: Summary and Playtime"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
+date: "2023-10-15"
 pin: true
 language: en
 ---

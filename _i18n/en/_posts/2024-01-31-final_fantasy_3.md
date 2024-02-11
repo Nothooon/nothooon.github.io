@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy 2: The NES at its peak"
+title:  "(WIP) Final Fantasy III: The NES at its peak"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2023-12-23"
+date: "2023-12-27"
 lang: en
 image:
   path: /assets/img/posts_preview_images/ff3_logo.jpg

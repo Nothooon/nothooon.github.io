@@ -11,7 +11,7 @@ image:
 ---
 
 Après des débuts sympathiques mais qui manquent de profondeur à bien des niveaux, qu'attendre de ce FF II ?
-Une meilleure naration, un meilleur gameplay, un meilleur système de progression, ce ne sont pas les axes d'améliorations qui manquent. On attend donc de ce second épisode une copie plus aboutie, plus poussée que son prédécesseur.
+Une meilleure narration, un meilleur gameplay, un meilleur système de progression, ce ne sont pas les axes d'améliorations qui manquent. On attend donc de ce second épisode une copie plus aboutie, plus poussée que son prédécesseur.
 
 
 {% if site.lang == "fr" %}
@@ -25,16 +25,19 @@ Une meilleure naration, un meilleur gameplay, un meilleur système de progressio
 > J'ai joué au jeu avec xp et gils x4. J'ai aussi utilisé un guide durant la quasi totalité du jeu
 {: .prompt-info }
 
-## Graphimes et Musique
+## Graphismes et Musique
 
-Je vais commencer par évacuer le sujet des graphismes et de la musique. Comme précisé lors de mon article sur [Final Fantasy I](./2024-01-30-final_fantasy_1.md), il est difficile pour moi de juger ces derniers. On a toujours ce soucis de sprites trop peu diversifiés ou d'environnements qui se ressemblent un peu toujours. 
-Ce n'est pas vraiment étonnant. Le jeu est lui aussi sorti sur NES, il y a donc un espace très limité sur la cartouche. Le jeu a bel et bien bénéficié d'améliorations techniques, mais pas sur ce plan.
+Je vais commencer par évacuer le sujet des graphismes et de la musique. Comme précisé lors de mon article sur [Final Fantasy I](./2024-01-30-final_fantasy_1.md), il est difficile pour moi de juger ces derniers. On a toujours ce soucis de sprites trop peu diversifiés ou d'environnements qui se ressemblent un peu toujours. Ce n'est pas vraiment étonnant.   
+Le jeu est lui aussi sorti sur NES, il y a donc un espace très limité sur la cartouche. Le jeu a bel et bien bénéficié d'améliorations techniques, mais pas sur ce plan.
 
 ![Ville de FF2](/assets/img/articles/final_fantasy_2/ff2_town.webp)
 _L'auberge de Fynn, la capitale que vous allez devoir reprendre aux mains de l'Empire_
 
+Pour la musique,  c'est pareil. Les compositions d'Uematsu sont toujours excellentes, mais la NES n'y rend pas forcément hommage. Heureusement, les versions remasterisées sont disponibles et très agréables à l'oreille. On notera ici les mêmes points positifs que pour la musique de Final Fantasy I: nombreuses, qualitatives, expressives, bref, tout ce qui fait une bonne bande son. 
 
-Pour la musique,  c'est pareil. Les compositions d'Uematsu sont toujours excellentes, mais la NES n'y rend pas forcément hommage. Heureusement, les versions remasterisées sont disponibles et très agréables à l'oreille. On notera ici les mêmes points positifs que pour la musique de Final Fantasy I: nombreuses, qualitatives, expressives, bref, tout ce qui fait une bonne bande son. Le thème principal nien connu de Final Fantasy est toujours là, et il est rejoint par le thème des chocobos qui font leur apparition dans ce second opus. Si vous voulez aller écouter ce thème ainsi que le reste de la bande son, rendez-vous [ici](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6?si=de14932277d94a90) pour la version originale (en mono !) et [ici](https://open.spotify.com/album/4gy5cJBC03yZlJ5sE94bLW?si=Tv_QSc2BSCyumfb0duHVqw) pour la version PS1.
+Le thème principal nien connu de Final Fantasy est toujours là, et il est rejoint par le thème des Chocobos qui font leur apparition dans ce second opus. 
+
+Si vous voulez aller écouter ce thème ainsi que le reste de la bande son, rendez-vous [ici](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6?si=de14932277d94a90) pour la version originale (en mono !) et [ici](https://open.spotify.com/album/4gy5cJBC03yZlJ5sE94bLW?si=Tv_QSc2BSCyumfb0duHVqw) pour la version PS1.
 
 Mes petites recommendations personnelles: `Prelude`, `Castle Pandemonium` / `Pandaemonium` et bien sur, `Chocobo Theme`
 
@@ -42,12 +45,16 @@ Mes petites recommendations personnelles: `Prelude`, `Castle Pandemonium` / `Pan
 
 ### Le monde de Final Fantasy II
 
-La carte de Final Fantasy II n'est guère plus grande ou plus diversifiée que celle du premier opus. Néanmoins, elle est bien plus agréable à parcourir. Même si les moyens de transports restent identiques 
+La carte de Final Fantasy II n'est guère plus grande ou plus diversifiée que celle du premier opus. Néanmoins, elle est bien plus agréable à parcourir. Même si les moyens de transports restent identiques (bateau, canoë et aéronef), le monde est plus uni, plus cohérent. On a ici un seul très gros continent, intelligement séparé par quelques points et cours d'eau. 
+
+En vous promenant, vous verrez aussi 
 
 ![Carte du monde de Final Fantasy II](/assets/img/articles/final_fantasy_2/ff2_map.webp)
 _La carte du monde (sans nom) de Final Fantasy II_
 
 ### L'exploration
+
+Vous avez accès à l'intégralité de la map dès le début du jeu et ce dernier vous fera comprendre naturellement si vous devriez être 
 
 Dernière partie de la critique: la progression dans l'histoire.
 C'est toujours extrêmement nébuleux. Il y a un système de mots à apprendre pour pouvoir les donner aux PNJs pour obtenir des informations qui sont nécessaire à la progression (dans le sens où certains événements ou PNJs n'apparaissent pas si vous n'avez pas été parlé au bon PNJ avec le bon mot clé), ce qui peut vite tourner aux allers retours sans comprendre comment avancer. En plus, ce jeu introduit quelque chose de merveilleux: les passages secrets et portes invisibles. Je ne vous explique pas pourquoi c'est une idée de merde, mais tout comme le 1, faire le jeu sans soluce à côté est beaucoup trop lourd. Donc ma recommendation pour jouer à ce jeu serait de prendre une soluce et d'utiliser les options disponibles pour avoir xp et gils x4. Niveau durée de vie, c'est la même chose que FF1 globalement 

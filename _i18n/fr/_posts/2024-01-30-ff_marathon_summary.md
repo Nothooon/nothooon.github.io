@@ -4,6 +4,7 @@ title:  "Final Fantasy Marathon: Sommaire et temps de jeu"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 pin: true
+date: "2023-10-15"
 language: fr
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy 4: Passage à la vitesse supérieure"
+title:  "(WIP) Final Fantasy IV: Passage à la vitesse supérieure"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2023-12-23"
+date: "2024-01-27"
 lang: en
 image:
   path: /assets/img/posts_preview_images/ff4_logo.jpg

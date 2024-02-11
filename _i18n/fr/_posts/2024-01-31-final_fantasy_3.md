@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy 3: La NES à son prime"
+title:  "(WIP) Final Fantasy III: La NES à son prime"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2023-12-23"
+date: "2023-12-27"
 lang: en
 image:
   path: /assets/img/posts_preview_images/ff3_logo.jpg

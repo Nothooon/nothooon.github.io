@@ -3,7 +3,7 @@ layout: post
 title:  "(WIP) Final Fantasy V"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2023-12-23"
+date: "2024-02-11"
 lang: fr
 image:
   path: /assets/img/posts_preview_images/ff5_logo.jpg

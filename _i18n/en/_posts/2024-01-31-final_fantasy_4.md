@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy 4: Going a step further"
+title:  "(WIP) Final Fantasy IV: Going a step further"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2023-12-23"
+date: "2024-01-27"
 lang: en
 image:
   path: /assets/img/posts_preview_images/ff4_logo.jpg
