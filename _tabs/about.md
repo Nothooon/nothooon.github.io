@@ -5,7 +5,7 @@ order: 5
 title: "A Propos"
 name: "A Propos"
 permalink_en: /about/
-permalink: /a_propos/
+permalink_fr: /a_propos/
 ---
 
 {% if site.lang == "en" %}

@@ -1,7 +1,7 @@
 ---
 icon: fa-solid fa-cat
 order: 4
-permalink: /bleeeeh/
+permalink_fr: /bleeeeh/
 permalink_en: /bleeeh/
 ---
 

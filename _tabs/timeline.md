@@ -3,5 +3,5 @@ layout: archives
 icon: fas fa-archive
 order: 1
 permalink_en: /timeline/
-permalink: /historique/
+permalink_fr: /historique/
 ---
