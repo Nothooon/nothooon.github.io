@@ -27,7 +27,7 @@ Une meilleure narration, un meilleur gameplay, un meilleur système de progressi
 
 ## Graphismes et Musique
 
-Je vais commencer par évacuer le sujet des graphismes et de la musique. Comme précisé lors de mon article sur [Final Fantasy I](./2024-01-30-final_fantasy_1.md), il est difficile pour moi de juger ces derniers. On a toujours ce soucis de sprites trop peu diversifiés ou d'environnements qui se ressemblent un peu toujours. Ce n'est pas vraiment étonnant.   
+Je vais commencer par évacuer le sujet des graphismes et de la musique. Comme précisé lors de mon article sur [Final Fantasy I]( {{ site.url }}/posts/final_fantasy_1 ), il est difficile pour moi de juger ces derniers. On a toujours ce soucis de sprites trop peu diversifiés ou d'environnements qui se ressemblent un peu toujours. Ce n'est pas vraiment étonnant.   
 Le jeu est lui aussi sorti sur NES, il y a donc un espace très limité sur la cartouche. Le jeu a bel et bien bénéficié d'améliorations techniques, mais pas sur ce plan.
 
 ![Ville de FF2](/assets/img/articles/final_fantasy_2/ff2_town.webp)
