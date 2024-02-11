@@ -8,11 +8,11 @@ language: en
 ---
 
 {% if site.lang == "fr" %}
-  {% capture french_link %}{{ site.url }}{{ page.url }}{% endcapture %}
-  <a href="{{ french_link }}" >{% t pages.english_article %}</a>
+  {% capture english_link %}{{ site.url }}/en{{ page.url }}{% endcapture %}
+  <a href="{{ english_link }}" >{% t pages.english_article %}</a>
 {% elsif site.lang == "en" %}
-  {% capture english_link %}{{ site.url }}/fr{{ page.url }}{% endcapture %}
- <a href="{{ english_link }}" >{% t pages.french_article %}</a>
+  {% capture french_link  %}{{ site.url }}{{ page.url }}{% endcapture %}
+ <a href="{{ french_link }}" >{% t pages.french_article %}</a>
 {% endif %}
 
 Here is the full list of games I will or have play(ed) during my Final Fantasy Marathon.
@@ -20,11 +20,11 @@ When I complete an entry, I'll update this summary to include my playtime, and w
 
 ### Full Summary:
 
-- [Final Fantasy I]( {{ site.url }}/posts/final_fantasy_1 ): 11h54
-- Final Fantasy II: 8h41
-- Final Fantasy III: 9h48 (~11h en incluant les game overs)
-- Final Fantasy IV: 11h36 (15h de jeu en vrai parce que Game Over et 2h de jeu perdues à cause d'un pb de sauvegarde)
-- Final Fantasy V: Not started yet
+- [Final Fantasy I]( {{ site.url }}/en/posts/final_fantasy_1 ): 11h54
+- [Final Fantasy II]( {{ site.url }}/en/posts/final_fantasy_2 ): 8h41
+- [Final Fantasy III]( {{ site.url }}/en/posts/final_fantasy_3 ): 9h48 (~11h en incluant les game overs)
+- [Final Fantasy IV]( {{ site.url }}/en/posts/final_fantasy_4 ): 11h36 (17h if we include game overs and corrupt saves)
+- [Final Fantasy V]( {{ site.url }}/en/posts/final_fantasy_5 ): Playing it right now
 - Final Fantasy VI: Not started yet
 - Final Fantasy VII: Not started yet
 - Final Fantasy VII Remake + Intergrade:  Not started yet

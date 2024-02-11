@@ -11,7 +11,7 @@ language: fr
   {% capture french_link %}{{ site.url }}{{ page.url }}{% endcapture %}
   <a href="{{ french_link }}" >{% t pages.english_article %}</a>
 {% elsif site.lang == "en" %}
-  {% capture english_link %}{{ site.url }}/fr{{ page.url }}{% endcapture %}
+  {% capture english_link %}{{ site.url }}{{ page.url }}{% endcapture %}
  <a href="{{ english_link }}" >{% t pages.french_article %}</a>
 {% endif %}
 
@@ -20,11 +20,11 @@ Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y i
 
 ### Full Summary:
 
-- [Final Fantasy I]( {{ site.url }}/fr/posts/final_fantasy_1 ): 11h54
-- Final Fantasy II: 8h41
-- Final Fantasy III: 9h48 (~11h en incluant les game overs)
-- Final Fantasy IV: 11h36 (15h de jeu en vrai parce que Game Over et 2h de jeu perdues à cause d'un pb de sauvegarde)
-- Final Fantasy V: Pas encore lancé
+- [Final Fantasy I]( {{ site.url }}/posts/final_fantasy_1 ): 11h54
+- [Final Fantasy II]( {{ site.url }}/posts/final_fantasy_2 ): 8h41
+- [Final Fantasy III]( {{ site.url }}/posts/final_fantasy_3 ): 9h48 (~11h en incluant les game overs)
+- [Final Fantasy IV]( {{ site.url }}/posts/final_fantasy_4 ): 11h36 (17h en incluant les game overs et problèmes de sauvegardes) 
+- [Final Fantasy V]( {{ site.url }}/posts/final_fantasy_5 ): En cours
 - Final Fantasy VI: Pas encore lancé
 - Final Fantasy VII: Pas encore lancé
 - Final Fantasy VII Remake + Intergrade:  Pas encore lancé

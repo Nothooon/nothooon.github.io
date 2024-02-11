@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Languages
-languages: ["en", "fr"]
+languages: ["fr", "en"]
 exclude_from_localizations: ["javascript", "images", "css"]
 
 # Import the theme
