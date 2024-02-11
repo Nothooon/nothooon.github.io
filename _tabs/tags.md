@@ -2,6 +2,6 @@
 layout: tags
 icon: fas fa-tags
 order: 3
-permalink: /tags/
+permalink_en: /tags/
 permalink_fr: /labels/
 ---

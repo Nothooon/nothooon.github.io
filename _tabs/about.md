@@ -2,7 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 5
-permalink: /about/
+permalink_en: /about/
 permalink_fr: /a_propos/
 ---
 
