@@ -13,7 +13,6 @@ image:
 Après des débuts sympathiques mais qui manquent de profondeur à bien des niveaux, qu'attendre de ce FF II ?
 Une meilleure narration, un meilleur gameplay, un meilleur système de progression, ce ne sont pas les axes d'améliorations qui manquent. On attend donc de ce second épisode une copie plus aboutie, plus poussée que son prédécesseur.
 
-
 {% if site.lang == "fr" %}
   {% capture english_link %}{{ site.url }}/en{{ page.url }}{% endcapture %}
   <a href="{{ english_link }}" >{% t pages.english_article %}</a>
@@ -24,6 +23,12 @@ Une meilleure narration, un meilleur gameplay, un meilleur système de progressi
 
 > J'ai joué au jeu avec xp et gils x4. J'ai aussi utilisé un guide durant la quasi totalité du jeu
 {: .prompt-info }
+
+----
+
+> Now Playing: [Final Fantasy II - Rebel Army Theme (PS Version) by Nobuo Uematsu] 
+<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_battle_theme.mp3">Your browser does not support the audio tag.</audio>
+
 
 ## Graphismes et Musique
 
@@ -131,39 +136,86 @@ Là où Final Fantasy I vous lançait directement dans l'action, Final Fantasy I
 
 **L'amélioration est claire et Square Enix a bien l'intention de vous le montrer dès les premières minutes**
 
-_Si vous êtes curieux, [cette vidéo](https://www.youtube.com/watch?v=a8Nf7HskQSI) montre les premières minutes du jeu_
+_Si vous êtes curieux, [cette vidéo](https://www.youtube.com/watch?v=a8Nf7HskQSI) de la chaine Nova Crystallis (un nom qu'on aura tout le plaisir d'explorer, mais dans très longtemps) montre les premières minutes du jeu_
 
 ## Gameplay
 
+Rien de neuf sous le soleil ? Bien au contraire. L'équipe d'Hironobu Sakaguchi n'a pas eu peur d'expérimenter de nouvelles choses, surtout pour approfondir le système de progression et de personnalisation de notre équipe.
+
 ### Système de Progression
 
-Le système de leveling a l'air de se faire arme par arme, à voir comment ça se build sur le long terme
+C'est sur ce point que vous verrez le plus de différences avec l'opus précédent. Cette fois, le système de jobs est entièrement absent. Pas de choix des jobs en début de partie, pas de jobs à débloquer ou de spécialisation imposée à vos personnages. Vous avez le contrôle complet de la façon dont vos personnages vont progresser.
+
+La progression de vos trois personnages principaux s'axera autour de trois aspects:
+
+- Les armes équipées 
+- Les magies utilisées
+- Le déroulement des combats
+
+Pour utiliser une référence bien plus moderne, on a là un système proche de ce que propose un The Elders Scroll. Plus vous persévèrerez dans un style de jeu, plus votre personnage sera fort dans ce style. Il gagnera des caractéristiques et des compétences propres à ce style de jeu. 
+Vous avez donc une liberté totale de construction de votre équipe, pour peu que vous y consacriez du temps, et de l'attention. Surtout de l'attention. 
+
+Rentrons plus en détail. Vos personnages n'ont pas de niveau à proprement parler. Lorsque vous gagnez un combat, votre équipe va plutôt gagner de l'expérience de maitrise des armes équipées.
+Monter en niveau de maitrise d'une arme augmentera les dégâts infligés avec ce type d'armes ainsi que la précision de l'utilisateur.
+
+Il n'y a pas de niveau de maitrise pour la magie, mais utiliser des sorts de magie blanche augmentera leur efficacité (vos soins soigneront plus), et utiliser des sorts de magie noire augmentera leurs dégâts.
+
+Là où le système se complexifie vraiment, c'est sur la gestion des caractéristiques de vos personnages. Dans un RPG classique, lorsque vos personnages triomphent au combat, ils gagnent de l'expérience, ce qui les fait monter de niveau et c'est lors de ce gain de niveau que vos personnages obtiennent des bonus de caractéristiques.
+
+Dans Final Fantasy II, vous ne montez pas de niveau. Alors comment améliorer les statistiques de vos personnages ? Et bien là encore, pensez The Elders Scrolls. Pour gagner en force, frappez vos adversaires avec des attaques physique. Vous voulez gagner en esprit pour améliorer vos soins ? Il vous suffit d'utiliser beaucoup de sorts de magie blanche. 
+
+Chacune des statistiques de vos personnages est augmentée en réalisant une action spécifique qui correspond à ce que la statistique est censée apporter lors d'un combat. Subir des dégâts physiques vous rendrez plus résistants aux dégâts physiques, idem pour la magie.
+
+Enfin, vous pouvez également perdre en statistiques dans certains cas. Gagner en esprit ou intelligence fera baisser votre force et augmenter votre endurance vous fera perdre en intelligence. 
+Cette mécanique est probablement là pour éviter de se retrouver avec des personnages forts dans tous les domaines, ce qui n'est pas vraiment le but d'un système de progression comme celui-ci. 
+
+Rassurez-vous, la perte de stats est plus faible que le gain, vous pouvez donc facilement contrebalancer cette règle avec un entrainement réfléchi. 
+
+Pour le plaisir, je vous mets ci-dessous le tableau des statistiques et les actions correspondantes pour les augmenter.
+
+| **Action**                                       | Statistique améliorée | **Impact de la statistique**                                 |
+| ------------------------------------------------ | --------------------- | ------------------------------------------------------------ |
+| Attaquer pendant un combat.                      | Force                 | Amélioration des dégâts physiques                            |
+| Perdre des HP pendant un combat                  | Endurance             | HP Maximum plus élevés                                       |
+| utilisation de Magie Blanche                     | Esprit                | La Magie Blanche est plus efficace                           |
+| Utilisation de Magie Noire                       | Intelligence          | La Magie Noire est plus efficace                             |
+| Perte/Consommation de MP pendant un combat       | Mana                  | MP Maximum plus élevés                                       |
+| Attaquer avec une arme équipée pendant un combat | Précision             | Nombre de coups et chances de toucher plus élevés            |
+| Subir des attaques physiques                     | Agilité et Esquive    | Chance d'esquive des attaques physiques augmentée, plus de chances d'agir en premier lors des combats |
+| Subir des attaques magiques                      | Défense Magique       | Chance d'esquive des attaques magiques augmentée             |
+
+
+
+<!-- Le système de leveling a l'air de se faire arme par arme, à voir comment ça se build sur le long terme
 Aussi, comme dit juste au dessus, le jeu n'a pas de système de job. A la place, vos trois personnages peuvent apprendre n'importe quel sort et équiper n'importe quelle arme. Le "job" de vos personnages viendra de quelles armes et sorts vous leur fournirez. Plus un personnage manie une arme, plus son niveau de compétence avec cette arme augmente, ce qui augmente les dégats que vous faites et votre précision. Idem pour les sorts, plus vous les utilisez, plus ils montent en niveau et gagnent en dégats. De plus, les stats de vos personnages montent également en fonction de l'arme utilisée. La hache augmente votre force, l'arc votre esquive, etc... Et vos HPs montent naturellement au fur et à mesure de vos combats
-Ce système rend la progression extrêmement libre et bien moins linéaire que dans le précédent opus. C'est une invitation à expérimenter  des compositions d'équipes différentes. Il a aussi le défaut d'être plutôt opaque. C'est à vous de comprendre à quelle arme correspond chaque stat et quels sorts sont adaptés en fonction de votre build. C'est aussi à vous de comprendre quel est le niveau max de vos compétences pour chaque zone du jeu (puisque si les ennemis sont trop faibles, vous ne gagnerez pas d'xp)
+Ce système rend la progression extrêmement libre et bien moins linéaire que dans le précédent opus. C'est une invitation à expérimenter  des compositions d'équipes différentes. Il a aussi le défaut d'être plutôt opaque. C'est à vous de comprendre à quelle arme correspond chaque stat et quels sorts sont adaptés en fonction de votre build. C'est aussi à vous de comprendre quel est le niveau max de vos compétences pour chaque zone du jeu (puisque si les ennemis sont trop faibles, vous ne gagnerez pas d'xp) -->
 
 ### Système de Combat
 
-Fini les emplacements de sorts, on passe au mana
-Là où le jeu s'améliore grandement à mon avis, c'est sur son gameplay et son système de progression
-Le gameplay reste le même que FF1: tour par tour vaguement dicté par la vitesse des personnages. Ça a le même défaut que FF1 cependant, c'est très difficile de planifier une stratégie quand on ne sait pas dans quel ordre les personnage et ennemis attaquent. Au minimum, connaitre l'ordre des tours de ses propres personnages permettrait de planifier des buffs mais non. On se retrouve vite à bourinner avec ses meilleures attaques et heal au dernier moment dans la panique
-Mais on a des améliorations surtout avec le système de magie
-Puisqu'on n'a plus d'emplacments de sorts, mais du bon vieux mana
-ce qui est positif, car même si les emplacements de sorts nous rappellent nos sessions de DnD préféré, c'est très chiant dans un jeu avec une rencontre aléatoire tous les 20 pas
-Donc le switch a du mana + l'absence de jobs dans le jeu rend la chose plus agréable pour les mages.
+<!--Fini les emplacements de sorts, on passe au mana-->
+<!--Là où le jeu s'améliore grandement à mon avis, c'est sur son gameplay et son système de progression-->
+<!--Le gameplay reste le même que FF1: tour par tour vaguement dicté par la vitesse des personnages. Ça a le même défaut que FF1 cependant, c'est très difficile de planifier une stratégie quand on ne sait pas dans quel ordre les personnage et ennemis attaquent. Au minimum, connaitre l'ordre des tours de ses propres personnages permettrait de planifier des buffs mais non. On se retrouve vite à bourinner avec ses meilleures attaques et heal au dernier moment dans la panique-->
+<!--Mais on a des améliorations surtout avec le système de magie-->
+<!--Puisqu'on n'a plus d'emplacments de sorts, mais du bon vieux mana-->
+<!--ce qui est positif, car même si les emplacements de sorts nous rappellent nos sessions de DnD préféré, c'est très chiant dans un jeu avec une rencontre aléatoire tous les 20 pas-->
+<!--Donc le switch a du mana + l'absence de jobs dans le jeu rend la chose plus agréable pour les mages.-->
 
-Il y a un dernier défaut dans le gameplay, qui pourtant sonne comme une excellente idée
-Vous avez trois personnages dès le début du jeu, mais votre équipe peut en contenir quatre. Cette quatrième place sera remplie par des personnages de l'histoire qui se joindront temporairement à vous. Ça commence avec Minnwu, qui, lorsqu'il vous accompagne, est bien plus fort que vos propres personnages. Cette tendance s'inverse au fur et à mesure du jeu, jusqu'à ce que ces personnages deviennent un poids plus qu'une aide utile. Durant le dernier donjon du jeu, mes personnages avaient entre 5.5k hp et 7k hp et des magies niveau 8 à 13, tandis que ce personnage invité n'avait que 800 petits HP et des magies de niveau 5 ou 6 (sachant que les ennemis basiques de la zone pouvaient facilement mettre des coups à 700+ de dégats)
-Résultat, il mourrait à chaque combat et ne servait à rien
+<!--Il y a un dernier défaut dans le gameplay, qui pourtant sonne comme une excellente idée-->
+<!--Vous avez trois personnages dès le début du jeu, mais votre équipe peut en contenir quatre. Cette quatrième place sera remplie par des personnages de l'histoire qui se joindront temporairement à vous. Ça commence avec Minnwu, qui, lorsqu'il vous accompagne, est bien plus fort que vos propres personnages. Cette tendance s'inverse au fur et à mesure du jeu, jusqu'à ce que ces personnages deviennent un poids plus qu'une aide utile. Durant le dernier donjon du jeu, mes personnages avaient entre 5.5k hp et 7k hp et des magies niveau 8 à 13, tandis que ce personnage invité n'avait que 800 petits HP et des magies de niveau 5 ou 6 (sachant que les ennemis basiques de la zone pouvaient facilement mettre des coups à 700+ de dégats)-->
+<!--Résultat, il mourrait à chaque combat et ne servait à rien-->
 
 
 #### Pas Merci le Pixel Remaster
 
-Par contre, qui a décidé qu'AUCUN sort ne ferait de dégats en AOE ? C'est une idée désastreuse, surtout quand les ennemis, eux, te narguent en te jetant des sorts en AOE. Dans un RPG où l'on peut se retrouver face à 6+ ennemis très souvent, ne pas avoir de dégats de zone rend le jeu lourd bien plus que nécessaire
+<!-- Par contre, qui a décidé qu'AUCUN sort ne ferait de dégats en AOE ? C'est une idée désastreuse, surtout quand les ennemis, eux, te narguent en te jetant des sorts en AOE. Dans un RPG où l'on peut se retrouver face à 6+ ennemis très souvent, ne pas avoir de dégats de zone rend le jeu lourd bien plus que nécessaire -->
 
 
 ## Conclusion
 
-Conclusion: Un jeu qui améliore beaucoup de choses, mais qui montre aussi qu'il y a encore un loooong chemin à parcourir. Je ne le recommande toujours que pour les gens qui, comme moi, son curieux quant aux origines de la licence. 
+<!-- Conclusion: Un jeu qui améliore beaucoup de choses, mais qui montre aussi qu'il y a encore un loooong chemin à parcourir. Je ne le recommande toujours que pour les gens qui, comme moi, son curieux quant aux origines de la licence. 
 Ah ptn j'ai oublié un truc important
 y'a un NG+ dans le jeu, c'est du coup l'invention du NG+ je pense ?? Je vais pas le faire par contre
-c'est un NG+ qui commence par un chapitre bonus, mais l'histoire est pas assez bonne pour me motiver :')
+c'est un NG+ qui commence par un chapitre bonus, mais l'histoire est pas assez bonne pour me motiver :') 
+Le jeu a été construit différemment. L'histoire a été intégralement écrite d'abord puis le gameplay a été greffé et construit autour cette histoire-->
+
+----
