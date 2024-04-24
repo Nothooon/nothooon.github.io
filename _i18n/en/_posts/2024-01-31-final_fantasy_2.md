@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy II: Better but Frustrating"
+title:  "(WIP) Final Fantasy II: Truly revolutionary"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2023-12-23"

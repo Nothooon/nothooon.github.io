@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Final Fantasy II: Meilleur mais frustrant"
+title:  "Final Fantasy II: Une vraie révolution"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2023-12-23"
@@ -212,7 +212,7 @@ La collection Pixel Remaster (que j'utilise pour jouer aux FF I à VI) est un tr
 
 A la base, cette partie de l'article ne devait pas exister. A sa place, vous auriez dû voir une plainte tout à fait justifiée de l'absence de sorts en AOE (Area of Effect, des sorts touchant plusieurs ennemis) dans le jeu, ainsi qu'un manque d'explications sur les différents effets de statut ou mécaniques du jeu.  
 
-Mais sachez que si vous aviez joué au jeu à l'époque, vous n'auriez pas eu ce problème, puisque toutes ces informations figuraient dans le manuel fournit avec le jeu (la bonne époque..). Ce manuel de 74 pages contenait tout un tas d'informations: tutoriels, listes des objets, des effets de status, des cartes des zones et même un guide qui vous épaulera tout le long du premier chapitre du jeu.  
+Mais sachez que si vous aviez joué au jeu à l'époque, vous n'auriez pas eu ce problème, puisque toutes ces informations figuraient dans le [manuel fournit avec le jeu](https://archive.org/details/FinalFantasy12ManualJPFCNES/page/n33/mode/2up) (la bonne époque..). Ce manuel de 74 pages contenait tout un tas d'informations: tutoriels, listes des objets, des effets de status, des cartes des zones et même un guide qui vous épaulera tout le long du premier chapitre du jeu.  
 
 Ce manuel, crucial pour bien aborder le jeu, n'a aucunement été fourni par Square Enix au sein de cette collection Pixel Remaster et les informations qu'il contenait n'ont pas été fournis d'une autre manière non plus. Vous devez donc deviner que les sorts basiques ciblent tous les ennemis si vous appuyez à gauche lorsque vous choisissez votre cible. Ou alors, vous pouvez chercher ces informations sur internet, mais je trouve ça dommage que le jeu n'informe pas le joueur de lui même de ce qu'il peut faire.
 
