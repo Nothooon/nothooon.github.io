@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy II: Meilleur mais frustrant"
+title:  "Final Fantasy II: Meilleur mais frustrant"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2023-12-23"
@@ -11,7 +11,10 @@ image:
 ---
 
 Après des débuts sympathiques mais qui manquent de profondeur à bien des niveaux, qu'attendre de ce FF II ?
-Une meilleure narration, un meilleur gameplay, un meilleur système de progression, ce ne sont pas les axes d'améliorations qui manquent. On attend donc de ce second épisode une copie plus aboutie, plus poussée que son prédécesseur.
+Une meilleure narration, un meilleur gameplay, un meilleur système de progression, ce ne sont pas les axes d'améliorations qui manquent.  
+On attend donc de ce second épisode une copie plus aboutie, plus poussée que son prédécesseur.
+
+----
 
 {% if site.lang == "fr" %}
   {% capture english_link %}{{ site.url }}/en{{ page.url }}{% endcapture %}
@@ -24,10 +27,8 @@ Une meilleure narration, un meilleur gameplay, un meilleur système de progressi
 > J'ai joué au jeu avec xp et gils x4. J'ai aussi utilisé un guide durant la quasi totalité du jeu
 {: .prompt-info }
 
-----
-
 > Now Playing: [Final Fantasy II - Rebel Army Theme (PS Version) by Nobuo Uematsu] 
-<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_battle_theme.mp3">Your browser does not support the audio tag.</audio>
+<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_rebel_theme.mp3">Your browser does not support the audio tag.</audio>
 
 
 ## Graphismes et Musique
@@ -156,6 +157,9 @@ Pour utiliser une référence bien plus moderne, on a là un système proche de 
 Vous avez donc une liberté totale de construction de votre équipe, pour peu que vous y consacriez du temps, et de l'attention. Surtout de l'attention. 
 
 Rentrons plus en détail. Vos personnages n'ont pas de niveau à proprement parler. Lorsque vous gagnez un combat, votre équipe va plutôt gagner de l'expérience de maitrise des armes équipées.
+
+![Gain de niveau et de maitrise d'arme](/assets/img/articles/final_fantasy_2/ff2_level_up.png)
+
 Monter en niveau de maitrise d'une arme augmentera les dégâts infligés avec ce type d'armes ainsi que la précision de l'utilisateur.
 
 Il n'y a pas de niveau de maitrise pour la magie, mais utiliser des sorts de magie blanche augmentera leur efficacité (vos soins soigneront plus), et utiliser des sorts de magie noire augmentera leurs dégâts.
@@ -165,6 +169,8 @@ Là où le système se complexifie vraiment, c'est sur la gestion des caractéri
 Dans Final Fantasy II, vous ne montez pas de niveau. Alors comment améliorer les statistiques de vos personnages ? Et bien là encore, pensez The Elders Scrolls. Pour gagner en force, frappez vos adversaires avec des attaques physique. Vous voulez gagner en esprit pour améliorer vos soins ? Il vous suffit d'utiliser beaucoup de sorts de magie blanche. 
 
 Chacune des statistiques de vos personnages est augmentée en réalisant une action spécifique qui correspond à ce que la statistique est censée apporter lors d'un combat. Subir des dégâts physiques vous rendrez plus résistants aux dégâts physiques, idem pour la magie.
+
+![Statistiques et niveaux de maitrise d'un personnage](/assets/img/articles/final_fantasy_2/ff2_stats.avif)
 
 Enfin, vous pouvez également perdre en statistiques dans certains cas. Gagner en esprit ou intelligence fera baisser votre force et augmenter votre endurance vous fera perdre en intelligence. 
 Cette mécanique est probablement là pour éviter de se retrouver avec des personnages forts dans tous les domaines, ce qui n'est pas vraiment le but d'un système de progression comme celui-ci. 
@@ -185,37 +191,43 @@ Pour le plaisir, je vous mets ci-dessous le tableau des statistiques et les acti
 | Subir des attaques magiques                      | Défense Magique       | Chance d'esquive des attaques magiques augmentée             |
 
 
-
-<!-- Le système de leveling a l'air de se faire arme par arme, à voir comment ça se build sur le long terme
-Aussi, comme dit juste au dessus, le jeu n'a pas de système de job. A la place, vos trois personnages peuvent apprendre n'importe quel sort et équiper n'importe quelle arme. Le "job" de vos personnages viendra de quelles armes et sorts vous leur fournirez. Plus un personnage manie une arme, plus son niveau de compétence avec cette arme augmente, ce qui augmente les dégats que vous faites et votre précision. Idem pour les sorts, plus vous les utilisez, plus ils montent en niveau et gagnent en dégats. De plus, les stats de vos personnages montent également en fonction de l'arme utilisée. La hache augmente votre force, l'arc votre esquive, etc... Et vos HPs montent naturellement au fur et à mesure de vos combats
-Ce système rend la progression extrêmement libre et bien moins linéaire que dans le précédent opus. C'est une invitation à expérimenter  des compositions d'équipes différentes. Il a aussi le défaut d'être plutôt opaque. C'est à vous de comprendre à quelle arme correspond chaque stat et quels sorts sont adaptés en fonction de votre build. C'est aussi à vous de comprendre quel est le niveau max de vos compétences pour chaque zone du jeu (puisque si les ennemis sont trop faibles, vous ne gagnerez pas d'xp) -->
+Si cette très longue explication du système ne vous l'a pas fait comprendre, Final Fantasy II est à des années lumières du premier opus. Ce système est profond, permissif, logique et change fondamentalement la façon d'aborder le jeu. On passe d'un jeu couloir où le combat est un obstacle, à un jeu qui nous pousse à expérimenter, à faire des choix et c'est exactement ce dont un RPG a besoin pour qu'un joueur s'y investisse pleinement.
 
 ### Système de Combat
 
-<!--Fini les emplacements de sorts, on passe au mana-->
-<!--Là où le jeu s'améliore grandement à mon avis, c'est sur son gameplay et son système de progression-->
-<!--Le gameplay reste le même que FF1: tour par tour vaguement dicté par la vitesse des personnages. Ça a le même défaut que FF1 cependant, c'est très difficile de planifier une stratégie quand on ne sait pas dans quel ordre les personnage et ennemis attaquent. Au minimum, connaitre l'ordre des tours de ses propres personnages permettrait de planifier des buffs mais non. On se retrouve vite à bourinner avec ses meilleures attaques et heal au dernier moment dans la panique-->
-<!--Mais on a des améliorations surtout avec le système de magie-->
-<!--Puisqu'on n'a plus d'emplacments de sorts, mais du bon vieux mana-->
-<!--ce qui est positif, car même si les emplacements de sorts nous rappellent nos sessions de DnD préféré, c'est très chiant dans un jeu avec une rencontre aléatoire tous les 20 pas-->
-<!--Donc le switch a du mana + l'absence de jobs dans le jeu rend la chose plus agréable pour les mages.-->
+> Now Playing: [Final Fantasy II - Battle Theme 1 (PS Version) by Nobuo Uematsu] 
+<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_battle_theme.mp3">Your browser does not support the audio tag.</audio>
 
-<!--Il y a un dernier défaut dans le gameplay, qui pourtant sonne comme une excellente idée-->
-<!--Vous avez trois personnages dès le début du jeu, mais votre équipe peut en contenir quatre. Cette quatrième place sera remplie par des personnages de l'histoire qui se joindront temporairement à vous. Ça commence avec Minnwu, qui, lorsqu'il vous accompagne, est bien plus fort que vos propres personnages. Cette tendance s'inverse au fur et à mesure du jeu, jusqu'à ce que ces personnages deviennent un poids plus qu'une aide utile. Durant le dernier donjon du jeu, mes personnages avaient entre 5.5k hp et 7k hp et des magies niveau 8 à 13, tandis que ce personnage invité n'avait que 800 petits HP et des magies de niveau 5 ou 6 (sachant que les ennemis basiques de la zone pouvaient facilement mettre des coups à 700+ de dégats)-->
-<!--Résultat, il mourrait à chaque combat et ne servait à rien-->
+Le système de combat de Final Fantasy II ne change pas vraiment. Vous choisissez une action pour chacun de vos personnages et ils attaquent dans un certain ordre, dépendant de leur agilité et de celles des ennemis.
+Le jeu a donc le [même gros défaut que son prédécesseur]({{ site.url }}/posts/final_fantasy_1/#système-de-combat): il est très difficile de mettre une stratégie en place. 
+
+Par contre, Final Fantasy II se débarasse du système d'emplacements de sorts et instaure notre bonne vieille barre de mana. Cette dernière ne sera pas là longtemps (spoiler pour FF III), mais elle change bien la donne. La magie est bien plus agréable à utiliser ainsi et laisse plus de flexibilité au joueur.
+
+Ce changement en apparence minime, couplé au nouveau système de jeu change profondément la donne. Les combats ressemblent moins à des corvées et plus à des moments agréables dans lesquels on se jette volontairement. Comme quoi, il suffit d'un rien !
 
 
-#### Pas Merci le Pixel Remaster
+#### Mauvais boulot dans le Pixel Remaster
 
-<!-- Par contre, qui a décidé qu'AUCUN sort ne ferait de dégats en AOE ? C'est une idée désastreuse, surtout quand les ennemis, eux, te narguent en te jetant des sorts en AOE. Dans un RPG où l'on peut se retrouver face à 6+ ennemis très souvent, ne pas avoir de dégats de zone rend le jeu lourd bien plus que nécessaire -->
+La collection Pixel Remaster (que j'utilise pour jouer aux FF I à VI) est un très beau cadeau de la part de Square Enix. 6 jeux légendaires rendus accessibles au plus grand nombre, traduits dans toutes les langues, avec des options pour faciliter le gameplay et des musiques remasterisées, c'est le rêve pour tout fan de RPG.
+
+A la base, cette partie de l'article ne devait pas exister. A sa place, vous auriez dû voir une plainte tout à fait justifiée de l'absence de sorts en AOE (Area of Effect, des sorts touchant plusieurs ennemis) dans le jeu, ainsi qu'un manque d'explications sur les différents effets de statut ou mécaniques du jeu.  
+
+Mais sachez que si vous aviez joué au jeu à l'époque, vous n'auriez pas eu ce problème, puisque toutes ces informations figuraient dans le manuel fournit avec le jeu (la bonne époque..). Ce manuel de 74 pages contenait tout un tas d'informations: tutoriels, listes des objets, des effets de status, des cartes des zones et même un guide qui vous épaulera tout le long du premier chapitre du jeu.  
+
+Ce manuel, crucial pour bien aborder le jeu, n'a aucunement été fourni par Square Enix au sein de cette collection Pixel Remaster et les informations qu'il contenait n'ont pas été fournis d'une autre manière non plus. Vous devez donc deviner que les sorts basiques ciblent tous les ennemis si vous appuyez à gauche lorsque vous choisissez votre cible. Ou alors, vous pouvez chercher ces informations sur internet, mais je trouve ça dommage que le jeu n'informe pas le joueur de lui même de ce qu'il peut faire.
 
 
 ## Conclusion
 
-<!-- Conclusion: Un jeu qui améliore beaucoup de choses, mais qui montre aussi qu'il y a encore un loooong chemin à parcourir. Je ne le recommande toujours que pour les gens qui, comme moi, son curieux quant aux origines de la licence. 
-Ah ptn j'ai oublié un truc important
-y'a un NG+ dans le jeu, c'est du coup l'invention du NG+ je pense ?? Je vais pas le faire par contre
-c'est un NG+ qui commence par un chapitre bonus, mais l'histoire est pas assez bonne pour me motiver :') 
-Le jeu a été construit différemment. L'histoire a été intégralement écrite d'abord puis le gameplay a été greffé et construit autour cette histoire-->
+> Now Playing: [Final Fantasy II - Finale (PS Version) by Nobuo Uematsu] 
+<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_finale_theme.mp3">Your browser does not support the audio tag.</audio>
+
+Vous l'aurez compris à la longueur de cet article, Final Fantasy 2 est un jeu vraiment intéressant. J'ai pu avoir certains propos un peu durs parfois, sans tenir compte de la date de sortie de ces jeux et des limitations techniques qui en découlent.
+Avec le contexte de sortie du jeu en tête, Final Fantasy II me semble être un petit miracle (au même titre que FF premier du nom).
+
+En tout cas, le jeu propose quelque chose, une vision du RPG évidemment inédite à l'époque mais qui se démarque encore aujourd'hui. Est-ce que ça en fait forcément un bon jeu ? Non, bien sûr. Par contre, ça en fait un jeu polarisant: très bon pour certains, très frustrant pour d'autres et entre les deux pour la majorité. 
+
+Il est le premier RPG de l'HISTOIRE (excusez-moi du peu) à laisser au joueur la possibilité de faire ce qu'il veut de ses personnages et il le fait très bien ! Peut-être que The Elder Scrolls tel qu'on le connait n'existerait pas si Final Fantasy II n'avait pas pavé la voie.  
+Même si FF II montre lui aussi clairement son âge (36 ans !), il demeure une expérience que je recommande si vous avez la patience de le prendre véritablement en main.
 
 ----
