@@ -222,10 +222,15 @@ Ce manuel, crucial pour bien aborder le jeu, n'a aucunement été fourni par Squ
 > Now Playing: [Final Fantasy II - Finale (PS Version) by Nobuo Uematsu] 
 <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_finale_theme.mp3">Your browser does not support the audio tag.</audio>
 
-Vous l'aurez compris à la longueur de cet article, Final Fantasy 2 est un jeu vraiment intéressant. J'ai pu avoir certains propos un peu durs parfois, sans tenir compte de la date de sortie de ces jeux et des limitations techniques qui en découlent.
-Avec le contexte de sortie du jeu en tête, Final Fantasy II me semble être un petit miracle (au même titre que FF premier du nom).
+Vous l'aurez compris à la longueur de cet article, Final Fantasy 2 est un jeu vraiment intéressant. J'ai pu avoir certains propos un peu durs parfois, sans tenir compte de la date de sortie de ces jeux et des limitations techniques qui en découlent.  
+Avec le contexte de sortie du jeu en tête, Final Fantasy II me semble être un petit miracle (au même titre que FF premier du nom).  
+Et si on s'intéresse aux magazines de l'époque, on peut le confirmer. Voici des extraits du [numéro de Décembre 1988 du magazine Famimaga](https://archive.org/details/famimagaoctober1988/page/n9/mode/2up) (pardonnez la traduction approximative):
+- "Some powerful battle scenes !"
+- "FF II's world is vast ! The world map is interesting."
+- "Explore with a huge variety of vehicles !"
 
-En tout cas, le jeu propose quelque chose, une vision du RPG évidemment inédite à l'époque mais qui se démarque encore aujourd'hui. Est-ce que ça en fait forcément un bon jeu ? Non, bien sûr. Par contre, ça en fait un jeu polarisant: très bon pour certains, très frustrant pour d'autres et entre les deux pour la majorité. 
+Le jeu propose quelque chose, une vision du RPG évidemment inédite à l'époque mais qui se démarque encore aujourd'hui.
+Est-ce que ça en fait forcément un bon jeu ? Non, bien sûr. Par contre, ça en fait un jeu polarisant: très bon pour certains, très frustrant pour d'autres et entre les deux pour la majorité. 
 
 Il est le premier RPG de l'HISTOIRE (excusez-moi du peu) à laisser au joueur la possibilité de faire ce qu'il veut de ses personnages et il le fait très bien ! Peut-être que The Elder Scrolls tel qu'on le connait n'existerait pas si Final Fantasy II n'avait pas pavé la voie.  
 Même si FF II montre lui aussi clairement son âge (36 ans !), il demeure une expérience que je recommande si vous avez la patience de le prendre véritablement en main.
