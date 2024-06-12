@@ -42,3 +42,9 @@ Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y i
 - Final Fantasy XIV: 2917h12 J'ai déjà joué au jeu avant ce marathon, j'en parlerai en temps et en heure
 - Final Fantasy XV: Pas encore lancé
 - Final Fantasy XVI: J'ai déjà joué au jeu avant ce marathon, j'en parlerai en temps et en heure
+
+### Tier List
+
+Je classe les jeux dans une tier list au fur et à mesure de mon avancée, ça permet de résumer à la fois mon progrès et mon avis de façon très superficielle.
+
+![Tier list des jeux FF auxquels j'ai joué](/assets/img/articles/ff_marathon_summary/tier_list.png)
