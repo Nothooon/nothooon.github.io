@@ -28,8 +28,8 @@ On attend donc de ce second épisode une copie plus aboutie, plus poussée que s
 {: .prompt-info }
 
 > Now Playing: [Final Fantasy II - Rebel Army Theme (PS Version) by Nobuo Uematsu] 
-<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_rebel_theme.mp3">Your browser does not support the audio tag.</audio>
-
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_rebel_theme.mp3">Your browser does not support the audio tag.</audio>
+{: .prompt-tip}
 
 ## Graphismes et Musique
 
@@ -196,7 +196,8 @@ Si cette très longue explication du système ne vous l'a pas fait comprendre, F
 ### Système de Combat
 
 > Now Playing: [Final Fantasy II - Battle Theme 1 (PS Version) by Nobuo Uematsu] 
-<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_battle_theme.mp3">Your browser does not support the audio tag.</audio>
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_battle_theme.mp3">Your browser does not support the audio tag.</audio>
+{: .prompt-tip}
 
 Le système de combat de Final Fantasy II ne change pas vraiment. Vous choisissez une action pour chacun de vos personnages et ils attaquent dans un certain ordre, dépendant de leur agilité et de celles des ennemis.
 Le jeu a donc le [même gros défaut que son prédécesseur]({{ site.url }}/posts/final_fantasy_1/#système-de-combat): il est très difficile de mettre une stratégie en place. 
@@ -220,7 +221,8 @@ Ce manuel, crucial pour bien aborder le jeu, n'a aucunement été fourni par Squ
 ## Conclusion
 
 > Now Playing: [Final Fantasy II - Finale (PS Version) by Nobuo Uematsu] 
-<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_finale_theme.mp3">Your browser does not support the audio tag.</audio>
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_2/ff2_finale_theme.mp3">Your browser does not support the audio tag.</audio>
+{: .prompt-tip}
 
 Vous l'aurez compris à la longueur de cet article, Final Fantasy 2 est un jeu vraiment intéressant. J'ai pu avoir certains propos un peu durs parfois, sans tenir compte de la date de sortie de ces jeux et des limitations techniques qui en découlent.  
 Avec le contexte de sortie du jeu en tête, Final Fantasy II me semble être un petit miracle (au même titre que FF premier du nom).  

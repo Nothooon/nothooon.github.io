@@ -10,6 +10,11 @@ image:
   alt: Final Fantasy I Logo # or base64 URI
 ---
 
+Ça va sans dire, ça a mal vieilli. Mais il est toujours intéressant de poser la manette et faire un retour au source.  
+Alors, c'était comment les débuts de Final Fantasy ?
+
+----
+
 {% if site.lang == "fr" %}
   {% capture english_link %}{{ site.url }}/en{{ page.url }}{% endcapture %}
   <a href="{{ english_link }}" >{% t pages.english_article %}</a>

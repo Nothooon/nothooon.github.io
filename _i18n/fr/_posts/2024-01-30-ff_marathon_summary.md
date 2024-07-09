@@ -23,9 +23,9 @@ Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y i
 
 - [Final Fantasy I]( {{ site.url }}/posts/final_fantasy_1 ): 11h54
 - [Final Fantasy II]( {{ site.url }}/posts/final_fantasy_2 ): 8h41
-- [Final Fantasy III]( {{ site.url }}/posts/final_fantasy_3 ): 9h48 (~12h en incluant les game overs)
-- [Final Fantasy IV]( {{ site.url }}/posts/final_fantasy_4 ): 11h36 (17h en incluant les game overs et problèmes de sauvegardes) 
-- [Final Fantasy V]( {{ site.url }}/posts/final_fantasy_5 ): En cours
+- [Final Fantasy III]( {{ site.url }}/posts/final_fantasy_3 ): 9h48 (~12h en incluant les gameover)
+- [Final Fantasy IV]( {{ site.url }}/posts/final_fantasy_4 ): 11h36 (17h en incluant les gameover et problèmes de sauvegardes) 
+- [Final Fantasy V]( {{ site.url }}/posts/final_fantasy_5 ): ~ 19h (20h+ en incluant les gameover)
 - Final Fantasy VI: Pas encore lancé
 - Final Fantasy VII: Pas encore lancé
 - Final Fantasy VII Remake + Intergrade:  Pas encore lancé
