@@ -57,15 +57,15 @@ Bien que cette communauté se concentre avant tout sur les jobs de combat, il ex
 
 #### Stratégies
 
-https://www.thepfstrat.com
+[The PF Strat](https://www.thepfstrat.com)
 
 #### Glossaire
 
-https://ffxiv.consolegameswiki.com/wiki/Acronyms,_abbreviations,_and_common_terms -> Glossaire très très général
+[Glossaire du Wiki](https://ffxiv.consolegameswiki.com/wiki/Acronyms,_abbreviations,_and_common_terms) -> Glossaire très très général
 
-https://www.thepfstrat.com/jargon -> Termes utilisés en raids
+[Glossaire de The PF Strat](https://www.thepfstrat.com/jargon) -> Termes utilisés en raids
 
-https://www.thegamer.com/final-fantasy-14-universal-markers-tips-tricks-guide/ -> Guide imagé des différents marqueurs d'attaque
+[Marqueurs en combat](https://www.thegamer.com/final-fantasy-14-universal-markers-tips-tricks-guide/) -> Guide imagé des différents marqueurs d'attaque que vous croiserez en combat
 
 #### ACT
 
@@ -102,6 +102,16 @@ https://www.thegamer.com/final-fantasy-14-universal-markers-tips-tricks-guide/ -
 ### Collection
 
 ### Lore
+
+#### Conventions de nommage
+
+Chaque race du jeu à sa propre histoire et fonctionnement social. Il en découle des conventions différentes pour nommer les gens.
+Ces conditions sont précisées sur les forums de FF XIV et sont utilisées lors de la création de personnage lorsque vous utilisez l'option pour générer un nom aléatoire pour votre personnage.
+
+- [Hyur, Elezéens, Roegadyns, Lalafell et Au'Ra](https://forum.square-enix.com/ffxiv/threads/63112)
+- [Viera](https://forum.square-enix.com/ffxiv/threads/398565)
+- [Hrotghar (les conventions pour les femmes n'ont pas encore été ajoutées)](https://forum.square-enix.com/ffxiv/threads/398566)
+
 
 ### Documentaires
 
