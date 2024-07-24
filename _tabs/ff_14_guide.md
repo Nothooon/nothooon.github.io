@@ -187,6 +187,11 @@ Ce n'est qu'un exemple, il en existe pas mal d'autres. Ce sont souvent les nouve
 
 6. ~~Le Poker et le Blackjack dans les nightclubs du jeu..~~
 
+#### Universalis
+
+Avoir du fric c'est bien, le dépenser c'est mieux. Pour faire des économies, vous pouvez utiliser [Universalis](https://universalis.app/).
+Sur ce site, vous pouvez comparer les prix d'un objet entre les mondes pour savoir où aller pour payer le moins cher.
+
 ### Changer facilement de job
 
 En utilisant quelques hotbars et des macros bien senties, vous pourrez vous créer un petit menu perso pour changer facilement de job.
