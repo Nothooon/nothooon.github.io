@@ -25,24 +25,29 @@ Pour installer Dalamud, le plus simple reste encore de passer par [XIVQuickLaunc
 
 XL et Dalamud sont la base de pas mal de choses dont je vais parler ici, il est donc primordial de commencer par installer XIVQuickLauncher si vous voulez utiliser l'intégralité de ce dont je vais parler.
 
-### Add-Ons en vrac
-
-TODO
+<!-- ### Add-Ons en vrac
 
 ## Sites Généraux
 
 Ces sites servent de wiki et sont très complets sur à peu près tous les aspects du jeu:
 
 - [Eorzea World](https://eorzeaworld.com)
-- [FF XIV Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)
-- 
+- [FF XIV Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki) -->
 
 
 ## Combat
 
 Cette section sera dédiée aux combats et plus largement aux jobs de combat.
+Nous allons y parler de guides pour jouer votre job correctement, mais aussi de stratégies en raid, de captures de performances et du jargon utilisé par les joueurs.
 
 ### The Balance
+
+[The Balance](https://www.thebalanceffxiv.com/) est LA référence pour apprendre à jouer votre job. Il contient tout ce dont vous avez besoin: guides, astuces, gearsets, FAQ, openers, etc...
+Le tout est illustré, facile à comprendre et est maintenu activement par des joueurs. 
+
+Il existe aussi un [serveur discord](https://discord.gg/thebalanceffxiv) qui compile les mêmes informations (voire plus) et vous permet de discuter avec des joueurs directement pour poser vos questions si besoin. 
+
+Bien que cette communauté se concentre avant tout sur les jobs de combat, il existe aussi quelques ressources pour les jobs d'artisanat, bien que ce ne soit pas ma source privilégiée dans ce cas.
 
 ### Astuces pour pex
 
@@ -51,6 +56,7 @@ Cette section sera dédiée aux combats et plus largement aux jobs de combat.
 ### Ressources pour les raids
 
 #### Stratégies
+
 https://www.thepfstrat.com
 
 #### Glossaire
@@ -66,6 +72,8 @@ https://www.thegamer.com/final-fantasy-14-universal-markers-tips-tricks-guide/ -
 #### FF Logs
 
 #### XIV Anaylysis
+
+## Glamour
 
 ## Artisanat
 
