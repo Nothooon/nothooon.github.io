@@ -11,8 +11,9 @@ Je vais essayer de tout organiser correctement et j'espère que le sommaire à d
 
 Je ne pourrais pas me plonger dans les détails de chaque section, sinon cette page ne sera jamais finie. Considérez donc tout ça comme une introduction au gigantesque contenu du jeu.
 
-**DISCLAIMER: Je vais parler de logiciels tiers, d'add-ons et autres. Ni les logiciels tiers, ni les add-ons ne sont autorisés par Square Enix.**
-**Cependant, ils sont tous client-side ou web-based, donc vous ne risquez rien à les utiliser. La seule chose à ne pas faire, c'est d'en parler ouvertement dans le chat du jeu. Si vous le faites, vous vous exposez à des sanctions dont je ne suis évidemment pas responsable :)**
+
+> Je vais parler de logiciels tiers, d'add-ons et autres. Ni les logiciels tiers, ni les add-ons ne sont autorisés par Square Enix. Cependant, ils sont tous client-side ou web-based, donc vous ne risquez rien à les utiliser. La seule chose à ne pas faire, c'est d'en parler ouvertement dans le chat du jeu. Si vous le faites, vous vous exposez à des sanctions dont je ne suis évidemment pas responsable :)
+{: .prompt-warning }
 
 ## XIV Launcher et Dalamud
 
@@ -36,6 +37,7 @@ Ces sites servent de wiki et sont très complets sur à peu près tous les aspec
 - [Eorzea World](https://eorzeaworld.com)
 - [FF XIV Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki) -->
 
+**---**
 
 ## Combat
 
@@ -72,9 +74,25 @@ Il est préférable de garder ses mandats pour l'artisanat plutôt que le pex de
 Dans cette section, je vais lister des sites et informations concernant les instances de combat de FF XIV.
 Par contre, on ne parlera pas des défis et raids normaux, uniquement de leurs versions Extrêmes et Sadiques.
 
+Avant de commencer, voici ce que je vous recommande de faire avant de vous lancer dans l'Endgame de FF14:
+
+- Atteignez votre limite d'iLvl (item level) actuelle. Les défis et raids vous demanderont d'être au maximum de vos performances et sont exigeants sur le DPS. Si votre DPS est trop bas (quelque soit votre rôle), vous atteindrez "l'enrage" du combat sans pouvoir compléter l'instance.
+- Préparez votre stock de nourriture de raid. Le meilleur plat à utiliser pour votre job est souvent indiqué dans les guides.
+Vous pouvez aussi préparer votre stock de potion, même si ce n'est jamais nécessaire pour finir les instances.
+- Apprenez le fonctionnement de votre job et les subtilités de votre rôle. Il y aura beaucoup de mécaniques à résoudre et d'attaques à esquiver, vous devez être capable de jouer votre rôle instinctivement pour vous concentrer sur ce que fait le boss.
+- Ayez quelques bases sur le vocabulaire utilisé en raid et faites en sorte de comprendre un minimum les macros affichées en début de combat.
+
+Idéalement, il vous faudrait un groupe d'au moins 6 personnes qui puisse se réunir régulièrement, ça aide beaucoup (puis c'est cool de progresser ensemble).
+Soyez toujours patients, attentifs et ouvert aux critiques, sinon, le groupe implosera rapidement :(
+
 #### Stratégies
 
-[The PF Strat](https://www.thepfstrat.com) -> Stratégies pour défis et raids à partir d'Endwalker
+Quelques liens en vrac vers des reccueils de guides et stratégies (attention aux spoilers):
+
+[The PF Strat](https://www.thepfstrat.com) -> Stratégies pour défis et raids à partir d'Endwalker. Inclus aussi des macros basiques que vous pouvez copier/coller.
+
+[LA référence des guides, Hector](https://www.youtube.com/@HectorHectorson) -> Tellement une référence que certains groupes appliquent les "Hector Strats"
+[Mon petit préféré, Yukizuri](https://www.youtube.com/@yukizuri) -> Guides vidéos bien illustrés, avec schéma et démonstration in-game
 
 #### Glossaire
 
@@ -93,6 +111,8 @@ Dans cette section, je vais vous présenter les outils permettant de mesurer vos
 #### FF Logs
 
 #### XIV Anaylysis
+
+**---**
 
 ## Glamour
 
@@ -119,6 +139,7 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 - Déplacer et modifier à votre guise le squelette de tous les personnages à l'écran, ce qui permet de leur faire prendre n'importe quelle pose.
 - Modifier l'apparence et l'équipement de tous les personnages à l'écran. Les changements sont uniquement visuels, ce qui est parfait pour essayer des tenues et ainsi savoir si l'achat ou le farm d'une tenue sera rentabilisé.
 
+**---**
 
 ## Artisanat
 
@@ -130,6 +151,8 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 
 ### Pêche
 
+**---**
+
 ## Housing
 
 ### Jardinage
@@ -140,11 +163,36 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 
 #### Ocean Fishing
 
+**---**
+
 ## Autres
+
+Une section vrac pour tout ce que je n'ai pas mis avant.
 
 ### Comment gagner du FRIC
 
+Avoir du fric, c'est pratique, alors je vous partage généreusement quelques astuces pour vous en mettre plein les poches.
+
+1. Roulettes: Même si vous ne voulez pas les faire pour pex vos jobs, faire les roulettes est très rentable niveau pognon. Chaque jour, vous gagnerez ~100k gils si vous faites toutes les roulettes avec le rôle bonus.
+
+2. Mandats: Les mandats d'Alchimiste et Cuisiniers d'Endwalker vous rapportent environ 1M de gils pour 100 mandats. Récupérer 100 mandats prend environ 18 jours, ce qui vous laisse largement le temps de récolter les matériaux pour votre prochain set de 100 mandats.
+
+3. Cartes au trésor: Vous avez deux options: vendre les cartes au trésor (~22k par map) ou alors les accumuler et faire une soirée de chasse au trésor. Les résultats sont bien plus aléatoires mais souvent bien plus rentable (matériaux rares, mémoquartz et gils s'accumulent plutôt vite)
+
+4. Drop des défis extrêmes: Les matériaux gagnés en faisant les défis extrêmes peuvent se vendre très cher (ça dépend surtout d'à quel point le combat est chiant et de si les armes craftables avec sont belles ou non). Ces matériaux sont soit droppés directement, soit obtenus en désynthétisant les armes droppées. 
+Par exemple, le matériaux du premier défi de ShB se vend 370 000 gils, alors que celui du 6ème seulement 1 000 gils.
+
+5. Farm de Mascottes: Il y a pas mal de mascottes qui se vendent ultra cher. Par exemple, la mascotte "Jeune clionide" du donjon "Akadaemia Anydre" de Shadowbringers se vend actuellement pour environ 500 000 gils.Le donjon ne prend qu'environ 12 minutes à être clear (sûrement encore moins maintenant en étant niveau 100).
+Ce n'est qu'un exemple, il en existe pas mal d'autres. Ce sont souvent les nouveaux objets qui se vendent le plus cher.
+
+6. ~~Le Poker et le Blackjack dans les nightclubs du jeu..~~
+
 ### Changer facilement de job
+
+En utilisant quelques hotbars et des macros bien senties, vous pourrez vous créer un petit menu perso pour changer facilement de job.
+Le principe est de créer une macro par job. Chaque macro modifiera votre gearset, votre layout de HUD et appliquera la planche mirage de votre choix.
+
+[Tutoriel ici](https://www.reddit.com/r/ffxiv/comments/ezyiul/using_macros_i_created_a_simple_jobswitch_menu/)
 
 ### Collection
 
