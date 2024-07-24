@@ -97,6 +97,9 @@ Dans cette section, je vais vous présenter les outils permettant de mesurer vos
 ## Glamour
 
 Le style est la chose la plus importante de ce jeu. Après tout, qui n'a jamais farmé un défi extrême juste pour avoir une belle glam ?
+Si vous ne savez pas du tout comment fonctionne le système de glamour du jeu, je vous invite à lire [ce tutoriel](https://leconventdesfous.fr/le-glamour-dans-ffxiv/) du Covent des Fous, il est très complet.
+
+Ensuite, vous pouvez lire la suite de cette section qui parle de ressources pour pousser plus loin votre poursuite de la tenue ultime.
 
 ### Eorzea Collection
 
@@ -140,6 +143,8 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 ## Autres
 
 ### Comment gagner du FRIC
+
+### Changer facilement de job
 
 ### Collection
 
