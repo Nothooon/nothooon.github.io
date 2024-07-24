@@ -64,10 +64,12 @@ Le seul inconvénient, c'est que vous ne pouvez le faire qu'une fois et qu'il fa
 
 3. **Les donjons:** Faire en boucle le donjon le plus haut niveau que vous pouvez. En moyenne, il vous faudra 5 runs d'un donjon pour pouvoir passer au donjon suivant. Attention aux donjons de niveau rond (50, 60, 70, etc...) qui ne donnent quasiment pas d'xp (le pex niveau 60 à 61 se fera donc sur le donjon niveau 59)
 
-4. **Les Mandats et Aléas:** Ces deux méthodes ne sont pas idéales, mais servent surtout pour les jobs très bas niveau, avant que vous ne puissiez rejoindre les premiers donjons.  
+4. **Le Carnet de Khloe:** Chaque semaine, remplir le carnet de Khloe vous donnera un sacré paquet d'expérience. La récompense du carnet scale sur le niveau du job avec lequel vous le lui rendez, ce qui rend cette option valable à tous les niveaux.
+
+5. **Les Mandats et Aléas:** Ces deux méthodes ne sont pas idéales, mais servent surtout pour les jobs très bas niveau, avant que vous ne puissiez rejoindre les premiers donjons.  
 Il est préférable de garder ses mandats pour l'artisanat plutôt que le pex des jobs de combat, et à haut niveau, les aléas se farment plus pour les gemstones que pour l'expérience.
 
-5. **Le Bestiaire**: Là encore, une solution adaptée uniquement aux tous premiers niveaux. Le bestiaire a aussi le désavantage de n'être faisable qu'une fois et de ne pas être disponible pour les jobs n'étant par originaires d'ARR.
+6. **Le Bestiaire**: Là encore, une solution adaptée uniquement aux tous premiers niveaux. Le bestiaire a aussi le désavantage de n'être faisable qu'une fois et de ne pas être disponible pour les jobs n'étant par originaires d'ARR.
 
 ### Ressources pour les raids
 
@@ -186,6 +188,11 @@ Par exemple, le matériaux du premier défi de ShB se vend 370 000 gils, alors q
 Ce n'est qu'un exemple, il en existe pas mal d'autres. Ce sont souvent les nouveaux objets qui se vendent le plus cher.
 
 6. ~~Le Poker et le Blackjack dans les nightclubs du jeu..~~
+
+#### Universalis
+
+Avoir du fric c'est bien, le dépenser c'est mieux. Pour faire des économies, vous pouvez utiliser [Universalis](https://universalis.app/).
+Sur ce site, vous pouvez comparer les prix d'un objet entre les mondes pour savoir où aller pour payer le moins cher.
 
 ### Changer facilement de job
 
