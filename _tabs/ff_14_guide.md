@@ -210,7 +210,7 @@ Le site catalogue absolument tous les objets récoltable du jeu, leur origine, e
 En liant votre personnage au site, vous pourrez aussi traquer votre progression dans chacune des catégories.
 
 > Certaines catégories sont actualisées automatiquement (montures et mascottes par exemple), mais d'autres doivent être remplies à la main (rouleaux d'orchestrion, bardes de Chocobo et Magie Bleu par exemple)
-{{: .prompt-warning }}
+{: .prompt-warning }
 
 ### Lore
 
