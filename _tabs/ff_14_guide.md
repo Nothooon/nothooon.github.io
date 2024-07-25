@@ -153,6 +153,10 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 
 ### Pêche
 
+#### Fishing Log
+
+#### Ocean Fishing
+
 **---**
 
 ## Housing
@@ -160,10 +164,6 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 ### Jardinage
 
 ### Planification de Maisons
-
-#### Fishing Log
-
-#### Ocean Fishing
 
 **---**
 
@@ -202,6 +202,15 @@ Le principe est de créer une macro par job. Chaque macro modifiera votre gearse
 [Tutoriel ici](https://www.reddit.com/r/ffxiv/comments/ezyiul/using_macros_i_created_a_simple_jobswitch_menu/)
 
 ### Collection
+
+Il existe beaucoup de collections différentes dans le jeu: montures, mascottes, cartes de triple triades, rouleaux d'orchestrion, etc...
+Pour faciliter la dure tâche de complèter vos collections, rendez vous sur [FFXIV Collect](https://ffxivcollect.com/).
+
+Le site catalogue absolument tous les objets récoltable du jeu, leur origine, etc...
+En liant votre personnage au site, vous pourrez aussi traquer votre progression dans chacune des catégories.
+
+> Certaines catégories sont actualisées automatiquement (montures et mascottes par exemple), mais d'autres doivent être remplies à la main (rouleaux d'orchestrion, bardes de Chocobo et Magie Bleu par exemple)
+{{: .prompt-warning }}
 
 ### Lore
 
