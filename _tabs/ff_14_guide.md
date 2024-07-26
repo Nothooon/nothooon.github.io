@@ -28,14 +28,18 @@ Pour installer Dalamud, le plus simple reste encore de passer par [XIVQuickLaunc
 
 XL et Dalamud sont la base de pas mal de choses dont je vais parler ici, il est donc primordial de commencer par installer XIVQuickLauncher si vous voulez utiliser l'intégralité de ce dont je vais parler.
 
-<!-- ### Add-Ons en vrac
+<!-- ### Add-Ons en vrac  -->
 
 ## Sites Généraux
 
-Ces sites servent de wiki et sont très complets sur à peu près tous les aspects du jeu:
+Voici une liste de sites qui sont toujours utiles à avoir sous la main.
 
-- [Eorzea World](https://eorzeaworld.com)
-- [FF XIV Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki) -->
+- [FF XIV Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki) -> Le Wiki du jeu, toujours très utile
+- [Garland Tools DB](https://www.garlandtools.org/db/) -> Une base de données de tous les objets, ennemis, combats et quêtes du jeu. Liste toutes leurs caractéristiques, notamment comment/où les obtenir. Grâce à l'affichage en panneau sur un seul tableau, il est très simple de suivre un enchainement de quêtes ou un arbre de craft.
+- [XIV Todo](https://xivtodo.com) -> Une TODO list maintenue automatiquement tant que votre personnage est lié au site. Il ne s'agit pas d'une TODO list pour les tâches quotidiennes/hebdomadaires, mais d'une TODO list pour tous les combats et storyline du jeu. Très utile pour savoir si vous avez bien complété chaque extension en entier !
+Les contenus que vous n'avez pas débloqué sont cachés par défaut pour éviter les spoilers et vous pouvez voir les récompenses offertes par chaque combat/quête pour faciliter vos choix. 
+- [FF XIV Macros](https://www.ffxivmacro.com/Macros/) -> Une liste de macros utiles ou fun, proposées par la communauté.
+- [Faloop](https://faloop.app/) -> Tracker/wiki pour les chasses et les ALEAs.
 
 **---**
 
@@ -175,19 +179,22 @@ Une section vrac pour tout ce que je n'ai pas mis avant.
 
 Avoir du fric, c'est pratique, alors je vous partage généreusement quelques astuces pour vous en mettre plein les poches.
 
-1. Roulettes: Même si vous ne voulez pas les faire pour pex vos jobs, faire les roulettes est très rentable niveau pognon. Chaque jour, vous gagnerez ~100k gils si vous faites toutes les roulettes avec le rôle bonus.
+- Roulettes: Même si vous ne voulez pas les faire pour pex vos jobs, faire les roulettes est très rentable niveau pognon. Chaque jour, vous gagnerez ~100k gils si vous faites toutes les roulettes avec le rôle bonus.
 
-2. Mandats: Les mandats d'Alchimiste et Cuisiniers d'Endwalker vous rapportent environ 1M de gils pour 100 mandats. Récupérer 100 mandats prend environ 18 jours, ce qui vous laisse largement le temps de récolter les matériaux pour votre prochain set de 100 mandats.
+- Mandats: Les mandats d'Alchimiste et Cuisiniers d'Endwalker vous rapportent environ 1M de gils pour 100 mandats. Récupérer 100 mandats prend environ 18 jours, ce qui vous laisse largement le temps de récolter les matériaux pour votre prochain set de 100 mandats.
 
-3. Cartes au trésor: Vous avez deux options: vendre les cartes au trésor (~22k par map) ou alors les accumuler et faire une soirée de chasse au trésor. Les résultats sont bien plus aléatoires mais souvent bien plus rentable (matériaux rares, mémoquartz et gils s'accumulent plutôt vite)
+- Cartes au trésor: Vous avez deux options: vendre les cartes au trésor (~22k par map) ou alors les accumuler et faire une soirée de chasse au trésor. Les résultats sont bien plus aléatoires mais souvent bien plus rentable (matériaux rares, mémoquartz et gils s'accumulent plutôt vite)
 
-4. Drop des défis extrêmes: Les matériaux gagnés en faisant les défis extrêmes peuvent se vendre très cher (ça dépend surtout d'à quel point le combat est chiant et de si les armes craftables avec sont belles ou non). Ces matériaux sont soit droppés directement, soit obtenus en désynthétisant les armes droppées. 
+> Une liste de tous les emplacements possibles pour les cartes au trésor du jeu est disponible sur [Heavenswhere](https://heavenswhere.com/).
+{: .prompt-info }
+
+- Drop des défis extrêmes: Les matériaux gagnés en faisant les défis extrêmes peuvent se vendre très cher (ça dépend surtout d'à quel point le combat est chiant et de si les armes craftables avec sont belles ou non). Ces matériaux sont soit droppés directement, soit obtenus en désynthétisant les armes droppées. 
 Par exemple, le matériaux du premier défi de ShB se vend 370 000 gils, alors que celui du 6ème seulement 1 000 gils.
 
-5. Farm de Mascottes: Il y a pas mal de mascottes qui se vendent ultra cher. Par exemple, la mascotte "Jeune clionide" du donjon "Akadaemia Anydre" de Shadowbringers se vend actuellement pour environ 500 000 gils.Le donjon ne prend qu'environ 12 minutes à être clear (sûrement encore moins maintenant en étant niveau 100).
+- Farm de Mascottes: Il y a pas mal de mascottes qui se vendent ultra cher. Par exemple, la mascotte "Jeune clionide" du donjon "Akadaemia Anydre" de Shadowbringers se vend actuellement pour environ 500 000 gils.Le donjon ne prend qu'environ 12 minutes à être clear (sûrement encore moins maintenant en étant niveau 100).
 Ce n'est qu'un exemple, il en existe pas mal d'autres. Ce sont souvent les nouveaux objets qui se vendent le plus cher.
 
-6. ~~Le Poker et le Blackjack dans les nightclubs du jeu..~~
+- ~~Le Poker et le Blackjack dans les nightclubs du jeu..~~
 
 #### Universalis
 
