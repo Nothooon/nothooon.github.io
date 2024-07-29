@@ -26,7 +26,9 @@ Pour installer Dalamud, le plus simple reste encore de passer par [XIVQuickLaunc
 - Permet au jeu de tourner sous Linux
 - **Installe et lancer automatiquement Dalamud sans action supplémentaire nécessaire de votre part**
 
-XL et Dalamud sont la base de pas mal de choses dont je vais parler ici, il est donc primordial de commencer par installer XIVQuickLauncher si vous voulez utiliser l'intégralité de ce dont je vais parler.
+**XL et Dalamud sont la base de pas mal de choses dont je vais parler ici, il est donc primordial de commencer par installer XIVQuickLauncher si vous voulez utiliser l'intégralité de ce dont je vais parler.**
+
+![XIV Launcher Screenshot](/assets/img/tabs/ff14_guide/xiv_launcher.png)
 
 <!-- ### Add-Ons en vrac  -->
 
@@ -57,6 +59,10 @@ Il existe aussi un [serveur discord](https://discord.gg/thebalanceffxiv) qui com
 
 Bien que cette communauté se concentre avant tout sur les jobs de combat, il existe aussi quelques ressources pour les jobs d'artisanat, bien que ce ne soit pas ma source privilégiée dans ce cas.
 
+![The Balance SMN Guide Screenshot](/assets/img/tabs/ff14_guide/the_balance_screenshot.PNG)
+
+---
+
 ### Astuces pour pex
 
 Voici une liste des meilleurs moyen de pex un job de combat, triés de la plus rentable à la moins rentable:
@@ -74,6 +80,15 @@ Le seul inconvénient, c'est que vous ne pouvez le faire qu'une fois et qu'il fa
 Il est préférable de garder ses mandats pour l'artisanat plutôt que le pex des jobs de combat, et à haut niveau, les aléas se farment plus pour les gemstones que pour l'expérience.
 
 6. **Le Bestiaire**: Là encore, une solution adaptée uniquement aux tous premiers niveaux. Le bestiaire a aussi le désavantage de n'être faisable qu'une fois et de ne pas être disponible pour les jobs n'étant par originaires d'ARR.
+
+#### Options alternatives
+
+Il existe certaines façon de gagner de l'expérience plus niches et qui ne fonctionnent que pour certains niveaux:
+- **Heaven-on-High**: Le second donjon sans fond, accessible pendant la MSQ de Stormblood, la façon la plus rapide de monter du **niveau 60 à 70** après les roulettes. Enchainer les étages 21 à 30 en boucle est une très bonne source d'expérience, surtout avec l'Armoury Bonus (+100% d'xp si vous avez un autre job plus haut niveau que celui que vous jouez).
+
+- **Bozja**: Bozja est une zone très particulière de Final Fantasy XIV dans laquelle vous vous battrez énormément. Accessible durant la MSQ de Shadowbringers, ce sera une zone idéale pour passer du **niveau 70 à 80** et est une méthode alternative au spam de donjons pour les **niveaux 81 à 90**.
+
+---
 
 ### Ressources pour les raids
 
@@ -108,15 +123,82 @@ Quelques liens en vrac vers des reccueils de guides et stratégies (attention au
 
 [Marqueurs en combat](https://www.thegamer.com/final-fantasy-14-universal-markers-tips-tricks-guide/) -> Guide imagé des différents marqueurs d'attaque que vous croiserez en combat
 
+---
+
 ### Performances Reviews
 
 Dans cette section, je vais vous présenter les outils permettant de mesurer vos performances de combat, de les analyser et d'en tirer des pistes pour vous améliorer.
 
-#### ACT
+#### Active Combat Tracker (ACT)
+
+[Active Combat Tracker (ou ACT)](https://advancedcombattracker.com/) est le pilier sur lequel repose une grande partie du raiding un peu sérieux de FF XIV.
+C'est un tracker de combat (wow !), il va enregistrer tout ce qu'il se passe pendant un combat et en faire un fichier de log tout beau tout propre.
+
+Il est principalement utilisé pour mesurer le DPS, mais il enregistre vraiment TOUT: votre DPS certes, mais aussi votre healing, vos buffs, debuffs, vos déplacements, vos morts, etc... Il enregistre toutes ces infos pour les ennemis également.
+
+L'installation est très simple et si vous utilisez XIV Launcher, vous pouvez l'ajouter en tant que logiciel lancé en même temps que FF XIV. Il est aussi très simple d'ajouter un overlay afin de voir votre DPS pendant votre gameplay.
+
+![ACT Overlay Example](/assets/img/tabs/ff14_guide/act_overlay.PNG)
+
+Seul, ACT est pratique, mais tout son potentiel est révélé par les sites dont on va parler ensuite.
 
 #### FF Logs
 
+FF Logs se divise en deux parties: un logiciel d'upload et un site internet. Le premier sert simplement à uploader les logs générés par **ACT** sur le [site internet de FF Logs](https://fr.fflogs.com/).
+
+Ensuite, vient le gros morceau: le site internet. Après avoir uploadé vos logs, vous aurez accès à une quantité absolument folle d'informations sous la forme de rapports. Pour présenter la suite, je vais me baser sur [ce clear de P5S](https://fr.fflogs.com/reports/YFpdk6JwCB28txny) réalisé par votre mentor préféré :)
+
+On va passer en revue quelques écrans remarquables. Je vais en passer beaucoup et je ne vais pas parler de tous les filtres, graphs et statistiques que vous pouvez consulter sur ce site. La quantité d'information offerte par FF Logs est colossale et on peut vite s'y perdre. Concentrons nous donc sur l'essentiel:
+
+- **Vue Globale**: Un rapport peut contenir plusieurs combats différents et plusieurs pulls pour chaque combat. Ces pulls sont triables et vous peignent une belle image de votre session de raid. Vous pouvez ensuite choisir n'importe quel pull pour en voir les stats détaillés.
+![Vue Globale rapport](/assets/img/tabs/ff14_guide/ff_logs_global_view.PNG)
+
+- **Résumé**: Un simple résumé des principaux éléments du rapport: la composition du raid, le DPS, le HPS, les dégats encaissés et les morts.
+![FF Logs résumé pull](/assets/img/tabs/ff14_guide/ff_logs_encounter_summary.PNG)
+
+- **Damages Done**: C'est l'onglet pour lequel la plupart des gens utilisent FF Logs. 
+Cet onglet détail le DPS, l'uptime et le Parse % de chaque joueur. Si vous n'avez pas lu le glossaire, petit rappel de la signification de ces termes.
+  -  DPS: Dégats par Seconde. Il en existe trois types (expliqués en détail [ici](https://fr.fflogs.com/help/rdps)): 
+     -  le DPS classique
+     -  le rDPS (raid-contributing DPS): votre DPS auquel on retire les dégats issus des buffs des alliés et auquel on ajoute le DPS gagné grâce aux buffs que vous avez donné à vos alliés. Par exemple, pour un AST, le rDPS incluera le DPS gagné grâce à vos cartes.
+     -  le aDPS (adjusted DPS): votre DPS auquel on ne retire que les buffs individuels que vous avez reçu (le buff des cartes de l'AST par exemple).
+  -  Uptime: le temps que vous passer à utiliser votre GCD (Global Cooldown). On parle de période de "downtime" lorsqu'un joueur n'utilise pas de GCD ou lorsque le boss est inciblable.
+  -  Parse%: Ce pourcentage indique la proportion de parses moins bons que le votre.   
+  Ce pourcentage est calculé en comparant votre DPS aux autres parses qui utilisent le même job sur le même combat et lors de la même semaine (comme les récompenses de raid ont des limites hebdomadaires, on ne compare que les parses de la même semaine pour ne comparer que des parses où les joueurs ont un équipement de niveau similaire entre eux).  
+  Dans notre cas, votre invocateur préféré a un parse de 63%. Ça signifie donc que ce parse est meilleur que 63% des parses d'invocateurs sur P5S la semaine du 12 Avril 2023. 
+
+"Logiquement", l'ordre des rôles sur cette page devrait être `DPS Melee > DPS Magiques >= DPS Distance > Tanks > Healers`. A noter que votre DPS en soit ne compte pas vraiment. Si vous souhaitez vous améliorer, concentrez vous sur l'amélioration de votre uptime (indiqué dans la colonne "Active"). Votre DPS montera naturellement en même temps que votre uptime et l'amélioration de votre équipement.
+
+**Je passe l'onglet "Healing Done", qui présente les mêmes informations mais pour le soin**
+
+![FF Logs Damages Done](/assets/img/tabs/ff14_guide/ff_logs_damage_done.PNG)
+
+- **Replay**: Comme son nom l'indique, cet onglet vous propose un replay de votre combat. Dans notre cas, il va être disponible [ici](https://fr.fflogs.com/reports/YFpdk6JwCB28txny#fight=8&view=replay).   
+Bien que moins directement utile que les onglets présentés précédemment, je ne peux pas résister à l'envie de vous en parler car je trouve ça fou qu'on puisse obtenir ce genre de choses à partir d'un simple fichier de log.
+
+Ce replay en vue mini-map est customisable et contient une quantité folle d'informations: les status de tous les joueurs et ennemis, ce qu'ils castent, quand ils le castent, les marqueurs, les déplacements, TOUT. Vous pouvez même lier une vidéo et la synchroniser avec la vue mini-map, cacher certains éléments, etc...
+Son utilité principal est d'analyser les combats pour identifier des solutions aux mécaniques, des erreurs de placement, etc...
+
+##### Je ne peux pas tout lister !
+
+FF Logs est un site exceptionnel, un site quasiment indispensable pour ceux qui souhaitent se lancer sérieusement dans les raids tant vous pouvez obtenir, filtrer et trier absolument toutes les statistiques du jeu. Au dela de cette analyse des logs présentée au dessus, voici une petite liste des fonctionnalités disponibles:
+- Consulter les stats globales sur le combat de votre choix
+- Obtenir des informations détaillées sur les méthodes de calcul
+- Créer votre FC/Static sur le site qui devient alors un planificateur de session de raid/un historique de vos sessions passées
+- Recruter un/des membres pour compléter votre statique
+- Importer votre personnage pour obtenir des statistiques sur vos performances moyennes
+
+Une vraie merveille, maintenue gratuitement par la communauté, c'est beau !
+
 #### XIV Anaylysis
+
+[XIV Analysis](https://xivanalysis.com/) est lui aussi un site internet qui tire profit des logs générés par ACT. Le but de ce dernier est d'analyser vos performances et vous ressortir des points sur lesquels travailler. L'énorme avantage de ce site est qu'il vous propose des solutions **spécifiques à votre job** grâce à des guides écrits par la communauté et mis à jour régulièrement.
+
+En reprenant [le parse de la partie précédente](https://fr.fflogs.com/reports/YFpdk6JwCB28txny#fight=8&type=damage-done), on obtient [l'analyse suivante](https://endwalker.xivanalysis.com/fflogs/YFpdk6JwCB28txny/8/5):
+
+![Analyse Parse sur XIV Analysis](/assets/img/tabs/ff14_guide/xiv_analysis.PNG)
+
+Ce site ne vous dira pas comment jouer votre job précisément (pour ça, il y a [The Balance](#the-balance)) mais vous rappelera bien quels sont les points importants à respecter pour bien jouer votre job préféré.
 
 **---**
 
@@ -130,6 +212,8 @@ Ensuite, vous pouvez lire la suite de cette section qui parle de ressources pour
 ### Eorzea Collection
 
 [Eorzea Collection](https://ffxiv.eorzeacollection.com) est le site de référence pour les glams. En plus de vous fournir un [catalogue de tous les gearsets du jeu](https://ffxiv.eorzeacollection.com/gearsets), il vous permet aussi de consulter des [tenues conçues par d'autres joueurs](https://ffxiv.eorzeacollection.com/glamours) et de poster les votres !
+
+![Eorzea Collection](/assets/img/tabs/ff14_guide/eorzea_collection.PNG)
 
 ### Mode Photo
 
@@ -151,13 +235,23 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 
 ### GatherBuddy
 
+---
+
 ### Astuces pour pex
+
+---
 
 ### Teamcraft
 
+---
+
 ### Pêche
 
+---
+
 #### Fishing Log
+
+---
 
 #### Ocean Fishing
 
@@ -165,7 +259,13 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 
 ## Housing
 
+### Comment avoir un logement ?
+
+---
+
 ### Jardinage
+
+---
 
 ### Planification de Maisons
 
@@ -201,12 +301,16 @@ Ce n'est qu'un exemple, il en existe pas mal d'autres. Ce sont souvent les nouve
 Avoir du fric c'est bien, le dépenser c'est mieux. Pour faire des économies, vous pouvez utiliser [Universalis](https://universalis.app/).
 Sur ce site, vous pouvez comparer les prix d'un objet entre les mondes pour savoir où aller pour payer le moins cher.
 
+---
+
 ### Changer facilement de job
 
 En utilisant quelques hotbars et des macros bien senties, vous pourrez vous créer un petit menu perso pour changer facilement de job.
 Le principe est de créer une macro par job. Chaque macro modifiera votre gearset, votre layout de HUD et appliquera la planche mirage de votre choix.
 
 [Tutoriel ici](https://www.reddit.com/r/ffxiv/comments/ezyiul/using_macros_i_created_a_simple_jobswitch_menu/)
+
+---
 
 ### Collection
 
@@ -219,6 +323,8 @@ En liant votre personnage au site, vous pourrez aussi traquer votre progression 
 > Certaines catégories sont actualisées automatiquement (montures et mascottes par exemple), mais d'autres doivent être remplies à la main (rouleaux d'orchestrion, bardes de Chocobo et Magie Bleu par exemple)
 {: .prompt-warning }
 
+---
+
 ### Lore
 
 #### Conventions de nommage
@@ -230,8 +336,17 @@ Ces conditions sont précisées sur les forums de FF XIV et sont utilisées lors
 - [Viera](https://forum.square-enix.com/ffxiv/threads/398565)
 - [Hrotghar (les conventions pour les femmes n'ont pas encore été ajoutées)](https://forum.square-enix.com/ffxiv/threads/398566)
 
+---
 
 ### Documentaires
+
+#### Histoire du jeu (développement, patches, etc...)
+
+- [Remnants of a Realm](https://www.youtube.com/playlist?list=PLL5QTV3Hk60a35tst7sZDqhGpJXX3pviN): Une série rétrospective sur beaucoup d'aspects du jeu. Anciennes mécaniques, anciens donjons, historiques de chaque patch, etc... Le tout agrémenté d'images d'époques, c'est une vraie capsule temporelle dans l'histoire d'un jeu qui a déjà 12 ans !
+- [Documentaire de NoClip](https://www.youtube.com/watch?v=Xs0yQKI7Yw4): Un documentaire en trois parties qui revient sur la création de FF XIV, son échec et sa rennaissance. [Partie 1](https://www.youtube.com/watch?v=Xs0yQKI7Yw4), [Partie 2](https://youtu.be/aoOI5R-6u8k?si=6F3QrNzY5hg_n7kI), [Partie 3](https://www.youtube.com/watch?v=ONT6fxiu9cw)
+- [Documentaire de Tetryl sur Yoshi-P](https://www.youtube.com/watch?v=2NCAcouKN_E): Un documentaire parlant de Naoki Yoshida, à qui on attribue le succès de la renaissance de Final Fantasy XIV. 
+
+---
 
 ### Musique
 
@@ -258,3 +373,5 @@ J'ai fait plein de playlists juste pour vous :)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5o5LTC5933KHvA4WpYo4Ep?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5bUtAOItkw1yq0B3mYCbki?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
