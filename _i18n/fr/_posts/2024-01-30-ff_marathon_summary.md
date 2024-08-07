@@ -16,6 +16,10 @@ language: fr
  <a href="{{ english_link }}" >{% t pages.french_article %}</a>
 {% endif %}
 
+> UPDATE: J'ai ajouté des jeux à la liste :)   
+Peut être que je n'ai pas vraiment envie de finir ce marathon finalement.. 
+{: .prompt-info}
+
 Voici la liste complète des jeux auxquels je jouerai pendant ce marathon.
 Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y inclure mon temps de jeu.
 
@@ -39,9 +43,13 @@ Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y i
 - Final Fantasy XIII-1: Pas encore lancé
 - Final Fantasy XIII-2: Pas encore lancé
 - Final Fantasy XIII-3:  Pas encore lancé
+- **Final Fantasy Type-0: Pas encore lancé**
 - Final Fantasy XIV: 2917h12 J'ai déjà joué au jeu avant ce marathon, j'en parlerai en temps et en heure
 - Final Fantasy XV: Pas encore lancé
 - Final Fantasy XVI: J'ai déjà joué au jeu avant ce marathon, j'en parlerai en temps et en heure
+- **Final Fantasy Tactics:  Pas encore lancé**
+- **Final Fantasy Tactics Advance:  Pas encore lancé**
+- **Final Fantasy Tactics A2: Grimoire of the Rift:  Pas encore lancé**
 
 ### Tier List
 
