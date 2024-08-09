@@ -345,6 +345,7 @@ Ces conditions sont précisées sur les forums de FF XIV et sont utilisées lors
 - [Remnants of a Realm](https://www.youtube.com/playlist?list=PLL5QTV3Hk60a35tst7sZDqhGpJXX3pviN): Une série rétrospective sur beaucoup d'aspects du jeu. Anciennes mécaniques, anciens donjons, historiques de chaque patch, etc... Le tout agrémenté d'images d'époques, c'est une vraie capsule temporelle dans l'histoire d'un jeu qui a déjà 12 ans !
 - [Documentaire de NoClip](https://www.youtube.com/watch?v=Xs0yQKI7Yw4): Un documentaire en trois parties qui revient sur la création de FF XIV, son échec et sa rennaissance. [Partie 1](https://www.youtube.com/watch?v=Xs0yQKI7Yw4), [Partie 2](https://youtu.be/aoOI5R-6u8k?si=6F3QrNzY5hg_n7kI), [Partie 3](https://www.youtube.com/watch?v=ONT6fxiu9cw)
 - [Documentaire de Tetryl sur Yoshi-P](https://www.youtube.com/watch?v=2NCAcouKN_E): Un documentaire parlant de Naoki Yoshida, à qui on attribue le succès de la renaissance de Final Fantasy XIV. 
+- [LoreLinesXiv](https://www.youtube.com/@LoreLinesXIV) => Récapitulatifs de lore et théories
 
 ---
 
