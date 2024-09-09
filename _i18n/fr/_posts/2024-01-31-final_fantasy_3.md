@@ -23,17 +23,107 @@ Retour sur le meilleur jeu jusqu'ici, mais aussi peut être de l'ère "classique
  <a href="{{ french_link }}" >{% t pages.french_article %}</a>
 {% endif %}
 
-> I played the game with x4 exp and gils and I used for most of the game
-{: .prompt-info }
+## Préambule
+
+La date d'écriture de l'article est un peu mensongère. J'ai pris des notes pendant toute ma partie et j'ai ensuite mis en page ces notes à la date de publication de l'article. Cependant, vous pouvez voir que la dernière mise à jour est bien plus tardive. Alors pourquoi ? Déjà parce que je jouais aux autres jeux de la série et ensuite parce qu'écrire, c'est compliqué vous savez.   
+
+En tout cas, je me rends bien compte que mon avis sur le jeu a pas mal évolué, tout comme il avait évolué pour [Final Fantasy II]( {{ site.url }}/posts/final_fantasy_2 ). Plus le temps passe et plus j'apprécie ce 3ème opus, quand bien même je l'avais déjà beaucoup aimé lorsque j'y ai joué pour la première fois. Mais l'héritage qu'il porte dans la suite de la licence est bien plus marqué et personnellement, il me touche bien plus.
+
+Pour résumer ma pensée avant d'entrer dans les détails, Final Fantasy 3 est beau. Je ne parle pas d'une beauté visuelle ou musicale, même s'il dispose de ces deux qualités aussi, mais d'une beauté plus abstraite, sentimentale. 
+
+Cet article devrait être un peu plus personnel, même si on va respecter la tradition et commencer par expliquer comment le jeu fonctionne.
+
+<!-- ## Ressources pour l'écriture:
+
+Manuel en Jap: https://archive.org/details/finalfantasyiiifchiresscans/Final%20Fantasy%20III%20-%20Manual%20%28Searchable%29/page/n43/mode/2up 
+Manuel traduit (mais mise en page à chier): https://www.retrogames.cz/manualy/NES/Final_Fantasy_III_-_NES_-_Manual.pdf
+Article d'Eurogamer: http://web.archive.org/web/20121025152943/https://www.lostlevels.org/200312/200312-ffan2.shtml
+Page Wikipédia: https://en.wikipedia.org/wiki/Final_Fantasy_III
+
+-->
+
+> Now Playing: [Final Fantasy III - Prelude by Nobuo Uematsu]
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_3/ff3_prelude.mp3">Your browser does not support the audio tag.</audio>
+{: .prompt-tip}
+
+## Histoire et enjeux
+
+Final Fantasy III est sorti en Avril 1990 sur Famicom (l'équivalent de notre NES), exclusivement au Japon (comme les deux opus précédents). Il a été développé par globalement la même équipe que les deux premiers jeux de la série: dirigé et écrit par Hironobu Sakaguchi (et Kenji Terada pour l'écriture), au gameplay designé par Hiromichi Tanaka, avec des personnages designés par le légendaire Yoshitaka Amano et de la musique composée par le non moins légendaire Nobuo Uematsu. 
+
+Ce jeu est le dernier de la licence à être développé pour la Famicom. L'équipe travaillant sur le jeu est bien déterminée à créer le plus grand RPG de l'ère Famicom en tirant les leçons de leurs deux premiers jeux. 
+
+Il a d'ailleurs été dévéloppé et est sorti à une époque où la grande majorité des studios s'attelaient à prendre en main la nouvelle console de Nintendo, la Super Famicom (l'équivalent de la Super NES par chez nous) qui sortira à la fin de l'année 1990. La conception de Final Fantasy IV avait d'ailleurs déjà démarré !   
+
+C'est aussi pour cette raison que Final Fantasy III ne recevra pas de version internationale, contrairement à ce qui était prévu. Hiromichi Takana l'expliquait en 2007 dans [l'article "Fantasy Reborn" de Rob Fahey pour Eurogamer](https://web.archive.org/web/20100626022240/http://www.eurogamer.net/articles/fantasy-reborn-interview) (citation traduite par mes soins):
+
+> "De nos jours, nous savons que quand une console comme la PlayStation sort, il y aura une PlayStation 2 puis une PlayStation 3 [...], nous pouvons plus ou moins prévoir que ça arrivera dans le futur. Mais à l'époque, c'était la première fois qu'on voyait une nouvelle génération de consoles, et c'était vraiment très difficile de prédire ce qui allait ce passer. Nous travaillions si dur pour maitriser cette nouvelle technologie que nous n'avions simplement pas assez de main d'oeuvre pour travailler sur une version anglaise de Final Fantasy III"  
+> &mdash; <cite> Hiromichi Takana </cite>
+
+Cette difficulté à sortir le jeu du Japon suivra Square pendant longtemps. Cela s'explique non seulement par la date de sortie du jeu, en fin de vie de la Famicom, mais aussi à cause des ambitions du jeu. En effet, Final Fantasy III poussera la NES dans ses retranchements. Le jeu est énorme pour l'époque, et a dû être publié sur des cartouches de 512Ko, soit la deuxième plus grande taille de cartouche gérée par la Famicom. 
+
+> Quand nous avons développé FF3, il y avait tellement de contenu dans le jeu que la cartouche était presque complètement remplie. Et lorsque les nouvelles plateformes ont débarquées, il n'y avait tout simplement pas assez de place pour y amener Final Fantasy III car on aurait dû refaire les graphismes, la musique et tout le reste du contenu [pour avoir une qualité équivalente aux autres jeux]. Donc même si plusieurs opportunités de redévelopper Final Fantasy III se sont présentées, nous ne pouvions pas le faire.   
+> &mdash; <cite> Hiromichi Takana </cite>
+
+Aujourd'hui, 512Ko est une taille absolument ridicule. La musique dont vous avez peut être lancé la lecture juste au dessus pèse 2.95Mo, soit presque 6 fois plus que l'intégralité de Final Fantasy III. Gardez donc bien en tête que tout ce dont on va parler tient dans un sixième d'un fichier mp3 aujourd'hui. 
+Ce jeu existe donc grâce au travail absolument fabuleux des équipes de développement de Square. En tant que développeur moi-même, je ne peux qu'être admiratif des développeurs de cette époque, capables de nous offrir de merveilleuses aventures malgré toutes les contraintes inhérentes à ces plateformes.   
+
+> C'est environ 15 ans après la sortie originale du jeu que nous avons décider d'enfin nous lancer dans un remake complet du jeu. Nintendo nous a demandé de développer le jeu pour leur nouvelle console, la Nintendo DS. Le défi était intéressant, alors nous avons accepté.   
+> &mdash; <cite> Hiromichi Takana </cite>
+
+C'est cette taille, cette envergure qui repoussera encore et encore la sortie internationale du jeu, jusqu'au remake 3D sorti sur Nintendo DS en 2006 au Japon et 2007 dans le reste du monde. Final Fantasy III était alors le seul jeu Final Fantasy jamais sorti du Japon.   
+
+Par conséquent, beaucoup de gens ne connaissent le jeu que grâce à ce remake 3D, mais c'est bien de la version Pixel Remaster que nous allons parler.  
+Alors qu'est ce que tous ces moyens et toutes ces ambitions ont produit ? Réponse courte: un excellent jeu, mais je vais développer. 
+
+## Scénario
+
+Final Fantasy III nous met dans la peau de quatre orphelins vivant sur une île dans le ciel. 
+Un jour, un tremblement de terre (sur une ile dans les airs, oui oui) ouvre un passage vers une grotte jusque là scellée.  
+A l'intérieur, notre fraterie trouve un Cristal de Lumière qui leur octroie des pouvoirs et leur demande de s'en servir pour restaurer l'équilibre du Monde.  
+
+En effet, cet équilibre est menacé par Xande, l'un des trois apprentis de l'Archimage Noah, qui menace de s'emparer des autres cristaux pour faire sombrer le monde dans le chaos !
+Nos guerriers de la Lumière partent donc à l'aventure, aidant leur prochain dans leur quête pour stopper le maléfique sorcier, caché au fond de sa Tour de Cristal.
+
+Un scénario très simple en apparence, mais n'avez vous pas remarqué quelque chose de visible dès ce court synopsis ? Il y a bien plus de world-building que dans les opus précédents. Le scénario et l'objectif de nos héros est très simple, mais elle est soupoudrée de mystères dès le début. Qui est Noah ? Qui sont les deux autres apprentis ? Pourquoi Xande veut-il détruire le monde ? Qu'est ce que la tour de Cristal ? Où est-elle ? 
+
+Je me suis posé toutes ces questions et c'est une première pour la licence. Jusqu'ici, on n'avait que très peu de mystères à élucider. Le méchant était méchant, nous jouions les gentils et ça n'allait pas plus loin. Final Fantasy III nous accroche très vite et ça va nous aider à supporter un scénario qui, je le répète, est très simple et terre à terre.
+
+## L'appel de l'aventure 
 
 > Now Playing: [Final Fantasy III - Eternal Wind by Nobuo Uematsu]
 > <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_3/ff3_eternal_wind.mp3">Your browser does not support the audio tag.</audio>
 {: .prompt-tip}
 
-## Préambule
+J'ai envie de parler un peu plus longuement de la première partie du jeu. Elle commence comme  tous les autres, on est très vite jeté dans notre aventure puisque même notre petite île, perdue au milieu des cieux, subit quelques problèmes.
+
+Mais assez vite, j'ai été perturbé par la taille de la carte. Celle-ci était en effet... minuscule.
+
+![Carte de l'île volante de Final Fantasy III](/assets/img/articles/final_fantasy_3/ff3_sky_island_map.png)
+
+Une cascade, un désert, une forêt, quelques grottes et deux ou trois villages. La musique très entrainante (que vous pouvez écouter en ce moment même) ne suffisait pas à dissiper ce sentiment d'être à l'étroit. 
+On débloque très vite l'aéronef, ce qui donne l'impression d'une carte encore plus petite. Puis, Cid m'apprend que ma fraterie ne vient pas de notre île, mais de la terre en dessous et m'invite à partir l'explorer.
+
+J'avance alors par delà les limites de l'île volante à bord de mon aéronef et je comprends enfin que le jeu m'a eu, que je suis tombé dans son piège. La petite carte, Eternal Wind qui nous motive à avancer et nous donne envie d'avancer, c'était pour **ce** moment.
+
+> Now Playing: [Final Fantasy III - Boundless Ocean by Nobuo Uematsu]
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_3/ff3_the_boundless_ocean.mp3">Your browser does not support the audio tag.</audio>
+{: .prompt-tip}
+
+Nous quittons enfin notre berceau, nous voici sur la vraie map de Final Fantasy III. Devant moi, un océan qui semble infini (jamais une OST n'aura aussi bien porté son nom). Je me balade quelques temps avec mon aéronef puis je pose la manette.
+
+Il y a de ces moments absolument magiques dans les jeux vidéos, où tous les éléments s'alignent pour créer un moment magique. A titre personnel, la découverte du vrai monde de FF3 en fait partie. La beauté de l'océan, le changement total de paysage et d'envergure, le tout sublimé par une musique qui encapsule parfaitement cette beauté sereine, celle d'un monde qui a tant d'histoires à nous raconter et tant de mystères à nous dévoiler. 
+
+Je pourrais décrire cette scène de mille façons, voici la plus courte: cette scène est belle, tout simplement.
+
+Après avoir repris ma manette, j'ouvre ma carte. Une seule île ? Tu ne m'auras pas deux fois, Final Fantasy III !
+A la sortie du seul donjon qui nous est accessible, on se retrouve avec de nouvelles questions sur les cristaux, mais surtout, un deuxième moment magique.
+
+La révélation de l'océan m'avait rassurée sur l'envergue de ce jeu. Par contre, compléter le premier donjon m'a fait complètement revoir mes attentes pour ce dernier, mais je ne vous dirais pas pourquoi. 
+
+Il n'y aura pas plus de spoilers dans cet article ! Jouez au jeu par vous même !
 
 
-## Notes
+<!-- ## Notes
 
 ### Story Telling et Musique
 - Eternal Wind réutilisée dans FF14 = SE aime et respecte Final Fantasy
@@ -118,4 +208,4 @@ L'histoire se paie aussi le luxe d'avoir de vraies cinématiques et pas uniqueme
 ### __Conclusion / TLDR__
 
 Final Fantasy 3 est un très bon jeu. C'est une grosse amélioration par rapport aux deux premiers opus et franchement, je pourrais le relancer juste pour le fun. Il est bien plus convaincant que ces prédecesseurs, même avec mon regard moderne sur la licence.
-Bien qu'il reste encore beaucoup de secteurs dans lesquels la licence peut progresser, Square a su cibler les points cruciaux à améliorer et propose un jeu plus poli, plus clair, plus grand, plus ambitieux. Ça me donne beaucoup d'espoirs pour la suite, surtout parce que Final Fantasy 3 est le dernier épisode à être sorti sur NES. Nul doute que FF4 profitera des capacités supérieures de la SNES pour prendre le relai de cet épisode et emmener la licence au niveau supérieur.
+Bien qu'il reste encore beaucoup de secteurs dans lesquels la licence peut progresser, Square a su cibler les points cruciaux à améliorer et propose un jeu plus poli, plus clair, plus grand, plus ambitieux. Ça me donne beaucoup d'espoirs pour la suite, surtout parce que Final Fantasy 3 est le dernier épisode à être sorti sur NES. Nul doute que FF4 profitera des capacités supérieures de la SNES pour prendre le relai de cet épisode et emmener la licence au niveau supérieur. -->
