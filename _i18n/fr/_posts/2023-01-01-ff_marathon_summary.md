@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Final Fantasy Marathon: Sommaire et temps de jeu"
+title:  "Marathon Final Fantasy - Sommaire et temps de jeu"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 pin: true
-date: "2023-10-15"
+date: "2023-01-01"
 language: fr
 ---
 
@@ -25,12 +25,12 @@ Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y i
 
 ### Full Summary:
 
-- [Final Fantasy I]( {{ site.url }}/posts/final_fantasy_1 ): 11h54
-- [Final Fantasy II]( {{ site.url }}/posts/final_fantasy_2 ): 8h41
-- [Final Fantasy III]( {{ site.url }}/posts/final_fantasy_3 ): 9h48 (~12h en incluant les gameover)
-- [Final Fantasy IV]( {{ site.url }}/posts/final_fantasy_4 ): 11h36 (17h en incluant les gameover et problèmes de sauvegardes) 
-- [Final Fantasy V]( {{ site.url }}/posts/final_fantasy_5 ): ~ 19h (20h+ en incluant les gameover)
-- Final Fantasy VI: Pas encore lancé
+- [Final Fantasy I]( {{ site.url }}/posts/final_fantasy_1 ): Fini le 15/10/2023 en 11h54
+- [Final Fantasy II]( {{ site.url }}/posts/final_fantasy_2 ): Fini le 23/12/2024 en 8h41
+- [Final Fantasy III]( {{ site.url }}/posts/final_fantasy_3 ): Fini le 27/12/2023 en 9h48 (~12h en incluant les game-over)
+- [Final Fantasy IV]( {{ site.url }}/posts/final_fantasy_4 ): Fini le 27/01/2024 en 11h36 (17h en incluant les game-over et problèmes de sauvegardes) 
+- [Final Fantasy V]( {{ site.url }}/posts/final_fantasy_5 ): Fini le 12/06/2024 en ~19h (20h+ en incluant les game-over)
+- [Final Fantasy VI]( {{ site.url }}/posts/final_fantasy_6 ): Fini le 10/09/2024 en ~ 22h (25h+ en incluant les game-over)
 - Final Fantasy VII: Pas encore lancé
 - Final Fantasy VII Remake + Intergrade:  Pas encore lancé
 - Final Fantasy VII Rebirth:  Pas encore sorti

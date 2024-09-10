@@ -2,7 +2,6 @@
 layout: post
 icon: fab fa-fantasy-flight-games
 title: (WIP) Final Fantasy XIV
-toc: true
 order: 5
 ---
 

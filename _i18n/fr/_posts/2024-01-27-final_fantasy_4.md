@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy IV: Passage à la vitesse supérieure"
+title:  "(WIP) Final Fantasy IV - 50/50"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2024-01-27"

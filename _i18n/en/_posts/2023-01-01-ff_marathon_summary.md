@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Final Fantasy Marathon: Summary and Playtime"
+title:  "Final Fantasy Marathon - Summary and Playtime"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2023-10-15"
+date: "2023-01-01"
 pin: true
 language: en
 ---
@@ -21,12 +21,12 @@ When I complete an entry, I'll update this summary to include my playtime, and w
 
 ### Full Summary:
 
-- [Final Fantasy I]( {{ site.url }}/en/posts/final_fantasy_1 ): 11h54
-- [Final Fantasy II]( {{ site.url }}/en/posts/final_fantasy_2 ): 8h41
-- [Final Fantasy III]( {{ site.url }}/en/posts/final_fantasy_3 ): 9h48 (~11h en incluant les game overs)
-- [Final Fantasy IV]( {{ site.url }}/en/posts/final_fantasy_4 ): 11h36 (17h if we include game overs and corrupt saves)
-- [Final Fantasy V]( {{ site.url }}/en/posts/final_fantasy_5 ): Playing it right now
-- Final Fantasy VI: Not started yet
+- [Final Fantasy I]( {{ site.url }}/en/posts/final_fantasy_1 ): Completed 15/10/2023 in 11h54
+- [Final Fantasy II]( {{ site.url }}/en/posts/final_fantasy_2 ): Completed 23/12/2023 in 8h41
+- [Final Fantasy III]( {{ site.url }}/en/posts/final_fantasy_3 ): Completed 27/12/2023 in 9h48 (~11h en incluant les game overs)
+- [Final Fantasy IV]( {{ site.url }}/en/posts/final_fantasy_4 ): Completed 27/01/2024 in 11h36 (17h if we include game overs and corrupt saves)
+- [Final Fantasy V]( {{ site.url }}/en/posts/final_fantasy_5 ): Completed 12/06/2024 in ~19h (20h+ if we include game-overs)
+- [Final Fantasy VI]( {{ site.url }}/en/posts/final_fantasy_6 ): Completed 10/09/2024 in ~22h (25h+ if we include game-overs)
 - Final Fantasy VII: Not started yet
 - Final Fantasy VII Remake + Intergrade:  Not started yet
 - Final Fantasy VII Rebirth:  Isn't available yet

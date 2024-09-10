@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy V"
+title:  "(WIP) Final Fantasy VI - The Peak of the SNES Era"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2024-02-11"
+date: "2024-09-10"
 lang: fr
 image:
-  path: /assets/img/posts_preview_images/ff5_logo.jpg
-  alt: Final Fantasy 2 Logo # or base64 URI
+  path: /assets/img/posts_preview_images/ff6_logo.jpg
+  alt: Final Fantasy 6 Logo
 ---
 
 {% if site.lang == "fr" %}
@@ -18,10 +18,6 @@ image:
  <a href="{{ french_link }}" >{% t pages.french_article %}</a>
 {% endif %}
 
-> J'ai joué au jeu avec xp et gils x4. J'ai aussi utilisé un guide durant la quasi totalité du jeu
-{: .prompt-info }
+## Quel jeu de fou
 
-#### Notes
-
-- Premier jeu avec un système de job ET des personnages nommés
-- De vrais tutos dans le jeu + le club des novices !  
+Un vrai jeu de fou !

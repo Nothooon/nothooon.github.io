@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Final Fantasy I: Des Débuts Humbles"
+title:  "Final Fantasy I - Des Débuts Humbles"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2023-10-16"
+date: "2023-10-15"
 lang: fr
 image:
   path: /assets/img/posts_preview_images/ff1_logo.jpeg

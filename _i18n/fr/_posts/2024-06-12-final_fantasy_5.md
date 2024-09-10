@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy V"
+title:  "(WIP) Final Fantasy V - Injustement Oublié"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2024-02-11"
+date: "2024-06-12"
 lang: fr
 image:
   path: /assets/img/posts_preview_images/ff5_logo.jpg

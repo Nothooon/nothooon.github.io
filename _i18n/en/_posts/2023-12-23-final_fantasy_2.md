@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy IV: Going a step further"
+title:  "(WIP) Final Fantasy II - Truly revolutionary"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2024-01-27"
+date: "2023-12-23"
 lang: en
 image:
-  path: /assets/img/posts_preview_images/ff4_logo.jpg
-  alt: Final Fantasy 4 Logo # or base64 URI
+  path: /assets/img/posts_preview_images/ff2_logo.jpg
+  alt: Final Fantasy 2 Logo # or base64 URI
 ---
 
 {% if site.lang == "fr" %}
@@ -18,5 +18,5 @@ image:
  <a href="{{ french_link }}" >{% t pages.french_article %}</a>
 {% endif %}
 
-> I played the game with x4 exp and gils
+> I played the game with x4 exp and gils and I used for most of the game
 {: .prompt-info }

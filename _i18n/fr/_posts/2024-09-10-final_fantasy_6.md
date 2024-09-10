@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy II: Truly revolutionary"
+title:  "(WIP) Final Fantasy VI - La SNES à son prime"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2023-12-23"
-lang: en
+date: "2024-09-10"
+lang: fr
 image:
-  path: /assets/img/posts_preview_images/ff2_logo.jpg
-  alt: Final Fantasy 2 Logo # or base64 URI
+  path: /assets/img/posts_preview_images/ff6_logo.jpg
+  alt: Final Fantasy 6 Logo
 ---
 
 {% if site.lang == "fr" %}
@@ -18,5 +18,6 @@ image:
  <a href="{{ french_link }}" >{% t pages.french_article %}</a>
 {% endif %}
 
-> I played the game with x4 exp and gils and I used for most of the game
-{: .prompt-info }
+## Quel jeu de fou
+
+Un vrai jeu de fou !

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy III: The NES at its peak"
+title:  "(WIP) Final Fantasy V - Unjustly Forgotten"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2023-12-27"
-lang: en
+date: "2024-02-11"
+lang: fr
 image:
-  path: /assets/img/posts_preview_images/ff3_logo.jpg
-  alt: Final Fantasy 3 Logo # or base64 URI
+  path: /assets/img/posts_preview_images/ff5_logo.jpg
+  alt: Final Fantasy 2 Logo # or base64 URI
 ---
 
 {% if site.lang == "fr" %}
@@ -18,5 +18,10 @@ image:
  <a href="{{ french_link }}" >{% t pages.french_article %}</a>
 {% endif %}
 
-> I played the game with x4 exp and gils and I used for most of the game
+> J'ai joué au jeu avec xp et gils x4. J'ai aussi utilisé un guide durant la quasi totalité du jeu
 {: .prompt-info }
+
+#### Notes
+
+- Premier jeu avec un système de job ET des personnages nommés
+- De vrais tutos dans le jeu + le club des novices !  

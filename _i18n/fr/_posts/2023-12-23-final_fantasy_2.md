@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Final Fantasy II: Une vraie révolution"
+title:  "Final Fantasy II - Une vraie révolution"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2023-12-23"
