@@ -4,7 +4,7 @@ title:  "(WIP) Final Fantasy VI - The Peak of the SNES Era"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2024-09-10"
-lang: fr
+lang: en
 image:
   path: /assets/img/posts_preview_images/ff6_logo.jpg
   alt: Final Fantasy 6 Logo

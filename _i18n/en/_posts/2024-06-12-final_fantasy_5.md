@@ -4,7 +4,7 @@ title:  "(WIP) Final Fantasy V - Unjustly Forgotten"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2024-02-11"
-lang: fr
+lang: en
 image:
   path: /assets/img/posts_preview_images/ff5_logo.jpg
   alt: Final Fantasy 2 Logo # or base64 URI
