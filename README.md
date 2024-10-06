@@ -11,6 +11,15 @@ Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installat
 the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 Then, follow [Chirpy's install guide](https://chirpy.cotes.page/posts/getting-started/)
 
+All of this is technically optional since you can just edit the markdown file and push them to the repos and it'll work.  
+But you won't have access to any feature, including local building/hosting of the doc to see how what you write renders.
+
+## Translation
+
+I tried setting up i18n, and it works but it's a hastle since I need to write each article once per language.
+So if you wanna translate some of my stuff for me, first of all, thank you very much :)
+And then, please do it on a `translate/article_name` branch then create a pull request to main. I still want to check what goes on my website.
+
 ## Useful stuff:
 
 [Chirpy's Documentation](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)

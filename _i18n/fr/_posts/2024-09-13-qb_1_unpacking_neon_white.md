@@ -10,8 +10,8 @@ image:
   alt: Banniere d'Unpacking et de Neon White
 ---
 
-Dans ce premier numéro de la **Quête du Backlog**, je vous parle du concept, mais surtout d'Unpacking et Neon White.
-Deux jeux qui n'ont aucun point commun, à part le fait que je les ai fini récemment !
+Inauguration de la Quête du Backlog ! Au menu aujourd'hui: une présentation, Unpacking et Neon White !
+Deux jeux qui n'ont aucun point commun, à part le fait que je les ai fini récemment.
 
 ## La quête du backog, quécécé ?
 
