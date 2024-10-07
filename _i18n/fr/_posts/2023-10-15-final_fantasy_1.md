@@ -10,7 +10,7 @@ image:
   alt: Final Fantasy I Logo # or base64 URI
 ---
 
-Ça va sans dire, ça a mal vieilli. Mais il est toujours intéressant de poser la manette et faire un retour au source.  
+Evidemment, ça a mal vieilli. Mais aujourd'hui, on pose la manette et on revisite le premier épisode de la licence.  
 Alors, c'était comment les débuts de Final Fantasy ?
 
 ----
