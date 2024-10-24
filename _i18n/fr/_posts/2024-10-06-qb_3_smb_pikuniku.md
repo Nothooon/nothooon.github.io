@@ -11,4 +11,4 @@ image:
 ---
 
 Troisième numéro de la Quête du Backlog ! Au programme aujourd'hui: deux jeux de plateforme au héros rouge.  
-Ne vous inquiétez pas, on est face à deux jeux bien différents.
+Ne vous inquiétez pas, on est face à deux jeux bien différent
