@@ -37,7 +37,7 @@ _L'auberge de Fynn, la capitale que vous allez devoir reprendre aux mains de l'E
 
 Pour la musique,  c'est pareil. Les compositions d'Uematsu sont toujours excellentes, mais la NES n'y rend pas forcément hommage. Heureusement, les versions remasterisées sont disponibles et très agréables à l'oreille. On notera ici les mêmes points positifs que pour la musique de Final Fantasy I: nombreuses, qualitatives, expressives, bref, tout ce qui fait une bonne bande son. 
 
-Le thème principal nien connu de Final Fantasy est toujours là, et il est rejoint par le thème des Chocobos qui font leur apparition dans ce second opus. 
+Le thème principal bien connu de Final Fantasy est toujours là, et il est rejoint par le thème des Chocobos, qui font leur apparition dans ce second opus. 
 
 Si vous voulez aller écouter ce thème ainsi que le reste de la bande son, rendez-vous [ici](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6?si=de14932277d94a90) pour la version originale (en mono !) et [ici](https://open.spotify.com/album/4gy5cJBC03yZlJ5sE94bLW?si=Tv_QSc2BSCyumfb0duHVqw) pour la version PS1.
 
