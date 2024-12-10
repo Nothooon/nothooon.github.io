@@ -27,7 +27,7 @@ Retour sur le meilleur jeu jusqu'ici, mais aussi peut être de l'ère "classique
 
 La date d'écriture de l'article est un peu mensongère. J'ai pris des notes pendant toute ma partie et j'ai ensuite mis en page ces notes à la date de publication de l'article. Cependant, vous pouvez voir que la dernière mise à jour est bien plus tardive. Alors pourquoi ? Déjà parce que je jouais aux autres jeux de la série et ensuite parce qu'écrire, c'est compliqué vous savez.   
 
-En tout cas, je me rends bien compte que mon avis sur le jeu a pas mal évolué, tout comme il avait évolué pour [Final Fantasy II]( {{ site.url }}/posts/final_fantasy_2 ). Plus le temps passe et plus j'apprécie ce 3ème opus, quand bien même je l'avais déjà beaucoup aimé lorsque j'y ai joué pour la première fois. Mais l'héritage qu'il porte dans la suite de la licence est bien plus marqué et personnellement, il me touche bien plus.
+En tout cas, je me rends bien compte que mon avis sur le jeu a pas mal évolué, tout comme il avait évolué pour [Final Fantasy II]({{ site.url }}/posts/final_fantasy_2). Plus le temps passe et plus j'apprécie ce 3ème opus, quand bien même je l'avais déjà beaucoup aimé lorsque j'y ai joué pour la première fois. Mais l'héritage qu'il porte dans la suite de la licence est bien plus marqué et personnellement, il me touche bien plus.
 
 Pour résumer ma pensée avant d'entrer dans les détails, Final Fantasy 3 est beau. Je ne parle pas d'une beauté visuelle ou musicale, même s'il dispose de ces deux qualités aussi, mais d'une beauté plus abstraite, sentimentale. 
 
@@ -41,10 +41,6 @@ Article d'Eurogamer: http://web.archive.org/web/20121025152943/https://www.lostl
 Page Wikipédia: https://en.wikipedia.org/wiki/Final_Fantasy_III
 
 -->
-
-> Now Playing: [Final Fantasy III - Prelude by Nobuo Uematsu]
-> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_3/ff3_prelude.mp3">Your browser does not support the audio tag.</audio>
-{: .prompt-tip}
 
 ## Histoire et enjeux
 
@@ -90,10 +86,6 @@ Je me suis posé toutes ces questions et c'est une première pour la licence. Ju
 
 ## L'appel de l'aventure 
 
-> Now Playing: [Final Fantasy III - Eternal Wind by Nobuo Uematsu]
-> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_3/ff3_eternal_wind.mp3">Your browser does not support the audio tag.</audio>
-{: .prompt-tip}
-
 J'ai envie de parler un peu plus longuement de la première partie du jeu. Elle commence comme  tous les autres, on est très vite jeté dans notre aventure puisque même notre petite île, perdue au milieu des cieux, subit quelques problèmes.
 
 Mais assez vite, j'ai été perturbé par la taille de la carte. Celle-ci était en effet... minuscule.
@@ -104,10 +96,6 @@ Une cascade, un désert, une forêt, quelques grottes et deux ou trois villages.
 On débloque très vite l'aéronef, ce qui donne l'impression d'une carte encore plus petite. Puis, Cid m'apprend que ma fraterie ne vient pas de notre île, mais de la terre en dessous et m'invite à partir l'explorer.
 
 J'avance alors par delà les limites de l'île volante à bord de mon aéronef et je comprends enfin que le jeu m'a eu, que je suis tombé dans son piège. La petite carte, Eternal Wind qui nous motive à avancer et nous donne envie d'avancer, c'était pour **ce** moment.
-
-> Now Playing: [Final Fantasy III - Boundless Ocean by Nobuo Uematsu]
-> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/assets/audio/articles/final_fantasy_3/ff3_the_boundless_ocean.mp3">Your browser does not support the audio tag.</audio>
-{: .prompt-tip}
 
 Nous quittons enfin notre berceau, nous voici sur la vraie map de Final Fantasy III. Devant moi, un océan qui semble infini (jamais une OST n'aura aussi bien porté son nom). Je me balade quelques temps avec mon aéronef puis je pose la manette.
 
