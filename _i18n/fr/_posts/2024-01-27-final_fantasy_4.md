@@ -4,7 +4,7 @@ title:  "(WIP) Final Fantasy IV - 50/50"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2024-01-27"
-lang: en
+lang: fr
 image:
   path: /assets/img/posts_preview_images/ff4_logo.jpg
   alt: Final Fantasy 4 Logo # or base64 URI

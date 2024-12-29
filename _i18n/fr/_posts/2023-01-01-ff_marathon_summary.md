@@ -55,4 +55,6 @@ Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y i
 
 Je classe les jeux dans une tier list au fur et à mesure de mon avancée, ça permet de résumer à la fois mon progrès et mon avis de façon très superficielle.
 
+Le dernier jeu placé dans la tier list est encadré en rouge :)
+
 ![Tier list des jeux FF auxquels j'ai joué](/assets/img/articles/ff_marathon_summary/tier_list.png)

@@ -4,7 +4,7 @@ title:  "(WIP) Final Fantasy III - Le plus grand RPG de la NES"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2023-12-27"
-lang: en
+lang: fr
 image:
   path: /assets/img/posts_preview_images/ff3_logo.jpg
   alt: Final Fantasy 3 Logo # or base64 URI
@@ -102,7 +102,7 @@ Nous quittons enfin notre berceau, nous voici sur la vraie map de Final Fantasy 
 
 Il y a de ces moments absolument magiques dans les jeux vidéos, où tous les éléments s'alignent pour créer un moment magique. A titre personnel, la découverte du vrai monde de FF3 en fait partie. La beauté de l'océan, le changement total de paysage et d'envergure, le tout sublimé par une musique qui encapsule parfaitement cette beauté sereine, celle d'un monde qui a tant d'histoires à nous raconter et tant de mystères à nous dévoiler. 
 
-Je pourrais décrire cette scène de mille façons, voici la plus courte: cette scène est belle, c'est la première scène cinématographique de la licence.
+Je pourrais décrire cette scène de mille façons, voici la plus courte: cette scène est belle, c'est la première mise en scène cinématographique du gameplay de la licence, un moment "wow !" si vous préférez.
 
 Après avoir repris ma manette, j'ouvre ma carte. Une seule île ? Tu ne m'auras pas deux fois, Final Fantasy III !
 A la sortie du seul donjon qui nous est accessible, on se retrouve avec de nouvelles questions sur les cristaux, mais surtout, un deuxième moment magique.
