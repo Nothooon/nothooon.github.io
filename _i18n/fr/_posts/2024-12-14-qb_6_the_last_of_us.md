@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La Quête du Backlog VI - The Last of Us"
+title:  "(WIP) La Quête du Backlog VI - The Last of Us"
 tags: avis-rapide
 category: "La Quête du Backlog"
 date: "2024-12-14"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La Quête du Backlog V - Pseudoregalia"
+title:  "(WIP) La Quête du Backlog V - Pseudoregalia"
 tags: avis-rapide
 category: "La Quête du Backlog"
 date: "2024-11-25"

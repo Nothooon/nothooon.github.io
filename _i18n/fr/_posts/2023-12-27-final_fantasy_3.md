@@ -71,6 +71,7 @@ C'est cette taille, cette envergure qui repoussera encore et encore la sortie in
 Par conséquent, beaucoup de gens ne connaissent le jeu que grâce à ce remake 3D, mais c'est bien de la version Pixel Remaster que nous allons parler.  
 Alors qu'est ce que tous ces moyens et toutes ces ambitions ont produit ? Réponse courte: un excellent jeu, mais je vais développer. 
 
+
 ## Scénario
 
 Final Fantasy III nous met dans la peau de quatre orphelins vivant sur une île dans le ciel. 
@@ -83,6 +84,7 @@ Nos guerriers de la Lumière partent donc à l'aventure, aidant leur prochain da
 Un scénario très simple en apparence, mais qui suffit à offrir plus de world-building que les opus précédents de la série. Le scénario et l'objectif de nos héros est très simple, mais elle est soupoudrée de mystères dès le début. Qui est Noah ? Qui sont les deux autres apprentis ? Pourquoi Xande veut-il détruire le monde ? Qu'est ce que la tour de Cristal ? Où est-elle ? 
 
 Je me suis posé toutes ces questions et c'est une première pour la licence. Jusqu'ici, on n'avait que très peu de mystères à élucider. Le méchant était méchant, nous jouions les gentils et ça n'allait pas plus loin. Final Fantasy III nous accroche très vite et ça va nous aider à supporter un scénario qui, je le répète, est très simple et terre à terre.
+
 
 ## L'appel de l'aventure 
 
@@ -143,15 +145,17 @@ On en arrive à la progression au sein du jeu. La grande variété de jobs dispo
 
 Il y a de toute façon de grandes chances pour que vous passiez du temps à farmer à un moment du jeu. Certains bosses sont vraiments corriaces et vous écraseront sans pitiés, plusieurs fois. Alors dans ce cas, pas le choix, il faut pex ! Farm de niveau, de gils, de niveau de jobs, tout le monde y passe ! Et pour ça, on dit merci à l'option xp et gils x4 proposée par le pixel remaster. Et si ma dernière phrase vous a choqué, je vous répondrais que j'ai encore 17 ou 18 jeux de la licence à découvrir, donc hein, pouet !
 
-## L'exploration se peaufine
 
+## L'exploration se peaufine
 
 Final Fantasy 3 nous pousse à l'exploration avec une technique vieille comme le monde: nous mettre sous le nez des endroits inaccessibles dans un premier temps. En dissémninant sur la carte ses points d'intérêts de la sorte, le joueur va beaucoup se balader et ainsi apprendre la carte, retenir où sont les différentes grottes, où se situent les endroits qu'il n'a pas pu atteindre. Le tout est accompagné de dialogues de PNJs nous indiquant plus ou moins subtilement l'emplacement de trésors qui lui aurait échappé. Enfin, cerise sur le gateau, la plupart des lieux se distinguent par un PNj particulier, un monument ou une ambiance. Dans le monde de Final Fantasy 3, vous ne trouverez pas "Village 1" ou "Village 2", vous trouverez "Le village des invocateurs", "Le manoir doré" ou "L'immense ville du milieu de la carte". Créer autant de lieux reconnaissables permet au joueur de s'investir dans ce monde et lui permet également de se repérer bien plus rapidement pour pouvoir enchainer les missions sans se perdre. L'objectif pour cet opus me semble clair: casser la linéarité de la progression et rendre le jeu immersif autant que faire se peut. 
 
 J'ai émis quelques critiques envers le système de combat, mais je n'en ai aucune contre le terrain de jeu proposé par Square. La copie est impécable à ce niveau et c'est même la découverte de la carte qui provoque le premier effet "WOW" de la licence jusqu'ici. Je ne pensais pas qu'il était possible de faire rentrer autant de choses dans une cartouche de NES (titre).
 
+
 ## L'héritage de la licence se construit
 
 Avec un scénario centré autour des cristaux, on retrouve évidemment le leitmotiv de la licence (présent dans FF1 mais pas dans le 2 si ma mémoire est bonne). On retrouve également des thèmes musicaux qui ont fait leur petit bonhomme de chemin jusqu'à FF14 notamment (coucou Eternal Wind, coucou les musiques de la Tour de Cristal). J'admet avoir eu quelques frissons en reconnaissant ces mélodies qui me sont si familières grâce à leur intégration dans divers aspects de Final Fantasy XIV. Mais même sans cet aspect "nostalgique" qui est propre à mon expérience de jeu, les musiques sont excellentes. Nobuo Uematsu nous propose aussi bien des balades calmes et envoutantes que des musiques exprimant la gravité du mal qui s'abat sur le monde. Que ce soit la version original en 8-bits ou la version remasterisée du Pixel Remaster, je ne peux que vous recommander d'y jeter une oreille. Je ne peux pas conclure cette partie sur la musique sans vous donner une petite liste de morceaux à écouter: `The Prelude`, `Eternal Wind`, `Chocobos!`, `The Crystal Tower`, `Forbidden Land` et `This is the Last Battle`.
+
 
 ## Conclusion
