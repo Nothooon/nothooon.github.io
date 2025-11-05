@@ -16,13 +16,6 @@ On attend donc de ce second épisode une copie plus aboutie, plus poussée que s
 
 ----
 
-{% if site.lang == "fr" %}
-  {% capture english_link %}{{ site.url }}/en{{ page.url }}{% endcapture %}
-  <a href="{{ english_link }}" >{% t pages.english_article %}</a>
-{% elsif site.lang == "en" %}
-  {% capture french_link  %}{{ site.url }}{{ page.url }}{% endcapture %}
- <a href="{{ french_link }}" >{% t pages.french_article %}</a>
-{% endif %}
 
 > J'ai joué au jeu avec xp et gils x4. J'ai aussi utilisé un guide durant la quasi totalité du jeu
 {: .prompt-info }

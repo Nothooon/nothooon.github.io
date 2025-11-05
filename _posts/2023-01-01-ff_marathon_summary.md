@@ -8,14 +8,6 @@ date: "2023-01-01"
 language: fr
 ---
 
-{% if site.lang == "fr" %}
-  {% capture french_link %}{{ site.url }}{{ page.url }}{% endcapture %}
-  <a href="{{ french_link }}" >{% t pages.english_article %}</a>
-{% elsif site.lang == "en" %}
-  {% capture english_link %}{{ site.url }}{{ page.url }}{% endcapture %}
- <a href="{{ english_link }}" >{% t pages.french_article %}</a>
-{% endif %}
-
 > UPDATE: J'ai ajouté des jeux à la liste :)   
 Peut être que je n'ai pas vraiment envie de finir ce marathon finalement.. 
 {: .prompt-info}
