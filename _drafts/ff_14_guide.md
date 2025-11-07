@@ -10,7 +10,6 @@ Je vais essayer de tout organiser correctement et j'espère que le sommaire à d
 
 Je ne pourrais pas me plonger dans les détails de chaque section, sinon cette page ne sera jamais finie. Considérez donc tout ça comme une introduction au gigantesque contenu du jeu.
 
-
 > Je vais parler de logiciels tiers, d'add-ons et autres. Ni les logiciels tiers, ni les add-ons ne sont autorisés par Square Enix. Cependant, ils sont tous client-side ou web-based, donc vous ne risquez rien à les utiliser. La seule chose à ne pas faire, c'est d'en parler ouvertement dans le chat du jeu. Si vous le faites, vous vous exposez à des sanctions dont je ne suis évidemment pas responsable :)
 {: .prompt-warning }
 
@@ -19,6 +18,7 @@ Je ne pourrais pas me plonger dans les détails de chaque section, sinon cette p
 [Dalamud](https://github.com/goatcorp/Dalamud) est le nom du gestionnaire d'add-ons de FF XIV. Il permet de les installer/paramétrer/maintenir à jour. Il embarque une belle quantité d'add-ons via un repo "officiel", mais vous pouvez ajouter vos propres sources si besoin.
 
 Pour installer Dalamud, le plus simple reste encore de passer par [XIVQuickLauncher](https://goatcorp.github.io/). C'est un launcher alternatif pour FF14 qui inclut quelques features sympathiques (entre autres):
+
 - Login Automatique (plus besoin de taper son mot de passe)
 - Des options plus simple à trouver/plus complètes que le launcher de base
 - La possibilité de lancer d'autres logiciels tiers en même temps qu'FF XIV
@@ -38,11 +38,11 @@ Voici une liste de sites qui sont toujours utiles à avoir sous la main.
 - [FF XIV Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki) -> Le Wiki du jeu, toujours très utile
 - [Garland Tools DB](https://www.garlandtools.org/db/) -> Une base de données de tous les objets, ennemis, combats et quêtes du jeu. Liste toutes leurs caractéristiques, notamment comment/où les obtenir. Grâce à l'affichage en panneau sur un seul tableau, il est très simple de suivre un enchainement de quêtes ou un arbre de craft.
 - [XIV Todo](https://xivtodo.com) -> Une TODO list maintenue automatiquement tant que votre personnage est lié au site. Il ne s'agit pas d'une TODO list pour les tâches quotidiennes/hebdomadaires, mais d'une TODO list pour tous les combats et storyline du jeu. Très utile pour savoir si vous avez bien complété chaque extension en entier !
-Les contenus que vous n'avez pas débloqué sont cachés par défaut pour éviter les spoilers et vous pouvez voir les récompenses offertes par chaque combat/quête pour faciliter vos choix. 
+Les contenus que vous n'avez pas débloqué sont cachés par défaut pour éviter les spoilers et vous pouvez voir les récompenses offertes par chaque combat/quête pour faciliter vos choix.
 - [FF XIV Macros](https://www.ffxivmacro.com/Macros/) -> Une liste de macros utiles ou fun, proposées par la communauté.
 - [Faloop](https://faloop.app/) -> Tracker/wiki pour les chasses et les ALEAs.
 
-**---**
+---
 
 ## Combat
 
@@ -52,9 +52,9 @@ Nous allons y parler de guides pour jouer votre job correctement, mais aussi de 
 ### The Balance
 
 [The Balance](https://www.thebalanceffxiv.com/) est LA référence pour apprendre à jouer votre job. Il contient tout ce dont vous avez besoin: guides, astuces, gearsets, FAQ, openers, etc...
-Le tout est illustré, facile à comprendre et est maintenu activement par des joueurs. 
+Le tout est illustré, facile à comprendre et est maintenu activement par des joueurs.
 
-Il existe aussi un [serveur discord](https://discord.gg/thebalanceffxiv) qui compile les mêmes informations (voire plus) et vous permet de discuter avec des joueurs directement pour poser vos questions si besoin. 
+Il existe aussi un [serveur discord](https://discord.gg/thebalanceffxiv) qui compile les mêmes informations (voire plus) et vous permet de discuter avec des joueurs directement pour poser vos questions si besoin.
 
 Bien que cette communauté se concentre avant tout sur les jobs de combat, il existe aussi quelques ressources pour les jobs d'artisanat, bien que ce ne soit pas ma source privilégiée dans ce cas.
 
@@ -67,7 +67,7 @@ Bien que cette communauté se concentre avant tout sur les jobs de combat, il ex
 Voici une liste des meilleurs moyen de pex un job de combat, triés de la plus rentable à la moins rentable:
 
 1. **La MSQ (Main Story Quest):** C'est de loin la meilleure façon de gagner de l'expérience, en plus de vous donner accès aux nouvelles zones, donjons, etc...
-Le seul inconvénient, c'est que vous ne pouvez le faire qu'une fois et qu'il faut que votre Job soit au niveau de votre MSQ. 
+Le seul inconvénient, c'est que vous ne pouvez le faire qu'une fois et qu'il faut que votre Job soit au niveau de votre MSQ.
 
 2. **Les Duty Roulettes:** Les bonus quotidiens des roulettes sont de loin l'option que vous utiliserez le plus pour pex. Si vous n'avez pas envie de toutes les faire chaque jour, concentrez vous sur les roulettes `Gain de niveau`, `Epopée` et `Frontline` (le PVP). Chaque roulette vous assure quasiment de gagner un niveau à chaque fois.
 
@@ -83,6 +83,7 @@ Il est préférable de garder ses mandats pour l'artisanat plutôt que le pex de
 #### Options alternatives
 
 Il existe certaines façon de gagner de l'expérience plus niches et qui ne fonctionnent que pour certains niveaux:
+
 - **Heaven-on-High**: Le second donjon sans fond, accessible pendant la MSQ de Stormblood, la façon la plus rapide de monter du **niveau 60 à 70** après les roulettes. Enchainer les étages 21 à 30 en boucle est une très bonne source d'expérience, surtout avec l'Armoury Bonus (+100% d'xp si vous avez un autre job plus haut niveau que celui que vous jouez).
 
 - **Bozja**: Bozja est une zone très particulière de Final Fantasy XIV dans laquelle vous vous battrez énormément. Accessible durant la MSQ de Shadowbringers, ce sera une zone idéale pour passer du **niveau 70 à 80** et est une méthode alternative au spam de donjons pour les **niveaux 81 à 90**.
@@ -155,32 +156,33 @@ On va passer en revue quelques écrans remarquables. Je vais en passer beaucoup 
 - **Résumé**: Un simple résumé des principaux éléments du rapport: la composition du raid, le DPS, le HPS, les dégats encaissés et les morts.
 ![FF Logs résumé pull](/assets/img/tabs/ff14_guide/ff_logs_encounter_summary.PNG)
 
-- **Damages Done**: C'est l'onglet pour lequel la plupart des gens utilisent FF Logs. 
+- **Damages Done**: C'est l'onglet pour lequel la plupart des gens utilisent FF Logs.
 Cet onglet détail le DPS, l'uptime et le Parse % de chaque joueur. Si vous n'avez pas lu le glossaire, petit rappel de la signification de ces termes.
-  -  DPS: Dégats par Seconde. Il en existe trois types (expliqués en détail [ici](https://fr.fflogs.com/help/rdps)): 
-     -  le DPS classique
-     -  le rDPS (raid-contributing DPS): votre DPS auquel on retire les dégats issus des buffs des alliés et auquel on ajoute le DPS gagné grâce aux buffs que vous avez donné à vos alliés. Par exemple, pour un AST, le rDPS incluera le DPS gagné grâce à vos cartes.
-     -  le aDPS (adjusted DPS): votre DPS auquel on ne retire que les buffs individuels que vous avez reçu (le buff des cartes de l'AST par exemple).
-  -  Uptime: le temps que vous passer à utiliser votre GCD (Global Cooldown). On parle de période de "downtime" lorsqu'un joueur n'utilise pas de GCD ou lorsque le boss est inciblable.
-  -  Parse%: Ce pourcentage indique la proportion de parses moins bons que le votre.   
+  - DPS: Dégats par Seconde. Il en existe trois types (expliqués en détail [ici](https://fr.fflogs.com/help/rdps)):
+    - le DPS classique
+    - le rDPS (raid-contributing DPS): votre DPS auquel on retire les dégats issus des buffs des alliés et auquel on ajoute le DPS gagné grâce aux buffs que vous avez donné à vos alliés. Par exemple, pour un AST, le rDPS incluera le DPS gagné grâce à vos cartes.
+    - le aDPS (adjusted DPS): votre DPS auquel on ne retire que les buffs individuels que vous avez reçu (le buff des cartes de l'AST par exemple).
+  - Uptime: le temps que vous passer à utiliser votre GCD (Global Cooldown). On parle de période de "downtime" lorsqu'un joueur n'utilise pas de GCD ou lorsque le boss est inciblable.
+  - Parse%: Ce pourcentage indique la proportion de parses moins bons que le votre.
   Ce pourcentage est calculé en comparant votre DPS aux autres parses qui utilisent le même job sur le même combat et lors de la même semaine (comme les récompenses de raid ont des limites hebdomadaires, on ne compare que les parses de la même semaine pour ne comparer que des parses où les joueurs ont un équipement de niveau similaire entre eux).  
-  Dans notre cas, votre invocateur préféré a un parse de 63%. Ça signifie donc que ce parse est meilleur que 63% des parses d'invocateurs sur P5S la semaine du 12 Avril 2023. 
+  Dans notre cas, votre invocateur préféré a un parse de 63%. Ça signifie donc que ce parse est meilleur que 63% des parses d'invocateurs sur P5S la semaine du 12 Avril 2023.
 
 "Logiquement", l'ordre des rôles sur cette page devrait être `DPS Melee > DPS Magiques >= DPS Distance > Tanks > Healers`. A noter que votre DPS en soit ne compte pas vraiment. Si vous souhaitez vous améliorer, concentrez vous sur l'amélioration de votre uptime (indiqué dans la colonne "Active"). Votre DPS montera naturellement en même temps que votre uptime et l'amélioration de votre équipement.
 
-**Je passe l'onglet "Healing Done", qui présente les mêmes informations mais pour le soin**
+##### Je passe l'onglet "Healing Done", qui présente les mêmes informations mais pour le soin
 
 ![FF Logs Damages Done](/assets/img/tabs/ff14_guide/ff_logs_damage_done.PNG)
 
-- **Replay**: Comme son nom l'indique, cet onglet vous propose un replay de votre combat. Dans notre cas, il va être disponible [ici](https://fr.fflogs.com/reports/YFpdk6JwCB28txny#fight=8&view=replay).   
+- **Replay**: Comme son nom l'indique, cet onglet vous propose un replay de votre combat. Dans notre cas, il va être disponible [ici](https://fr.fflogs.com/reports/YFpdk6JwCB28txny#fight=8&view=replay).
 Bien que moins directement utile que les onglets présentés précédemment, je ne peux pas résister à l'envie de vous en parler car je trouve ça fou qu'on puisse obtenir ce genre de choses à partir d'un simple fichier de log.
 
 Ce replay en vue mini-map est customisable et contient une quantité folle d'informations: les status de tous les joueurs et ennemis, ce qu'ils castent, quand ils le castent, les marqueurs, les déplacements, TOUT. Vous pouvez même lier une vidéo et la synchroniser avec la vue mini-map, cacher certains éléments, etc...
 Son utilité principal est d'analyser les combats pour identifier des solutions aux mécaniques, des erreurs de placement, etc...
 
-##### Je ne peux pas tout lister !
+##### Je ne peux pas tout lister
 
 FF Logs est un site exceptionnel, un site quasiment indispensable pour ceux qui souhaitent se lancer sérieusement dans les raids tant vous pouvez obtenir, filtrer et trier absolument toutes les statistiques du jeu. Au dela de cette analyse des logs présentée au dessus, voici une petite liste des fonctionnalités disponibles:
+
 - Consulter les stats globales sur le combat de votre choix
 - Obtenir des informations détaillées sur les méthodes de calcul
 - Créer votre FC/Static sur le site qui devient alors un planificateur de session de raid/un historique de vos sessions passées
@@ -199,7 +201,7 @@ En reprenant [le parse de la partie précédente](https://fr.fflogs.com/reports/
 
 Ce site ne vous dira pas comment jouer votre job précisément (pour ça, il y a [The Balance](#the-balance)) mais vous rappelera bien quels sont les points importants à respecter pour bien jouer votre job préféré.
 
-**---**
+---
 
 ## Glamour
 
@@ -225,10 +227,11 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 #### Anamnesis
 
 [Anamnesis](https://github.com/imchillin/Anamnesis) est un logiciel open-source qui vous permet deux choses:
+
 - Déplacer et modifier à votre guise le squelette de tous les personnages à l'écran, ce qui permet de leur faire prendre n'importe quelle pose.
 - Modifier l'apparence et l'équipement de tous les personnages à l'écran. Les changements sont uniquement visuels, ce qui est parfait pour essayer des tenues et ainsi savoir si l'achat ou le farm d'une tenue sera rentabilisé.
 
-**---**
+---
 
 ## Artisanat
 
@@ -254,7 +257,7 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 
 #### Ocean Fishing
 
-**---**
+---
 
 ## Housing
 
@@ -268,7 +271,7 @@ A quoi bon avoir une belle glam si vous ne la montrez pas sous son plus beau jou
 
 ### Planification de Maisons
 
-**---**
+---
 
 ## Autres
 
@@ -287,7 +290,7 @@ Avoir du fric, c'est pratique, alors je vous partage généreusement quelques as
 > Une liste de tous les emplacements possibles pour les cartes au trésor du jeu est disponible sur [Heavenswhere](https://heavenswhere.com/).
 {: .prompt-info }
 
-- Drop des défis extrêmes: Les matériaux gagnés en faisant les défis extrêmes peuvent se vendre très cher (ça dépend surtout d'à quel point le combat est chiant et de si les armes craftables avec sont belles ou non). Ces matériaux sont soit droppés directement, soit obtenus en désynthétisant les armes droppées. 
+- Drop des défis extrêmes: Les matériaux gagnés en faisant les défis extrêmes peuvent se vendre très cher (ça dépend surtout d'à quel point le combat est chiant et de si les armes craftables avec sont belles ou non). Ces matériaux sont soit droppés directement, soit obtenus en désynthétisant les armes droppées.
 Par exemple, le matériaux du premier défi de ShB se vend 370 000 gils, alors que celui du 6ème seulement 1 000 gils.
 
 - Farm de Mascottes: Il y a pas mal de mascottes qui se vendent ultra cher. Par exemple, la mascotte "Jeune clionide" du donjon "Akadaemia Anydre" de Shadowbringers se vend actuellement pour environ 500 000 gils.Le donjon ne prend qu'environ 12 minutes à être clear (sûrement encore moins maintenant en étant niveau 100).
@@ -343,7 +346,7 @@ Ces conditions sont précisées sur les forums de FF XIV et sont utilisées lors
 
 - [Remnants of a Realm](https://www.youtube.com/playlist?list=PLL5QTV3Hk60a35tst7sZDqhGpJXX3pviN): Une série rétrospective sur beaucoup d'aspects du jeu. Anciennes mécaniques, anciens donjons, historiques de chaque patch, etc... Le tout agrémenté d'images d'époques, c'est une vraie capsule temporelle dans l'histoire d'un jeu qui a déjà 12 ans !
 - [Documentaire de NoClip](https://www.youtube.com/watch?v=Xs0yQKI7Yw4): Un documentaire en trois parties qui revient sur la création de FF XIV, son échec et sa rennaissance. [Partie 1](https://www.youtube.com/watch?v=Xs0yQKI7Yw4), [Partie 2](https://youtu.be/aoOI5R-6u8k?si=6F3QrNzY5hg_n7kI), [Partie 3](https://www.youtube.com/watch?v=ONT6fxiu9cw)
-- [Documentaire de Tetryl sur Yoshi-P](https://www.youtube.com/watch?v=2NCAcouKN_E): Un documentaire parlant de Naoki Yoshida, à qui on attribue le succès de la renaissance de Final Fantasy XIV. 
+- [Documentaire de Tetryl sur Yoshi-P](https://www.youtube.com/watch?v=2NCAcouKN_E): Un documentaire parlant de Naoki Yoshida, à qui on attribue le succès de la renaissance de Final Fantasy XIV.
 - [LoreLinesXiv](https://www.youtube.com/@LoreLinesXIV) => Récapitulatifs de lore et théories
 
 ---

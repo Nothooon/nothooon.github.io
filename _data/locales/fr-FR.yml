@@ -19,14 +19,14 @@ tabs:
 
 # the text displayed in the search bar & search results
 search:
-  hint: recherche
+  hint: Rechercher
   cancel: Annuler
-  no_results: Oups ! Aucun résultat trouvé.
+  no_results: Oups ! Aucun résultat trouvé :(
 
 panel:
   lastmod: Récemment mis à jour
-  trending_tags: Tags tendance
-  toc: Contenu
+  trending_tags: Tags populaires
+  toc: Sommaire
 
 copyright:
   # Shown at the bottom of the post
@@ -60,7 +60,7 @@ post:
   pageview_measure: vues
   read_time:
     unit: min
-    prompt: lire
+    prompt: " de lecture"
   relate_posts: Autres lectures
   share: Partager
   button:
