@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "La Quête du Backlog I - Unpacking & Neon White"
+description: "La Quête du Backlog commence ! Pour ce premier épisode, deux jeux bien différents, quasiment antithétiques."
 tags: avis-rapide
 category: "La Quête du Backlog"
 date: "2024-09-13"

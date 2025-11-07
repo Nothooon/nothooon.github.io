@@ -4,7 +4,7 @@ description: "Pourquoi j'ai commence ce marathon ? A quels jeux je vais jouer ? 
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 pin: true
-date: "2023-01-01"
+date: "2023-06-15"
 language: fr
 ---
 

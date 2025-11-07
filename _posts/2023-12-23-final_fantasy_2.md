@@ -1,24 +1,26 @@
 ---
-layout: post
 title:  "Final Fantasy II - Une vraie révolution"
+description: "Final Fantasy II n'est quasiment jamais discuté. Mais comment l'expliquer quand il est aussi révolutionnaire ?"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2023-12-23"
 lang: fr
 image:
   path: /assets/img/posts_preview_images/ff2_logo.jpg
-  alt: Final Fantasy 2 Logo # or base64 URI
+  alt: Logo de Final Fantasy II
 ---
+---
+### Mes attentes en détente
 
 Après des débuts sympathiques mais qui manquent de profondeur à bien des niveaux, qu'attendre de ce FF II ?
 Une meilleure narration, un meilleur gameplay, un meilleur système de progression, ce ne sont pas les axes d'améliorations qui manquent.  
+
 On attend donc de ce second épisode une copie plus aboutie, plus poussée que son prédécesseur.
 
-----
-
-
-> J'ai joué au jeu avec xp et gils x4. J'ai aussi utilisé un guide durant la quasi totalité du jeu
-{: .prompt-info }
+---
+> J'ai joué au jeu avec xp et gils x4.   
+> J'ai aussi utilisé un guide durant la quasi totalité du jeu
+{: .prompt-warning }
 
 ## Graphismes et Musique
 
@@ -32,10 +34,14 @@ Pour la musique,  c'est pareil. Les compositions d'Uematsu sont toujours excelle
 
 Le thème principal bien connu de Final Fantasy est toujours là, et il est rejoint par le thème des Chocobos, qui font leur apparition dans ce second opus. 
 
-Si vous voulez aller écouter ce thème ainsi que le reste de la bande son, rendez-vous [ici](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6?si=de14932277d94a90) pour la version originale (en mono !) et [ici](https://open.spotify.com/album/4gy5cJBC03yZlJ5sE94bLW?si=Tv_QSc2BSCyumfb0duHVqw) pour la version PS1.
+Si vous voulez aller écouter ce thème ainsi que le reste de la bande son, vous avez du choix:
+- [Version original (en mono !)](https://www.youtube.com/playlist?list=OLAK5uy_lIYqQvw5xe0ncs5YgfliGFoU7ikCzWyZI) 
+- [Version PS1](https://www.youtube.com/playlist?list=OLAK5uy_mPkQdFHbxUIbpJNltxCmj3kiAT4T8k_WA)
+- [Version Pixel Remaster](https://www.youtube.com/playlist?list=PLC7AA45CD70F7CB7B)
 
-Mes petites recommendations personnelles: `Prelude`, `Castle Pandemonium` / `Pandaemonium` et bien sur, `Chocobo Theme`
+Mes petites recommendations personnelles, dans leur version originale: [`Prelude`](https://youtu.be/_zgLypsFjzU?si=uYPfs2GZsmV-XCqL), [`Castle Pandemonium`](https://youtu.be/uh1AGOpWzyo?si=Z21lfmkCGpLwFXJQ), [`Chocobo Theme`](https://youtu.be/pDQqwO9AovQ?si=IitwoF_Qm0dsfzKw), [`The Rebel Army`](https://youtu.be/UksOPciWSXE?si=H02Dy9ygWjmLWkwy) ou encore [`Game Over`](https://youtu.be/ackDsFUqhHU?si=IcLNtLV0Sgw34RpW)
 
+---
 ## World Building et Narration
 
 ### Une carte bien mieux construite
@@ -128,6 +134,7 @@ Là où Final Fantasy I vous lançait directement dans l'action, Final Fantasy I
 
 _Si vous êtes curieux, [cette vidéo](https://www.youtube.com/watch?v=a8Nf7HskQSI) de la chaine Nova Crystallis (un nom qu'on aura tout le plaisir d'explorer, mais dans très longtemps) montre les premières minutes du jeu_
 
+---
 ## Gameplay
 
 Rien de neuf sous le soleil ? Bien au contraire. L'équipe d'Hironobu Sakaguchi n'a pas eu peur d'expérimenter de nouvelles choses, surtout pour approfondir le système de progression et de personnalisation de notre équipe.
@@ -168,16 +175,16 @@ Rassurez-vous, la perte de stats est plus faible que le gain, vous pouvez donc f
 
 Pour le plaisir, je vous mets ci-dessous le tableau des statistiques et les actions correspondantes pour les augmenter.
 
-| **Action**                                       | Statistique améliorée | **Impact de la statistique**                                 |
-| ------------------------------------------------ | --------------------- | ------------------------------------------------------------ |
-| Attaquer pendant un combat.                      | Force                 | Amélioration des dégâts physiques                            |
-| Perdre des HP pendant un combat                  | Endurance             | HP Maximum plus élevés                                       |
-| utilisation de Magie Blanche                     | Esprit                | La Magie Blanche est plus efficace                           |
-| Utilisation de Magie Noire                       | Intelligence          | La Magie Noire est plus efficace                             |
-| Perte/Consommation de MP pendant un combat       | Mana                  | MP Maximum plus élevés                                       |
-| Attaquer avec une arme équipée pendant un combat | Précision             | Nombre de coups et chances de toucher plus élevés            |
+| **Action**                                       | Statistique améliorée | **Impact de la statistique**                                                                          |
+| ------------------------------------------------ | --------------------- | ----------------------------------------------------------------------------------------------------- |
+| Attaquer pendant un combat.                      | Force                 | Amélioration des dégâts physiques                                                                     |
+| Perdre des HP pendant un combat                  | Endurance             | HP Maximum plus élevés                                                                                |
+| utilisation de Magie Blanche                     | Esprit                | La Magie Blanche est plus efficace                                                                    |
+| Utilisation de Magie Noire                       | Intelligence          | La Magie Noire est plus efficace                                                                      |
+| Perte/Consommation de MP pendant un combat       | Mana                  | MP Maximum plus élevés                                                                                |
+| Attaquer avec une arme équipée pendant un combat | Précision             | Nombre de coups et chances de toucher plus élevés                                                     |
 | Subir des attaques physiques                     | Agilité et Esquive    | Chance d'esquive des attaques physiques augmentée, plus de chances d'agir en premier lors des combats |
-| Subir des attaques magiques                      | Défense Magique       | Chance d'esquive des attaques magiques augmentée             |
+| Subir des attaques magiques                      | Défense Magique       | Chance d'esquive des attaques magiques augmentée                                                      |
 
 
 Si cette très longue explication du système ne vous l'a pas fait comprendre, Final Fantasy II est à des années lumières du premier opus. Ce système est profond, permissif, logique et change fondamentalement la façon d'aborder le jeu. On passe d'un jeu couloir où le combat est un obstacle, à un jeu qui nous pousse à expérimenter, à faire des choix et c'est exactement ce dont un RPG a besoin pour qu'un joueur s'y investisse pleinement.
@@ -202,7 +209,7 @@ Mais sachez que si vous aviez joué au jeu à l'époque, vous n'auriez pas eu ce
 
 Ce manuel, crucial pour bien aborder le jeu, n'a aucunement été fourni par Square Enix au sein de cette collection Pixel Remaster et les informations qu'il contenait n'ont pas été fournis d'une autre manière non plus. Vous devez donc deviner que les sorts basiques ciblent tous les ennemis si vous appuyez à gauche lorsque vous choisissez votre cible. Ou alors, vous pouvez chercher ces informations sur internet, mais je trouve ça dommage que le jeu n'informe pas le joueur de lui même de ce qu'il peut faire.
 
-
+---
 ## Conclusion
 
 Vous l'aurez compris à la longueur de cet article, Final Fantasy 2 est un jeu vraiment intéressant. J'ai pu avoir certains propos un peu durs parfois, sans tenir compte de la date de sortie de ces jeux et des limitations techniques qui en découlent.  
@@ -217,5 +224,3 @@ Est-ce que ça en fait forcément un bon jeu ? Non, bien sûr. Par contre, ça e
 
 Il est le premier RPG de l'HISTOIRE (excusez-moi du peu) à laisser au joueur la possibilité de faire ce qu'il veut de ses personnages et il le fait très bien ! Peut-être que The Elder Scrolls tel qu'on le connait n'existerait pas si Final Fantasy II n'avait pas pavé la voie.  
 Même si FF II montre lui aussi clairement son âge (36 ans !), il demeure une expérience que je recommande si vous avez la patience de le prendre véritablement en main.
-
-----

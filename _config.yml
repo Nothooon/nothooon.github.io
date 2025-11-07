@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Nothon About Stuff :) # the main title
+title: Nothons l'effort sur le titre # the main title
 
-tagline: Sharing my love for art  # it will display as the sub-title
+tagline: Les jeux sont fait pour être discutés et mon backlog ne fondra pas en silence # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A blog to write anything about anything, mostly video games.
+  Je joue à des jeux vidéos et de temps en temps, j'ai une envie irépressible d'en parler
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

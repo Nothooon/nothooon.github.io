@@ -1,19 +1,15 @@
 ---
-layout: post
 title:  "Final Fantasy I - Des Débuts Humbles"
+description: "Aujourd'hui, j'ai fini le premier jeu d'un long marathon. Alors, c'était comment les débuts de Final Fantasy ?"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: "2023-10-15"
+updated-date: "2025-10-15"
 lang: fr
 image:
   path: /assets/img/posts_preview_images/ff1_logo.jpeg
-  alt: Final Fantasy I Logo # or base64 URI
+  alt: Logo de Final Fantasy I
 ---
-
-Evidemment, ça a mal vieilli. Mais aujourd'hui, on pose la manette et on revisite le premier épisode de la licence.  
-Alors, c'était comment les débuts de Final Fantasy ?
-
-----
 
 > J'ai joué au jeu avec xp et gils x4. J'ai aussi utilisé un guide pour les deux derniers tiers du jeu
 {: .prompt-info }
