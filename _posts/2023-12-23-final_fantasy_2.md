@@ -1,10 +1,9 @@
 ---
 title:  "Final Fantasy II - Une vraie révolution"
 description: "Final Fantasy II n'est quasiment jamais discuté. Mais comment l'expliquer quand il est aussi révolutionnaire ?"
-tags: final-fantasy
-category: "Final Fantasy Marathon"
-date: "2023-12-23"
-lang: fr
+tags: [final-fantasy]
+category: ["Final Fantasy Marathon"]
+date: 2023-12-23
 image:
   path: /assets/img/posts_preview_images/ff2_logo.jpg
   alt: Logo de Final Fantasy II
@@ -21,6 +20,8 @@ On attend donc de ce second épisode une copie plus aboutie, plus poussée que s
 > J'ai joué au jeu avec xp et gils x4.   
 > J'ai aussi utilisé un guide durant la quasi totalité du jeu
 {: .prompt-warning }
+
+<!-- - [Article de Lost Levels datant d'Octobre 2012](http://web.archive.org/web/20121025152943/https://www.lostlevels.org/200312/200312-ffan2.shtml) -->
 
 ## Graphismes et Musique
 

@@ -4,7 +4,7 @@
   icon: "fab fa-github"
 
 - type: bluesky
-  icon: "bi bi-bluesky"
+  icon: "fa-brands fa-square-bluesky"
   url: "https://bsky.app/profile/nothon.bsky.social"
 
 # - type: email

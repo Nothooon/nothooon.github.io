@@ -54,8 +54,8 @@ notification:
 
 post:
   written_by: Par
-  posted: Posté
-  updated: Mis à jour
+  posted: Posté le
+  updated: Mis à jour le
   words: mots
   pageview_measure: vues
   read_time:

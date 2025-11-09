@@ -1,11 +1,10 @@
 ---
 title:  "Marathon Final Fantasy: le \"Pourquoi ?\" et ma progression"
 description: "Pourquoi j'ai commence ce marathon ? A quels jeux je vais jouer ? Ou est-ce que j'en suis actuellement ? Toutes les reponses sont ici !"
-tags: final-fantasy
-category: "Final Fantasy Marathon"
+tags: [final-fantasy]
+category: ["Final Fantasy Marathon"]
 pin: true
-date: "2023-06-15"
-language: fr
+date: 2023-06-15
 ---
 
 ## Pourquoi ce marathon ?

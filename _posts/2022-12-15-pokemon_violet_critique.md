@@ -1,9 +1,8 @@
 ---
 title:  "Pokemon Violet est presque un bon jeu"
 description: "J'ai joué jeu Pokémon le plus décevant que j'ai pu avoir en main. Mais c'est aussi celui qui a le plus de potentiel ?" 
-tags: pokemon
-date: "2022-12-15"
-lang: fr
+tags: [pokemon]
+date: 2022-12-15
 image:
   path: /assets/img/posts_preview_images/pokemon_violet_logo.jpg
   alt: Logo de Pokemon Violet
