@@ -78,7 +78,7 @@ L'obtention prématurée de l'aéronef renforce cette impression et la carte par
 Puis, Cid m'apprend que ma fraterie ne vient pas de notre île, mais de la terre en dessous et m'invite à partir l'explorer.
 Tout était donc bel et bien fait pour nous faire nous sentir à l'étroit. Ou plus exactement, pour nous donner envie de bien plus que ce que l'île natale de nos protagonistes ne pouvait nous offrir.  
 
-J'avance alors par delà les limites de l'île volante à bord de mon aéronef et me voici enfin sur la vraie map de Final Fantasy III et devant moi, un océan qui semble infini avec une . Je me balade quelques temps avec mon aéronef puis je pose la manette et je me laisse bercer par [_The Boundless Ocean_](https://youtu.be/fQqGbzGNr_c) et le doux bruit des vagues.
+J'avance alors par delà les limites de l'île volante à bord de mon aéronef et me voici enfin sur la vraie map de Final Fantasy III et devant moi, un océan qui semble infini. Je me balade quelques temps avec mon aéronef puis je pose la manette et je me laisse bercer par [_The Boundless Ocean_](https://youtu.be/fQqGbzGNr_c) et le doux bruit des vagues.
 
 Il y a de ces moments mémorables dans les jeux vidéos, où tous les éléments s'alignent pour créer un moment magique. A titre personnel, la découverte du vrai monde de FF3 en fait partie. La beauté de l'océan, le changement total de paysage et d'envergure, cette satisfaction de se dire que le jeu a déjà dépassé toutes mes attente, le tout sublimé par une musique qui encapsule parfaitement cette beauté sereine, celle d'un monde qui a tant d'histoires à nous raconter et tant de mystères à nous proposer.
 
@@ -92,43 +92,67 @@ _On est d'accord, c'est suspect comme carte non ?_
 
 La révélation de l'océan m'avait rassurée sur l'envergue de ce jeu. Par contre, compléter le premier donjon m'a fait complètement revoir mes attentes pour ce dernier, mais je ne vous dirais pas pourquoi.
 
-Il n'y aura pas plus de spoilers dans cet article ! Jouez au jeu par vous même !
+Il n'y aura (presque) pas d'autres spoilers dans cet article ! Jouez au jeu par vous même !
 
-## Retour sur la technique
+## Un monde vivant et animé
 
-Le jeu semble bien plus vivant. Les PNJs bougent plus souvent et ont des dialogues plus naturels, ils ont des designs plus variés (de même pour les monstres) et ils peuvent aussi nous suivre pendant certains passages du scénario. 
+Final Fantasy III est un jeu bien plus vivant que ces deux ainés. Les PNJs bougent plus souvent et ont des dialogues plus naturels, ils ont des designs plus variés (de même pour les monstres) et ils peuvent aussi nous suivre pendant certains passages du scénario. 
 
+Final Fantasy 2 avait mis le pied à l'étrier en donnant une voix à nos personnages et Final Fantasy 3 persiste dans cette direction. Nos personnages parlent, expriment des doutes, des regrets, de la joie. Les PNJs bénéficient également de ce traitement avec plus de traits reconnaissables, plus d'animations et plus de personnalité. On a de plus en plus l'impression de lire des dialogues plutôt que des discours d'exposition. 
 
-Les environnements sont aussi plus détaillés. Les villes et villages ont tous une identité propren, construite non seulement grâce à la taille des villes, bien plus variée, mais aussi car chaque village est unique. Pour le dire grossièrement, il n'y a plus juste quelques villages copiés/collés, il y a "le village des bardes", "la grande ville centrale", "le village des invocateurs", etc... Et chacun de ses villages a sa propre "culture", sa propre architecture.
+Tous les personnages (jouables ou non, importants ou non) restent par contre archetypaux, unidimensionnels. Ils ont un trait de caractère qui les définissent et n'en bougeront jamais, ce qui les rend un peu plats. La seule exception à mes yeux est Xande, le méchant principal du jeu, dont l'histoire et les motivations le rendent plus profond (c'est d'ailleurs très bien que ce traitement unique dans le jeu soit réservé à son antagoniste principal).
 
-Grâce à cette attention aux détails, le monde de FF3 gagne en crédibilité et en mémorabilité. C'est une grosse amélioration de l'expérience du joueur, qui s'orientera plus facilement, mais aussi pour le jeu en lui-même qui restera plus durablement dans les mémoires.
+Les environnements sont aussi plus détaillés. Les villes et villages ont tous une identité propre, construite non seulement grâce à la taille des villes, bien plus variée, mais aussi car chaque village est unique. Pour le dire grossièrement, il n'y a plus juste quelques villages copiés/collés, il y a "le village des bardes", "la grande ville centrale", "le village des invocateurs", etc... Et chacun de ses villages a sa propre "culture", sa propre architecture.
 
 On notera quelques ajouts visuels plus discrets, comme la transparence lorsqu'on passe sous un pont ou derrière un batiment, ou encore la possibilité pour les ennemis d'apparaitre d'un côté ou l'autre de l'écran.
 
-Final Fantasy 2 avait mis le pied à l'étrier en donnant une voix à nos personnages et Final Fantasy 3 persiste dans cette direction. Nos personnages parlent, expriment des doutes, des regrets, de la joie. Les PNJs bénéficient également de ce traitement avec plus de traits reconnaissables, plus d'animations et plus de personnalité. On a de plus en plus l'impression de lire des dialogues plutôt que des discours d'exposition. Il reste encore beaucoup de progrès à faire, notamment parce qu'aucun personnage n'a d'arc de développement, mais chaque chose en son temps.
-
-Toutes ces améliorations cumulées rendent le jeu bien plus clair, bien plus compréhensible. Pour la première fois, je n'ai pas eu besoin de lire une soluce pour finir le jeu !
 L'histoire se paie aussi le luxe d'avoir de vraies cinématiques et pas uniquement des scènes de dialogues avec quelques mouvements en plus. Ici, pour la première fois, la caméra quitte les personnages principaux pour nous montrer ce qu'il se passe dans le monde. Encore une bonne idée pour développer l'histoire de façon plus convaincante.
 
-## Le système de combat se cherche
+Grâce à ces améliorations des visuels et de l'écriture, le monde de FF3 gagne en crédibilité et en mémorabilité. C'est une grosse amélioration de l'expérience du joueur, qui s'orientera plus facilement, mais aussi pour le jeu en lui-même qui restera plus durablement dans les mémoires.  
 
-Cette fois, les jobs sont très nombreux (22 au total !) et on peut les changer à volonté, n'importe où, n'importe quand. En plus du niveau de vos personnages, les jobs disposent aussi de leur propre niveau. Augmenter le niveau d'un job vous donnera divers avantages: plus d'emplacements de sorts (très bonne idées), plus de dégats, de précision, de nouvelles techniques uniques à chaque job.
-Ma critique principale envers FF1 étant la gestion des emplacements de sorts, j'étais ravi de voir ces améliorations dès le début du jeu.
-Chaque job a accès à différentes armes, différents poids d'armure et différents sorts. On notera aussi quelques subtilités comme le Karatéka qui frappe plus fort lorsqu'il n'a pas d'arme.
-Enfin, avec autant de jobs, on a aussi bien plus de variété. c'est dans Final Fantasy 3 que l'invocateur, l'érudit, le chevalier noir, le chevalier dragon et d'autres apparaissent. L'invocateur amène avec lui les.. invocations,  un troisième type de magie en plus de la magie noire et la magie blanche. Le Géomancien est un mage dont les sorts dépendant de l'environnement (et sont donc aléatoires), le Barde soutient l'équipe avec ses chansons, le chevalier oignon pue la merde.
+Je me suis senti vite impliqué dans ce monde et intéressé par ce qu'il s'y tramait (forcément, après une intro pareille..), ça m'a permis de comprendre ce que je devais faire, de créer un cap clair. 
+Pour la première fois, je n'ai pas eu besoin de lire une soluce pour finir le jeu !  
 
-Cependant, les améliorations s'arrêtent ici pour le système de combat et les défauts présents dans FF1 et 2 subsistent. L'ordre d'actions n'est toujours pas connu (bien que manipulable avec le Barde dans une certaine mesure) et il est toujours possible de se faire arnaquer par les bosses, qui peuvent balancer une grosse AOE en dernier dans le tour, puis la même AOE en première action du tour suivant, ce qui n'offre aucune parade et résulte souvent en un game over.
+## C'est la première fois que je suis trop content d'avoir un job
+
+Pour la troisième fois en trois jeux, Square chamboule de nouveau son système de combat et de progression.  
+
+On reste sur du combat au tour par tour et le jeu garde les actions basiques des précedents opus: attaque, défense, magie, objets.  
+Pour cet épisode, SE a décidé de revenir à un mécanisme d'emplacements de sorts du premier Final Fantasy plutôt que le mana de Final Fantasy II. Je n'étais pas joisse quand j'ai découvert ça, mais heureusement, le nombre d'emplacements de sorts est améliorable facilement.  
+Dans Final Fantasy I, le nombre limité d'emplacements de sorts nous forçait à faire beaucoup d'aller-retours jusqu'aux auberges ou à être très prudent quant à l'utilisation de nos meilleurs sorts. Heureusement, ce n'est plus du tout le cas dans Final Fantasy III, puisqu'un personnage entrainé en magie arrivera à court d'emplacement bien plus tard.
+
+La grande nouveauté de Final Fantasy III est le système de job. Les jobs existaient dans FF1 mais étaient complètement anecdotiques (réduits à un choix irreversible en tout début de partie) et ils étaient carrément absents de FF2.  
+
+Cette fois, les jobs sont au coeur du gameplay du jeu. Ils sont très nombreux (22 au total !), on peut en changer à volonté, n'importe où, n'importe quand une fois qu'ils ont été débloqués.
+Chaque job a accès à différentes armes, différentes classes d'armures et différents sorts. Certains jobs étoffent même votre barre d'action en y ajoutant jusqu'à deux nouvelles actions, exclusives à ces jobs. Par exemple, un Chevalier Dragon pourra équiper des lances et des armures moyennes et pourra utiliser la capacité "Jump", tandis qu'un Invocateur équipera des sceptres, une armure légère et vous permettra d'utiliser l'action "Summon".
+
+A force de combattre avec un job, son niveau pour le personnage équipé augmente et débloque divers avantages: plus d'emplacements de sorts (très bonne idée), plus de dégats, de précision, de nouvelles techniques uniques à chaque job.  
+
+Enfin, avec autant de jobs, on a aussi bien plus de variété. c'est dans Final Fantasy 3 que beaucoup de jobs iconiques de la licence apparaissent: l'invocateur, l'érudit, le chevalier noir, le chevalier dragon et le géomancien en tête de file.  
+L'invocateur amène avec lui les.. invocations (un troisième type de magie en plus de la magie noire et la magie blanche), c'est dans cet opus que l'emblématique Saut du Chevalier Dragon apparait, le Géomancien pratique la magie tellurique aux effets aléatoires dépendant du terrain sur lequeul on combat, le Barde soutient l'équipe avec des chansons qu'il apprend en parcourant le monde, le Chevalier Oignon pue la merde, etc...
+
+Cependant, certains défauts de FF1 et 2 subsistent. L'ordre d'actions n'est toujours pas connu (bien que manipulable avec le Barde dans une certaine mesure) et il est toujours possible de se faire arnaquer par les bosses, qui peuvent balancer une grosse AOE en dernier dans le tour, puis la même AOE en première action du tour suivant, ce qui n'offre aucune parade et résulte souvent en un game over.  
+
 En parlant d'AOE, vous n'aurez aucun sort de zone pour la très grande majorité du jeu . Les seuls sorts de zones sont les invocations et les sorts de niveau 8 (le plus haut niveau de sort du jeu), et même si certains jobs ont une action de job qui inflige des dégats de zone, ces jobs ne seront accessibles que dans la seconde moitié du jeu. C'est un peu moins gênant dans cet opus que dans le précédent, puisque les groupes de monstres dépasseront rarement les quatre ennemis, mais je ne comprends quand même pas pourquoi les options de dégats de zones sont aussi limitées.
 
-On en arrive à la progression au sein du jeu. La grande variété de jobs disponibles et la flexibilité avec laquelle le joueur peut changer son équipe s'accompagnent d'une plus grande variété d'ennemis. Certains résistent à la magie, se soignent quand vous les frappez avec le mauvais éléments, changent leurs résistances au milieu du combat, j'en passe et des meilleures. Tous ces éléments pointent vers un désir de pousser le joueur à expérimenter, à varier ses compositions d'équipes pour les adapter aux divers combats. Cependant, comme dit plus haut, beaucoup de bonus viennent du niveau de votre job. Si vous voulez en changer régulièrement, il faudra donc farmer, farmer, farmer. Je ne pense pas que ce soit un défaut en soit, mais je préfère soulever ce point au cas où votre lecture vous donnerait envie de (re)jouer à FF3.
+> Au moment d'écrire ces lignes, ce pauvre Nothon ne savait pas qu'il suffisait d'appuyer sur la flèche de gauche en ciblant des ennemis (ou celle de droite si on veut cibler toute son équipe) pour lancer un sort sur tous les ennemis ! Il ne s'en rendra compte qu'à la fin de son aventure sur FF4. Quelle tristesse, il aurait dû lire le manuel du jeu (complètement absent de la version Pixel Remaster) ! 
+> Il est bon de noter que certains sorts sont systématiquement multicibles (ce sont ceux évoqué dans le paragraphe précédents), tandis que d'autres sont forcément monocibles.
+{: .prompt-warning }
 
-Il y a de toute façon de grandes chances pour que vous passiez du temps à farmer à un moment du jeu. Certains bosses sont vraiments corriaces et vous écraseront sans pitiés, plusieurs fois. Alors dans ce cas, pas le choix, il faut pex ! Farm de niveau, de gils, de niveau de jobs, tout le monde y passe ! Et pour ça, on dit merci à l'option xp et gils x4 proposée par le pixel remaster. Et si ma dernière phrase vous a choqué, je vous répondrais que j'ai encore 17 ou 18 jeux de la licence à découvrir, donc hein, pouet !
+On en arrive à la progression au sein du jeu. La grande variété de jobs disponibles et la flexibilité avec laquelle le joueur peut changer son équipe s'accompagnent d'une plus grande variété d'ennemis. Certains résistent à la magie, se soignent quand vous les frappez avec le mauvais éléments, changent leurs résistances au milieu du combat, j'en passe et des meilleurs.  
+Tous ces éléments pointent vers un désir de pousser le joueur à expérimenter, à varier ses compositions d'équipes pour les adapter aux divers combats. Cependant, comme dit plus haut, beaucoup de bonus viennent du niveau de votre job. Si vous voulez en changer régulièrement, il faudra donc farmer, farmer, farmer. Je ne pense pas que ce soit un défaut en soit, mais je préfère soulever ce point au cas où votre lecture vous donnerait envie de (re)jouer à FF3.
+
+Il y a de toute façon de grandes chances pour que vous passiez du temps à farmer à un moment du jeu. Certains bosses sont vraiments corriaces et vous écraseront sans pitié, plusieurs fois. Alors dans ce cas, pas le choix, il faut pex ! Augmentation de niveau, accumulation de gils, et optimisation de son équipement, la totale quoi ! Et pour ça, on dit merci à l'option xp et gils x4 proposée par le pixel remaster. Et si cette dernière phrase vous a choqué, je vous répondrais que j'ai encore 17 ou 18 jeux de la licence à découvrir, donc peu de temps à perdre dans du grind !
 
 ## L'exploration se peaufine
 
-Final Fantasy 3 nous pousse à l'exploration avec une technique vieille comme le monde: nous mettre sous le nez des endroits inaccessibles dans un premier temps. En dissémninant sur la carte ses points d'intérêts de la sorte, le joueur va beaucoup se balader et ainsi apprendre la carte, retenir où sont les différentes grottes, où se situent les endroits qu'il n'a pas pu atteindre. Le tout est accompagné de dialogues de PNJs nous indiquant plus ou moins subtilement l'emplacement de trésors qui lui aurait échappé. Enfin, cerise sur le gateau, la plupart des lieux se distinguent par un PNj particulier, un monument ou une ambiance. Dans le monde de Final Fantasy 3, vous ne trouverez pas "Village 1" ou "Village 2", vous trouverez "Le village des invocateurs", "Le manoir doré" ou "L'immense ville du milieu de la carte". Créer autant de lieux reconnaissables permet au joueur de s'investir dans ce monde et lui permet également de se repérer bien plus rapidement pour pouvoir enchainer les missions sans se perdre. L'objectif pour cet opus me semble clair: casser la linéarité de la progression et rendre le jeu immersif autant que faire se peut.
+Final Fantasy 3 nous pousse à l'exploration avec une technique vieille comme le monde: nous mettre sous le nez des endroits inaccessibles dès le début du jeu, malgré notre aéronef. En dissémninant sur la carte ses points d'intérêts de la sorte, nous allons beaucoup nous balader, aller et venir après chaque événement majeur et ainsi apprendre la carte, retenir où sont les différentes grottes et endroits que nous n'avons pas pu atteindre.  
 
-J'ai émis quelques critiques envers le système de combat, mais je n'en ai aucune contre le terrain de jeu proposé par Square. La copie est impécable à ce niveau et c'est même la découverte de la carte qui provoque le premier effet "WOW" de la licence jusqu'ici. Je ne pensais pas qu'il était possible de faire rentrer autant de choses dans une cartouche de NES (titre).
+Le tout est accompagné de dialogues de PNJs nous indiquant plus ou moins subtilement l'emplacement de trésors qui nous auraient échappés. Enfin, cerise sur le gateau, la plupart des lieux se distinguent par un PNj particulier, un monument ou une ambiance. Dans le monde de Final Fantasy III, vous ne trouverez pas "Village 1" ou "Village 2", vous trouverez "Le village des invocateurs", "Le manoir doré" ou "L'immense ville du milieu de la carte" (comme dis [plus haut dans cet article](#un-monde-vivant-et-animé)).  
+
+J'ai émis quelques critiques envers le système de combat, mais je n'en ai aucune envers le terrain de jeu proposé par Square. La copie est impécable à ce niveau et c'est même la découverte de la carte qui provoque le premier effet "WOW" de la licence jusqu'ici.  
+
+Je ne pensais vraiment pas qu'il était possible de faire rentrer autant de choses dans une cartouche de NES (titre).
 
 ## L'héritage de la licence se construit
 
@@ -138,6 +162,7 @@ Avec un scénario centré autour des cristaux, on retrouve évidemment le leitmo
 
 #### Ressources utilisée pour l'écriture:
 
+- [Les GOATS Finaland](https://www.finaland.com/?rub=ff3)
 - [Manuel original en japonais](https://archive.org/details/finalfantasyiiifchiresscans/Final%20Fantasy%20III%20-%20Manual%20%28Searchable%29/page/n43/mode/2up)
 - [Manuel traduit (mais mise en page à chier)](https://www.retrogames.cz/manualy/NES/Final_Fantasy_III_-_NES_-_Manual.pdf)
 - [Article d'Eurogamer datant de Septembre 2007](https://www.eurogamer.net/fantasy-reborn-interview)
