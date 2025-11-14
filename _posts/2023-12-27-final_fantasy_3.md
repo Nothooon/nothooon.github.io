@@ -22,6 +22,7 @@ Cet article devrait être un peu plus personnel. J'ai mis énormément de temps 
 
 On va tout de même respecter la tradition et commencer par expliquer comment le jeu fonctionne.
 
+---
 ## Histoire et enjeux
 
 Final Fantasy III est sorti en Avril 1990 sur Famicom (l'équivalent de notre NES), exclusivement au Japon (comme les deux opus précédents). Il a été développé par globalement la même équipe que les deux premiers jeux de la série. Il est dirigé et écrit par Hironobu Sakaguchi (en collaboration avec Kenji Terada pour l'écriture), avec Hiromichi Tanaka au gameplay, des personnages designés par le légendaire Yoshitaka Amano et de la musique composée par le non moins légendaire Nobuo Uematsu.
@@ -51,6 +52,7 @@ C'est cette taille, cette envergure qui repoussera encore et encore la sortie in
 
 Par conséquent, beaucoup de gens ne connaissent le jeu que grâce à ce remake 3D, mais c'est bien de la version Pixel Remaster que nous allons parler.  
 
+---
 ## Scénario
 
 Final Fantasy III nous met dans la peau de quatre orphelins vivant sur une île dans le ciel.
@@ -64,6 +66,7 @@ Un scénario très simple, mais qui suffit à offrir plus de world-building que 
 
 Je me suis posé toutes ces questions et c'est une première pour la licence. Jusqu'ici, on n'avait que très peu de mystères à élucider. Le méchant était méchant, nous incarnions les gentils et ça n'allait pas plus loin. Final Fantasy III nous accroche très vite et ça va nous aider à supporter un scénario qui, je le répète, est très simple et terre à terre.
 
+---
 ## L'appel de l'aventure
 
 La première partie commence comme dans tous les autres Final Fantasy. On est très vite balancé dans nos premières péripéties, puisque même notre petite île, perdue au milieu des cieux, subit quelques problèmes.
@@ -94,6 +97,7 @@ La révélation de l'océan m'avait rassurée sur l'envergue de ce jeu. Par cont
 
 Il n'y aura (presque) pas d'autres spoilers dans cet article ! Jouez au jeu par vous même !
 
+---
 ## Un monde vivant et animé
 
 Final Fantasy III est un jeu bien plus vivant que ces deux ainés. Les PNJs bougent plus souvent et ont des dialogues plus naturels, ils ont des designs plus variés (de même pour les monstres) et ils peuvent aussi nous suivre pendant certains passages du scénario. 
@@ -113,6 +117,25 @@ Grâce à ces améliorations des visuels et de l'écriture, le monde de FF3 gagn
 Je me suis senti vite impliqué dans ce monde et intéressé par ce qu'il s'y tramait (forcément, après une intro pareille..), ça m'a permis de comprendre ce que je devais faire, de créer un cap clair. 
 Pour la première fois, je n'ai pas eu besoin de lire une soluce pour finir le jeu !  
 
+### Petit point sur la musique
+
+Il me peine grandement de devoir me contenter d'une sous-section pour la musique. Malheureusement, je suis largement profane dans le domaine.
+
+*Suprenamment* la BO de Final Fantasy III est excellente et excelle vraiment pour renforcer l'ambiance du jeu. Elle vient sublimer les améliorations cités ci-dessus.
+
+Nobuo Uematsu nous a gracié de 44 morceaux, 20 de plus que pour FF2. La majeure partie des titres de cette BO sont des thèmes de lieux, utilisés pour marquer l'ambiance de ces derniers. J'ai déjà pu en parler plus tôt, mais c'est par la musique que beaucoup d'émotions passent. La découverte de la map complète du jeu n'aurait jamais été la même sans [`Eternal Wind`](https://youtu.be/XoiaKyMwrS0) et [`Boundless Ocean`](https://youtu.be/XoiaKyMwrS0) (dont la [version Pixel Remaster](https://youtu.be/jRRaX4H-HZk) est sublime d'ailleurs).
+
+On a même le droit au premier thème de personnage avec [Elia, The Maiden of Water](https://youtu.be/srjrAkL2teM?si=QR2rPwFYkALLb809) !
+
+En vrac, je vous recommande [`Battle 1`](https://youtu.be/UoWc_cpkkWo), [Shrine of Nept](https://youtu.be/iVoHHdJhovI), [Let Me Know the Truth](https://youtu.be/hGplNxh-kF4), [The Crystal Tower](https://youtu.be/zqYxwYhSRkQ) ou encore [This is the Last Battle](https://youtu.be/0mCNpo0EkNo).
+
+Si vous êtes un joueur de Final Fantasy XIV, déjà, félicitations et ensuite, certaines de ces musiques vous sembleront familères. Elles ont en effet été reprises et réinterprétées pour la série de raids de la Tour de Cristal et par extension pour le personnage de G'Raha tia !
+
+La BO complète existe en deux versions:
+- [BO Originale sur NES](https://www.youtube.com/playlist?list=OLAK5uy_k3AniQKLw_24eB1v2PwXuf_uudrVzk4BU)
+- [BO remasterisée pour la version Pixel Remaster](https://www.youtube.com/playlist?list=PLYdkxyPei727l83SINHwEzrKdlOznM2Vs)
+
+---
 ## C'est la première fois que je suis trop content d'avoir un job
 
 Pour la troisième fois en trois jeux, Square chamboule de nouveau son système de combat et de progression.  
@@ -144,6 +167,7 @@ Tous ces éléments pointent vers un désir de pousser le joueur à expérimente
 
 Il y a de toute façon de grandes chances pour que vous passiez du temps à farmer à un moment du jeu. Certains bosses sont vraiments corriaces et vous écraseront sans pitié, plusieurs fois. Alors dans ce cas, pas le choix, il faut pex ! Augmentation de niveau, accumulation de gils, et optimisation de son équipement, la totale quoi ! Et pour ça, on dit merci à l'option xp et gils x4 proposée par le pixel remaster. Et si cette dernière phrase vous a choqué, je vous répondrais que j'ai encore 17 ou 18 jeux de la licence à découvrir, donc peu de temps à perdre dans du grind !
 
+---
 ## L'exploration se peaufine
 
 Final Fantasy 3 nous pousse à l'exploration avec une technique vieille comme le monde: nous mettre sous le nez des endroits inaccessibles dès le début du jeu, malgré notre aéronef. En dissémninant sur la carte ses points d'intérêts de la sorte, nous allons beaucoup nous balader, aller et venir après chaque événement majeur et ainsi apprendre la carte, retenir où sont les différentes grottes et endroits que nous n'avons pas pu atteindre.  
@@ -154,12 +178,22 @@ J'ai émis quelques critiques envers le système de combat, mais je n'en ai aucu
 
 Je ne pensais vraiment pas qu'il était possible de faire rentrer autant de choses dans une cartouche de NES (titre).
 
+---
 ## L'héritage de la licence se construit
 
-Avec un scénario centré autour des cristaux, on retrouve évidemment le leitmotiv de la licence (présent dans FF1 mais pas dans le 2 si ma mémoire est bonne). On retrouve également des thèmes musicaux qui ont fait leur petit bonhomme de chemin jusqu'à FF14 notamment (coucou Eternal Wind, coucou les musiques de la Tour de Cristal). J'admet avoir eu quelques frissons en reconnaissant ces mélodies qui me sont si familières grâce à leur intégration dans divers aspects de Final Fantasy XIV. Mais même sans cet aspect "nostalgique" qui est propre à mon expérience de jeu, les musiques sont excellentes. Nobuo Uematsu nous propose aussi bien des balades calmes et envoutantes que des musiques exprimant la gravité du mal qui s'abat sur le monde. Que ce soit la version original en 8-bits ou la version remasterisée du Pixel Remaster, je ne peux que vous recommander d'y jeter une oreille. Je ne peux pas conclure cette partie sur la musique sans vous donner une petite liste de morceaux à écouter: `The Prelude`, `Eternal Wind`, `Chocobos!`, `The Crystal Tower`, `Forbidden Land` et `This is the Last Battle`.
+Comme disait Ian Fleming: "Une fois, c'est le hasard. Deux fois, c'est une coïncidence. Trois fois, c'est l'héritage d'une série de JRPGs qui se construit" (si si, il a dit ça). 
 
-## Conclusion
+L'utilisation des cristaux est une invention de Final Fantasy III qui sera par la suite un motif récurrent du scénario de beaucoup de Final Fantasy (le 4, le 5 et le 14 notamment et la trilogie FF13 est même nommée "Fabula nova CRYSTALLIS"). Les thèmes musicaux de FF3 feront leur petit bonhomme de chemin jusqu'à FF14, preuve de leur impact sur la licence.
 
+C'est aussi le troisième opus utilisant les mêmes noms de sorts, d'objets, d'ennemis, etc... Final Fantasy III ancre ces grimoires et ce bestiaire construits et consolidés depuis le premier épisode. Idem pour l'héritage musical, puisqu'en plus de ces compositions originales, le Prelude et le thème des Chocobos sont aussi de retour. 
+
+Au delà d'être un très bon RPG en soit, Final Fantasy III montre surtout que Square est conscient qu'ils ont de l'or entre les mains. FF3 est la fondation de ce que sera la licence pour les années à venir. Il installe définitivement tout ce qu'on peut attendre en terme de gameplay et d'aventure d'un Final Fantasy.
+
+Ça en fait un jeu toujours agréable à jouer et rejouer, dans lequel on peut découvrir, expérimenter et s'émerveiller de petites découvertes.
+
+Maintenant, la NES est arrivé en bout de course et la licence devra évoluer avec son nouvel hardware et devenir quelque chose d'encore plus grand que le magnifique appel à l'aventure qu'est Final Fantasy III.
+
+---
 #### Ressources utilisée pour l'écriture:
 
 - [Les GOATS Finaland](https://www.finaland.com/?rub=ff3)
