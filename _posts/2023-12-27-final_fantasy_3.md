@@ -194,7 +194,7 @@ Au delà d'être un très bon RPG en soit, Final Fantasy III montre surtout que 
 Maintenant, la NES est arrivé en bout de course et la licence devra évoluer avec son nouvel hardware et devenir quelque chose d'encore plus grand que le magnifique appel à l'aventure qu'est Final Fantasy III.
 
 ---
-#### Ressources utilisée pour l'écriture:
+#### Ressources utilisée pour l'écriture
 
 - [Les GOATS Finaland](https://www.finaland.com/?rub=ff3)
 - [Manuel original en japonais](https://archive.org/details/finalfantasyiiifchiresscans/Final%20Fantasy%20III%20-%20Manual%20%28Searchable%29/page/n43/mode/2up)

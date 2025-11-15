@@ -26,7 +26,8 @@ Le concept est simple: je vous parle des jeux que je finis. Ce sera un format pl
 
 Le concept est simple, alors rentrons vite dans le vif du sujet
 
-## Unpacking
+---
+# Unpacking
 
 ![Bannière d'Unpacking](/assets/img/articles/qb_1_unpacking_neon_white/unpacking_banner.jpg)
 
@@ -41,7 +42,7 @@ Le concept est simple, la prise en main est facile et le tout se joue sans trop 
 
 Tout l'intérêt du jeu est concentré en deux points:
 
-### Sa boucle de gameplay:
+## Sa boucle de gameplay:
 
 Unpacking se joue littéralement à une main. Tout ce qu'il y a faire, c'est cliquer et faire glisser les objets à leur place.  
 Tout l'intérêt du jeu repose dans la réflexion quant à l'agencement que vous voulez donner à votre nouveau chez vous.  
@@ -52,7 +53,7 @@ Par exemple, vous pouvez ranger les livres dans une bibliothèque et les DVDs da
 
 La musique et les effets sonores contribuent à créer une expérience presque toujours relaxante, que j'ai toujours lancé avec plaisir pendant la dizaine de niveaux proposés par Unpacking.
 
-### Sa narration:
+## Sa narration:
 
 Venant d'un jeu aussi simple, il peut être étonnant que sa narration fasse parti des deux points forts du jeu. 
 
@@ -65,7 +66,7 @@ Certains objets et meubles vous suivront au fil des niveaux, certains disparaitr
 
 Tout ça est une démarche complètement volontaire, les succès du jeu existent pour le confirmer. Unpacking a une histoire à raconter et la méthode pour y parvenir est unique et se marie complètement au principe du jeu.
 
-### Conclusion
+## Conclusion
 
 Unpacking est donc une expérience parfaitement calibrée pour nous raconter son histoire. Une histoire touchante et avec laquelle il est très simple de s'attacher à un personnage qui, techniquement, n'existe pas dans le jeu. 
 
@@ -80,7 +81,8 @@ C'est un jeu simple à prendre en main, qui nous raconte une belle histoire d'un
 
 **Unpacking: 7/10**
 
-## Neon White
+---
+# Neon White
 
 ![Bannière de Neon White](/assets/img/articles/qb_1_unpacking_neon_white/neon_white_banner.jpg)
 
@@ -102,7 +104,7 @@ Aussi, j'ajoute Neon White à la liste des jeux qui prouvent que tout jeu devien
 
 Cependant, Neon White est noyé sous les petits problèmes qui s'accumulent et en font une expérience facilement oubliable.
 
-### La narration
+## La narration
 
 Le scénario du jeu est une catastrophe. Il passe du nanardesque au gênant et flirt bien souvent avec un ton trop edgy.
 Même si l'ajout d'un système d'amitié avec les autres personnages (que vous faites progresser en trouvant des secrets dans les niveaux) est une excellente idée, aucune des relations ne semble sincère.
@@ -115,7 +117,7 @@ Enfin, le scénario et le gameplay sont complètement séparés, aucun n'impacte
 
 Il n'y a pas grand chose à sauver à ce niveau là, j'ai très vite arrêté de lire quoique ce soit et j'ai passé tous les dialogues. 
 
-### Un surplus de contenu
+## Un surplus de contenu
 
 C'est assez bizarre à dire, mais j'ai eu le sentiment que Neon White était tout simplement trop long.  
 
@@ -124,7 +126,7 @@ Cependant, plus j'avançais dans le jeu, plus j'avais ce sentiment que beaucoup 
 
 J'aurai préféré avoir moins de niveaux au total pour que le studio ait le temps de rendre chaque niveau amusant. 
 
-### Un gameplay qui s'essoufle
+## Un gameplay qui s'essoufle
 
 Je l'ai précisé dans l'intro, mais Neon White vous propose un système d'armes, chacune accompagné d'un power-up.  
 Le pistolet vous offre un saut supplémentaire, la mitraillette une grenade, l'arbalète un dash en avant, etc...
@@ -137,7 +139,7 @@ Tout ça est vrai pour les premières missions, mais disparait petit à petit: c
 
 Selon moi, tout ça est lié à un manque d'idées pour varier le gameplay, ce qui rejoint mon point précédent: le jeu aurait dû être plus court. On dirait que par manque d'idées, des designers désespérés ont perdu de vue ce qu'ils devaient créer.
 
-### Conclusion
+## Conclusion
 
 Neon White est un jeu avec une base de gameplay très solide. Malheureusement, il est tiré vers le bas par un scénario et des personnages aux fraises et un level design qui s'essoufle et montre ses limites assez vite. 
 

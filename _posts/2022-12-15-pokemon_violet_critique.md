@@ -12,6 +12,7 @@ image:
 
 Pokémon Violet et Ecarlate, c'est le dernier jeu mainline de la série Pokémon, sorti il y a presque un mois déjà. Pokémon Violet c'est aussi 10 millions de ventes en 3 jours, ce qui atomise tous les records: meilleur lancement d'un jeu switch, d'un jeu Pokémon, d'un jeu Nintendo et d'une exclu console. Le problème, c'est que le jeu est vraiment médiocre. Et c'est chiant, je vous explique pourquoi à la fin. D'abord, parlons du jeu. 
 
+---
 ## Le principe du jeu
 
 Dans le fond, Pokémon Violet reste un jeu Pokémon classique. Le jeu commence le jour où notre personnage (toujours âgé de 10 ans) commence son voyage en tant que dresseur, on nous donne le choix entre trois starters et c'est parti ! 
@@ -28,6 +29,7 @@ Alors comment ce jeu se démarque-t-il des autres ? Il y a deux différences maj
 Après la très bonne surprise qu'a été Pokémon Légends: Arceus, je m'attendais à ce que Game Freaks en tire les bonnes leçons et nous propose un jeu Pokémon moderne, innovant et digne de la licence la plus populaire (et lucrative) de la planète. Il y a de grandes chances que vous ayez joué au jeu ou que vous en ayez entendu parler, vous savez donc que __Game Freaks nous a encore une fois tous déçu :)__
 Parlons-en point par point. 
 
+---
 ## Une liberté de choix illusoire
 
 Très tôt, nous avons appris que le jeu était décomposé en trois histoires distinctes et que nous pourrions suivre ces histoires dans n'importe quel ordre, ainsi que compléter les objectifs de ces histoires dans n'importe quel ordre. Ces 3 histoires sont:
@@ -52,6 +54,7 @@ Seconde option: le même type de level-scaling mais étendu à toutes les voies 
 
 En tout cas, la courbe de difficulté proposée ne correspond pas à la liberté fournie au joueur. __Ce dernier doit faire un choix, conscient ou non, entre la liberté d'exploration et le défi proposé.__ S'imposer des handicaps, c'était marrant dans les anciens jeux et leur monde en couloir. Forcer les joueurs à le faire dans un jeu qui prône la liberté, c'est stupide.
 
+---
 ## Un jeu pas si difficile
 
 Les jeux Pokémon ont toujours été très simples, surtout pour un public adulte, qui connait les mécaniques de la série depuis de nombreuses années maintenant. C'est toujours le cas pour cet opus. Au delà du problème d'absence de level-scaling discuté plus tôt, le jeu marche dans les traces de ses prédécesseurs. Il n'empêche que lors de mon playthrough, j'ai rencontré quelques adversaires un peu plus coriaces, surtout en fin de partie. Je pense notamment au 5ème titan puis au combat suivant dans cette voie, à la bataille finale et à l'arène électrique (je ne pense pas qu'elle soit plus difficile que les autres, j'ai juste galéré dessus personnellement). 
@@ -64,6 +67,7 @@ Avec cette équipe, j'ai pu triompher des derniers adversaires du jeu mais pas a
 
 Au moment où j'écris cet article, je n'ai pas encore touché au post-game, je ne sais donc pas s'il y a un super dresseur/combat très difficile qui m'attend (je sens bien venir une dernière petite montée en puissante de Menzi).
 
+---
 ## Un open-world vraiment pénible
 
 J'ai mentionné que le jeu était un open-world, mais quand est-il vraiment ? La carte du monde est réellement ouverte. Une fois le prologue passé, vous pouvez vraiment explorer  l'entièreté de la map sur le dos de votre monture. Certes, certains endroits seront difficiles d'accès sans améliorer les capacités de votre monture, mais théoriquement, vous pouvez aller partout. C'est bien, c'est ce qu'on attend d'un open-world: pouvoir se faire démolir par des ennemis bien trop fort pour nous dès le début du jeu (Territorial Rotbart my beloved).
@@ -82,6 +86,7 @@ Je profite de cette partie sur l'aspect technique du jeu pour mentionner en vrac
 - Monture bloquées après un saut
 - Luminosité vraiment étrange à l'entrée/sortie des grottes (il semblerait que le jeu passe en plein jour pour pouvoir éclairer les grottes, ce qui créé de drôles d'impressions lorsqu'on en sort)
 
+---
 ## Et niveau gameplay alors ? 
 
 Le système de combat ne change pas, là encore, c'est du classique Pokémon. Certaines mécaniques sont déplacées, comme la pension par exemple. Il n'y a pas de pension dans ce jeu, à la place, la nouvelle mécanique du Pic-Nic permet de faire vos Pokemons se reproduire. Et comment on fait ça ? En attendant plusieurs minutes réelles. En échange, vous avez l'avantage de pouvoir faire ça n'importe où/n'importe quand et d'avoir plusieurs œufs en un seul pic-nic. Comme partout dans le jeu, tout aspect positif est contrebalancé par des aspects négatifs. 
@@ -90,6 +95,7 @@ Autre exemple de ce phénomène: les raids tera. Les raids dynamax de Pokemon Sw
 
 Par contre, un très gros point positif du jeu est l'accessibilité à la stratégie. Obtenir des pokémons compétitivement viables est toujours laborieux. IVs, nature, moveset, eggmoves, talents, tous ces paramètres primordiaux pour obtenir un pokémon compétitivement viable étaient bien trop dépendants du hasard, résultant en des heures de grind pour constituer sa team. Dans Pokemon Violet, beaucoup de ces aspects peuvent être facilement contrôlés par le joueur. Objets pour modifier la nature, pour copier les eggmoves, pour obtenir le talent caché et pour changer le type tera. Les CTs sont de nouveau à usage unique mais peuvent être fabriquées dans tous les centres Pokemon. La seule chose que le joueur ne peut contrôler, ce sont les IVs de ses pokémons. Cette démarche avait déjà commencé dans Sw/Sh et est très bien poursuivie dans Violet/Ecarlate. Cerise sur le gâteau: la future compatibilité avec Pokémon Home vous permettra de récupérer les petites bestioles que vous aviez entrainées dans les opus précédents et de les transférer dans votre partie de Violet.
 
+---
 ## Un scénario intéressant
 C'est la dernière partie avant la conclusion, tenez le coup !
 
@@ -104,6 +110,7 @@ Le tout est porté par __une bande-son exceptionnelle__, comme toujours. Les mus
 
 Voilà, j'ai parlé de tout ce dont je voulais parler sur ce jeu, c'est l'heure de la conclusion.
 
+---
 ## La grande conclusion
 
 Vous l'aurez compris au fil de votre lecture, Pokemon Violet est une expérience frustrante, décevante et parfois pénible. __Le jeu nous montre un potentiel vraiment excellent ruiné par des performances techniques désastreuses et des décisions de game design étranges, voire incohérentes.__ J'ai beaucoup entendu et lu des réflexions comme "le jeu est vraiment bon si on oublie les problèmes techniques", mais je ne suis pas d'accord. La technique fait partie intégrante d'un jeu, on ne peut pas juste l'ignorer et faire comme si de rien n'était. 

@@ -17,7 +17,7 @@ Une meilleure narration, un meilleur gameplay, un meilleur système de progressi
 On attend donc de ce second épisode une copie plus aboutie, plus poussée que son prédécesseur.
 
 ---
-> J'ai joué au jeu avec xp et gils x4.   
+> J'ai joué à la version Pixel Remaster du jeu avec les options xp et gils x4 activées.    
 > J'ai aussi utilisé un guide durant la quasi totalité du jeu
 {: .prompt-warning }
 
@@ -225,3 +225,7 @@ Est-ce que ça en fait forcément un bon jeu ? Non, bien sûr. Par contre, ça e
 
 Il est le premier RPG de l'HISTOIRE (excusez-moi du peu) à laisser au joueur la possibilité de faire ce qu'il veut de ses personnages et il le fait très bien ! Peut-être que The Elder Scrolls tel qu'on le connait n'existerait pas si Final Fantasy II n'avait pas pavé la voie.  
 Même si FF II montre lui aussi clairement son âge (36 ans !), il demeure une expérience que je recommande si vous avez la patience de le prendre véritablement en main.
+
+#### Ressources utilisée pour l'écriture
+  - [Les GOATS Finaland](https://www.finaland.com/?rub=ff2)
+  - [Article de Lost Levels datant de Décembre 2003](http://www.lostlevels.org/200312/200312-ffan2.shtml)

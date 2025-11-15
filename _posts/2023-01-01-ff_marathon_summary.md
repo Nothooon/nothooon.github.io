@@ -25,39 +25,41 @@ Et donc, de ces deux envies est née mon premier engagement, plutôt ambitieux, 
 
 Ce marathon est un défi personnel et surtout une plongée dans la plus grande licence du RPG, genre au combien important et respectés. C'est une licence majeure, fondatrice de bien des choses et qui a ravi des millions de personnes au fil des années. Je me dois de savoir en détail ce qu'il en retourne, j'ai besoin d'expérimenter 40 ans d'évolution du jeu de rôle japonais. 
 
+---
 ## Liste des jeux du marathon
 
 Voici la liste complète des jeux auxquels je jouerai pendant ce marathon.
 Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y inclure mon temps de jeu.
 
-|                                           Jeu                                            |       Statut        |    Date de fin    | Temps de jeu |
-| :--------------------------------------------------------------------------------------: | :-----------------: | :---------------: | :----------: |
-|                [Final Fantasy I]( {{ site.url }}/posts/final_fantasy_1 )                 |       Terminé       |  15 Octobre 2023  |     ~12h     |
-|                [Final Fantasy II]( {{ site.url }}/posts/final_fantasy_2 )                |       Terminé       | 23 Décembre 2023  |     ~9h      |
-|               [Final Fantasy III]( {{ site.url }}/posts/final_fantasy_3 )                |       Terminé       | 27 Décembre 2023  |     ~12h     |
-|                [Final Fantasy IV]( {{ site.url }}/posts/final_fantasy_4 )                |       Terminé       |  27 Janvier 2024  |     ~17h     |
-|                [Final Fantasy V]( {{ site.url }}/posts/final_fantasy_5 )                 |       Terminé       |   12 Juin 2024    |     ~20h     |
-|                [Final Fantasy VI]( {{ site.url }}/posts/final_fantasy_6 )                |       Terminé       | 10 Septembre 2024 |     ~25h     |
-|               [Final Fantasy VII]( {{ site.url }}/posts/final_fantasy_7 )                |       Terminé       | 27 Décembre 2024  |     ~51h     |
-|               [Final Fantasy VIII]( {{ site.url }}/posts/final_fantasy_8 )               |       Terminé       |   26 Juin 2025    |     ~44h     |
-|                [Final Fantasy IX]( {{ site.url }}/posts/final_fantasy_9 )                |       Terminé       |   13 Aout 2025    |     ~35h     |
-|                [Final Fantasy X]( {{ site.url }}/posts/final_fantasy_1 )                 |      En Cours       |         /         |      /       |
-|               [Final Fantasy X-2]( {{ site.url }}/posts/final_fantasy_1 )                | Pas encore commençé |         /         |      /       |
-|               [Final Fantasy XII]( {{ site.url }}/posts/final_fantasy_1 )                | Pas encore commençé |         /         |      /       |
-|               [Final Fantasy XIII]( {{ site.url }}/posts/final_fantasy_1 )               | Pas encore commençé |         /         |      /       |
-|              [Final Fantasy XIII-2]( {{ site.url }}/posts/final_fantasy_1 )              | Pas encore commençé |         /         |      /       |
-|     [Final Fantasy XII-3: Lightning Returns]( {{ site.url }}/posts/final_fantasy_1 )     | Pas encore commençé |         /         |      /       |
-|              [Final Fantasy Type-0]( {{ site.url }}/posts/final_fantasy_1 )              | Pas encore commençé |         /         |      /       |
-|               [Final Fantasy XIV]( {{ site.url }}/posts/final_fantasy_1 )                | Pas encore commençé |         /         |      /       |
-|                [Final Fantasy XV]( {{ site.url }}/posts/final_fantasy_1 )                | Pas encore commençé |         /         |      /       |
-|               [Final Fantasy XVI]( {{ site.url }}/posts/final_fantasy_1 )                | Pas encore commençé |         /         |      /       |
-|             [Final Fantasy Tactics]( {{ site.url }}/posts/final_fantasy_1 )              | Pas encore commençé |         /         |      /       |
-|         [Final Fantasy Tactics Advance]( {{ site.url }}/posts/final_fantasy_1 )          | Pas encore commençé |         /         |      /       |
-| [Final Fantasy Tactics A2: Grimoire of the Rift]( {{ site.url }}/posts/final_fantasy_1 ) | Pas encore commençé |         /         |      /       |
-|     [Final Fantasy VII Crisis Core Reunion]( {{ site.url }}/posts/final_fantasy_1 )      | Pas encore commençé |         /         |      /       |
-|     [Final Fantasy VII Remake + Intergrade]( {{ site.url }}/posts/final_fantasy_1 )      | Pas encore commençé |         /         |      /       |
-|           [Final Fantasy VII Rebirth]( {{ site.url }}/posts/final_fantasy_1 )            | Pas encore commençé |         /         |      /       |
+|                                                Jeu                                                |       Statut        |    Date de fin    | Temps de jeu |
+| :-----------------------------------------------------------------------------------------------: | :-----------------: | :---------------: | :----------: |
+|                     [Final Fantasy I]( {{ site.url }}/posts/final_fantasy_1 )                     |       Terminé       |  15 Octobre 2023  |     ~12h     |
+|                    [Final Fantasy II]( {{ site.url }}/posts/final_fantasy_2 )                     |       Terminé       | 23 Décembre 2023  |     ~9h      |
+|                    [Final Fantasy III]( {{ site.url }}/posts/final_fantasy_3 )                    |       Terminé       | 27 Décembre 2023  |     ~12h     |
+|                    [Final Fantasy IV]( {{ site.url }}/posts/final_fantasy_4 )                     |       Terminé       |  27 Janvier 2024  |     ~17h     |
+|                     [Final Fantasy V]( {{ site.url }}/posts/final_fantasy_5 )                     |       Terminé       |   12 Juin 2024    |     ~20h     |
+|                    [Final Fantasy VI]( {{ site.url }}/posts/final_fantasy_6 )                     |       Terminé       | 10 Septembre 2024 |     ~25h     |
+|                    [Final Fantasy VII]( {{ site.url }}/posts/final_fantasy_7 )                    |       Terminé       | 27 Décembre 2024  |     ~51h     |
+|                   [Final Fantasy VIII]( {{ site.url }}/posts/final_fantasy_8 )                    |       Terminé       |   26 Juin 2025    |     ~44h     |
+|                    [Final Fantasy IX]( {{ site.url }}/posts/final_fantasy_9 )                     |       Terminé       |   13 Aout 2025    |     ~35h     |
+|                    [Final Fantasy X]( {{ site.url }}/posts/final_fantasy_10 )                     |      En Cours       |         /         |      /       |
+|                  [Final Fantasy X-2]( {{ site.url }}/posts/final_fantasy_10_2 )                   | Pas encore commençé |         /         |      /       |
+|                   [Final Fantasy XII]( {{ site.url }}/posts/final_fantasy_12 )                    | Pas encore commençé |         /         |      /       |
+|                   [Final Fantasy XIII]( {{ site.url }}/posts/final_fantasy_13 )                   | Pas encore commençé |         /         |      /       |
+|                 [Final Fantasy XIII-2]( {{ site.url }}/posts/final_fantasy_13_2 )                 | Pas encore commençé |         /         |      /       |
+|        [Final Fantasy XII-3: Lightning Returns]( {{ site.url }}/posts/final_fantasy_13_3 )        | Pas encore commençé |         /         |      /       |
+|                [Final Fantasy Type-0]( {{ site.url }}/posts/final_fantasy_type_0 )                | Pas encore commençé |         /         |      /       |
+|                   [Final Fantasy XIV]( {{ site.url }}/posts/final_fantasy_14 )                    | Pas encore commençé |         /         |      /       |
+|                    [Final Fantasy XV]( {{ site.url }}/posts/final_fantasy_15 )                    | Pas encore commençé |         /         |      /       |
+|                   [Final Fantasy XVI]( {{ site.url }}/posts/final_fantasy_16 )                    | Pas encore commençé |         /         |      /       |
+|               [Final Fantasy Tactics]( {{ site.url }}/posts/final_fantasy_tactics )               | Pas encore commençé |         /         |      /       |
+|       [Final Fantasy Tactics Advance]( {{ site.url }}/posts/final_fantasy_tactics_advance )       | Pas encore commençé |         /         |      /       |
+| [Final Fantasy Tactics A2: Grimoire of the Rift]( {{ site.url }}/posts/final_fantasy_tactics_a2 ) | Pas encore commençé |         /         |      /       |
+|    [Final Fantasy VII Crisis Core Reunion]( {{ site.url }}/posts/final_fantasy_7_crisis_core )    | Pas encore commençé |         /         |      /       |
+|      [Final Fantasy VII Remake + Intergrade]( {{ site.url }}/posts/final_fantasy_7_remake )       | Pas encore commençé |         /         |      /       |
+|            [Final Fantasy VII Rebirth]( {{ site.url }}/posts/final_fantasy_7_rebirth )            | Pas encore commençé |         /         |      /       |
 
+---
 ## Tier List
 
 Je classe les jeux dans une tier list au fur et à mesure de mon avancée, ça permet de résumer à la fois mon progrès et mon avis de façon très superficielle.
