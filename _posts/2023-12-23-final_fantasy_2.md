@@ -228,4 +228,4 @@ Même si FF II montre lui aussi clairement son âge (36 ans !), il demeure une e
 
 #### Ressources utilisée pour l'écriture
   - [Les GOATS Finaland](https://www.finaland.com/?rub=ff2)
-  - [Article de Lost Levels datant de Décembre 2003](http://www.lostlevels.org/200312/200312-ffan2.shtml)
+  - [Article de Lost Levels datant de Décembre 2003](https://www.lostlevels.org/200312/200312-ffan2.shtml)

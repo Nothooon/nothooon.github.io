@@ -79,7 +79,7 @@ Malheureusement, deux petits points viennent noircir ce sympathique tableau:
 Conclusion, Unpacking est une expérience qui vaut les quelques heures qu'il vous demandera pour en arriver à bout, malgré les très petits défauts de l'expérience. 
 C'est un jeu simple à prendre en main, qui nous raconte une belle histoire d'une façon unique. 
 
-**Unpacking: 7/10**
+#### Unpacking: 7/10
 
 ---
 # Neon White
@@ -148,4 +148,4 @@ Tout n'est pas à jeter non plus et si vous arrivez à accrocher à l'histoire d
 Je ne la mentionne qu'ici rapidement, mais la musique du jeu est bonne, elle accompagne bien le gameplay, même si vous répetez le même niveau en boucle.  
 C'est capital pour un jeu de ce genre d'avoir une ambiance sonore qui ne nous donne pas envie de crever lorsqu'on spamme un niveau pour battre un record. 
 
-**Neon White: 6/10**
+#### Neon White: 6/10
