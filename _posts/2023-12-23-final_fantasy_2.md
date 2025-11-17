@@ -227,5 +227,6 @@ Il est le premier RPG de l'HISTOIRE (excusez-moi du peu) à laisser au joueur la
 Même si FF II montre lui aussi clairement son âge (36 ans !), il demeure une expérience que je recommande si vous avez la patience de le prendre véritablement en main.
 
 #### Ressources utilisée pour l'écriture
+
   - [Les GOATS Finaland](https://www.finaland.com/?rub=ff2)
   - [Article de Lost Levels datant de Décembre 2003](https://www.lostlevels.org/200312/200312-ffan2.shtml)
