@@ -56,7 +56,7 @@ A cela s'ajoutent les niveaux de boss (un par chapitre), un 7ème chapitre bonus
 
 On monte donc au chiffre absurde de 283 niveaux au total dans le jeu !
 
-A toute cette quantité de contenu, il faut ajouter les 21 personnages déblocables (certains exclusifs à la version PC ou à la version consoles) et les 7 personnages jouables sous certaines conditions. La plupart de ces personnages sont des caméos d'autres jeux, la plupart indés. Vous pourrez par exemple incarner Steve de Minecraft, un Headcrab de Half-Life ou même
+A toute cette quantité de contenu, il faut ajouter les 21 personnages déblocables (certains exclusifs à la version PC ou à la version consoles) et les 7 personnages jouables sous certaines conditions. La plupart de ces personnages sont des caméos d'autres jeux, la plupart indés. Vous pourrez par exemple incarner Steve de Minecraft, un Headcrab de Half-Life ou même The Kid de I Wanna Be the Guy (vous l'aviez oublié lui avouez).
 
 Et enfin (promis c'est fini après), vous pourrez récolter un total de 100 bandages, vous permettant de débloquer une partie du roaster (les autres étant débloqués en terminant les niveaux Warp Zone)... phew
 
