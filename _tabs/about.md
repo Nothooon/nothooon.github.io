@@ -35,8 +35,8 @@ Ce blog a aussi changé ma façon de consommer les jeux vidéos. Sans pour autan
 
 ### Fondu au noir, retour à la réalité
 
-Je dois encore refaire un tour de mes bibliothèques pour m'assurer que mes données soient à jour, surtout sur Nintendo Switch, mais epuis que j'ai lancé ce blog, en 2023 donc, j'ai fini *au moins* 40 jeux :
-- 4 jeux terminés *(dont 3 Final Fantasy)* en 2023
+Je dois encore refaire un tour de mes bibliothèques pour m'assurer que mes données soient à jour, surtout sur Nintendo Switch, mais epuis que j'ai lancé ce blog, en 2023 donc, j'ai fini *au moins* 46 jeux :
+- 10 jeux terminés *(dont 3 Final Fantasy)* en 2023
 - 18 jeux terminés *(dont 4 Final Fantasy)* en 2024
 - 18 jeux terminés  *(dont 3 Final Fantasy)* en 2025 pour l'instant
 
@@ -61,7 +61,7 @@ C&#x27;est posté par ordre chronologique de quand j&#x27;ai fini les jeux évid
 Et je ne mets pas de note, c&#x27;est trop chiant..</p>&mdash; Nothon :) (<a href="https://bsky.app/profile/did:plc:5ofs5blzpjpkls6gdy3t3he5?ref_src=embed">@nothon.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:5ofs5blzpjpkls6gdy3t3he5/post/3lvvgbuggxs2w?ref_src=embed">8 août 2025 à 16:05</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 
-Si vous repérez des fautes d'orthographes, des coquilles ou des syntaxes bizarres, n'hésitez pas à me les faire remarquer histoire que je corrige tout ça :)
+Si vous repérez des fautes d'orthographes, des coquilles ou des syntaxes bizarres, n'hésitez pas à me les faire remarquer histoire que je corrige tout ça **:)**
 
 
 #### N'arrêtez jamais de créer, faites votre propre site, votre propre journal, votre propre n'importe quoi. Internet est un endroit et c'est à nous de le décorer et l'entretenir, pas à des grands groupes cyniques et fades.
